@@ -1,0 +1,31 @@
+# words flagged as unfamiliar – never allowed in words.txt
+kale
+zucchini
+leek
+asparagus
+persimmon
+starfruit
+mulberry
+nectarine
+cantaloupe
+sorbet
+lager
+absinthe
+sangria
+mimosa
+old fashioned
+bourbon
+hinge
+situationship
+segway
+sarod
+mistletoe
+odia
+dortmund
+kalahari
+gobi
+timex
+seiko
+rouble
+under armour
+dunkin

@@ -1,0 +1,506 @@
+# Brands
+## Premium phone brands
+apple, samsung, oneplus, google pixel, nothing, huawei, sony xperia
+## Chinese phone brands
+xiaomi, redmi, realme, vivo, oppo, iqoo, poco, honor, infinix, tecno
+## Old phone brands
+nokia, motorola, blackberry, htc, lava, micromax, karbonn, sony ericsson
+## Laptop brands
+dell, hp, lenovo, asus, acer, macbook, microsoft surface, msi, thinkpad, chromebook
+## Chip brands
+intel, amd, nvidia, qualcomm, snapdragon, mediatek, exynos, ryzen
+## Tech giants (US)
+microsoft, google, amazon, meta, netflix, tesla, ibm, oracle, adobe, cisco, openai, spacex, twitter
+## Tech giants (China)
+tiktok, alibaba, tencent, bytedance, baidu, huawei tech, xiaomi tech, byd tech
+## Indian IT companies
+tcs, infosys, wipro, hcl, tech mahindra, cognizant, accenture, capgemini, zoho, freshworks, mindtree, mphasis
+## Consulting firms
+deloitte, ey, kpmg, pwc, mckinsey, bcg, bain
+## Indian car brands
+maruti suzuki, hyundai, tata motors, mahindra, kia, honda, toyota, renault, nissan
+## Other car brands
+skoda, volkswagen, mg, jeep, ford, chevrolet, fiat, citroen, byd
+## Luxury car brands
+bmw, mercedes, audi, jaguar, land rover, volvo, lexus, porsche, mini cooper, cadillac
+## Supercar brands
+ferrari, lamborghini, bugatti, rolls royce, bentley, maserati, aston martin, mclaren, koenigsegg, pagani
+## Maruti hatchbacks
+swift, alto, wagon r, baleno, celerio, s presso, maruti 800
+## Maruti sedans and SUVs
+dzire, brezza, ertiga, ciaz, jimny, grand vitara, eeco, omni, gypsy
+## Hyundai models
+creta, venue, verna, i20, i10, alcazar, exter, santro, aura, tucson
+## Tata models
+nexon, punch, harrier, safari, tiago, altroz, curvv, tigor, nano, indica, sumo
+## Mahindra models
+scorpio, thar, xuv700, bolero, xuv300, marazzo
+## Toyota models
+fortuner, innova, glanza, urban cruiser, land cruiser, camry, vellfire
+## Honda models
+city, amaze, civic, accord, jazz, elevate
+## Kia and Skoda models
+seltos, sonet, carens, carnival, slavia, kushaq, octavia, superb, kodiaq
+## Other car models
+kwid, duster, polo, hector, astor, compass, wrangler, endeavour, ecosport, figo
+## Indian bike brands
+hero, honda bikes, bajaj, tvs, royal enfield, yamaha, suzuki, jawa
+## Premium bike brands
+ktm, kawasaki, harley davidson, ducati, bmw motorrad, aprilia, benelli
+## Electric scooter brands
+ather, ola electric, revolt, okinawa
+## Hero and Bajaj bikes
+splendor, passion, hf deluxe, glamour, xtreme, karizma, pulsar, platina, dominar, avenger, ct 100
+## TVS and Honda bikes
+apache, raider, ronin, shine, unicorn, hornet, cb350
+## Yamaha and Suzuki bikes
+fz, r15, mt15, fascino, ray zr, gixxer, access, burgman
+## Scooter models
+jupiter, ntorq, activa, dio, maestro, pleasure, chetak, ather 450, ola s1, iqube, vida
+## Royal Enfield models
+classic 350, bullet 350, hunter 350, himalayan, meteor, interceptor, continental gt
+## KTM and others
+duke, rc 390, adventure 390, ninja, z900, street triple, speed 400
+## Indian airlines
+indigo, air india, vistara, spicejet, akasa, go first, air asia, jet airways, kingfisher airlines, alliance air, star air, air india express
+## Gulf airlines
+emirates, qatar airways, etihad, flydubai, saudia, oman air, kuwait airways, gulf air, air arabia
+## Asian airlines
+singapore airlines, thai airways, cathay pacific, malaysia airlines, japan airlines, srilankan, ana, korean air
+## European airlines
+lufthansa, british airways, air france, klm, turkish airlines, ryanair, easyjet, virgin atlantic, swiss
+## American airlines
+delta, united, american airlines, southwest, jetblue, air canada, qantas, latam
+## High street fashion
+zara, h&m, uniqlo, forever 21, mango, gap, marks and spencer, primark, shein, urbanic
+## Indian fashion stores
+max, pantaloons, westside, lifestyle, shoppers stop, reliance trends, central, brand factory
+## Indian ethnic brands
+fabindia, w, biba, global desi, aurelia, soch, rangriti, libas
+## Wedding wear brands
+manyavar, mohey, ethnix, neerus, meena bazaar, nalli, pothys, saravana stores
+## Indian designers
+sabyasachi, manish malhotra, tarun tahiliani, anita dongre, masaba, ritu kumar, rohit bal, abu jani sandeep khosla, falguni shane peacock, gaurav gupta
+## Formal shirt brands
+raymond, peter england, van heusen, allen solly, louis philippe, arrow, park avenue, blackberrys
+## Indian menswear brands
+john players, siyaram's, vimal, monte carlo, turtle, indian terrain, mufti, celio
+## Jeans brands
+levis, wrangler, lee, pepe jeans, flying machine, spykar, killer, roadster, diesel, lee cooper, numero uno, g star
+## Youth t-shirt brands
+hrx, being human, wrogn, bewakoof, the souled store, snitch, only, vero moda, jack and jones
+## International casual brands
+superdry, tommy hilfiger, calvin klein, lacoste, us polo, gant, benetton, jockey, american eagle
+## Luxury fashion houses (Italy and France)
+gucci, prada, louis vuitton, chanel, dior, versace, armani, hermes, balenciaga, fendi, dolce and gabbana, valentino, givenchy, saint laurent
+## Luxury fashion (others)
+burberry, ralph lauren, hugo boss, michael kors, coach, kate spade, off white, supreme, balmain, tom ford
+## Luxury shoe brands
+jimmy choo, christian louboutin, manolo blahnik, gucci shoes, prada shoes
+## Sports shoe brands
+nike, adidas, puma, reebok, new balance, asics, skechers, fila, hoka, salomon
+## Sneaker brands
+converse, vans, jordan, yeezy, onitsuka tiger, lotto, campus, sparx
+## Indian shoe brands
+bata, woodland, red tape, liberty, paragon, relaxo, red chief, metro, mochi, catwalk, inc 5
+## International shoe brands
+hush puppies, clarks, crocs, birkenstock, aldo, steve madden, charles and keith, dr martens, timberland, ugg
+## Swiss watch brands
+rolex, omega, tissot, rado, tag heuer, patek philippe, audemars piguet, hublot, breitling, iwc, panerai, longines
+## Luxury watch brands (other)
+cartier watches, movado, bulgari, richard mille, montblanc watches, chopard, piaget
+## Everyday watch brands
+casio, fossil, titan, fastrack, sonata, daniel wellington, g shock, armani exchange, guess, swatch, citizen, titan raga
+## Smartwatch brands
+apple watch, noise, boat, fire boltt, garmin, fitbit, amazfit, samsung galaxy watch, mi band, oneplus watch, realme watch, boult, crossbeats
+## Indian jewellery brands
+tanishq, kalyan jewellers, malabar gold, pc jeweller, senco, joyalukkas, reliance jewels, mia by tanishq
+## Online jewellery brands
+bluestone, caratlane, giva, candere, melorra, zaveri pearls, sukkhi, voylla
+## Luxury jewellery brands
+tiffany, cartier, swarovski, pandora, bulgari jewellery, accessorize
+## Indian food companies
+amul, mother dairy, nandini, britannia, parle, sunfeast, haldiram's, bikaji, mtr, gits
+## FMCG giants
+nestle, cadbury, itc, pepsico, coca cola, dabur, patanjali, marico, emami, hul, mondelez, kellogg's, mars, ferrero
+## Noodle brands
+maggi, yippee, top ramen, knorr, ching's, wai wai, patanjali atta noodles, cup noodles, samyang, indomie
+## Glucose and marie biscuits
+parle g, marie gold, monaco, krackjack, 50 50, milk bikis, tiger, nice, 20 20
+## Cream biscuits
+good day, bourbon biscuit, hide and seek, oreo, jim jam, dark fantasy, treat, little hearts, unibic, mcvities, bounce, nutrichoice, digestive
+## Chips brands
+lays, kurkure, bingo, uncle chipps, balaji, too yumm, pringles, doritos, cheetos, act ii, peppy, bikano
+## Sauce brands
+kissan, maggi ketchup, del monte, veeba, heinz, hellmann's, tops
+nutella, tabasco, sriracha
+## Spice brands
+mdh, everest, catch, tata sampann
+## Cooking oil brands
+fortune, saffola, parachute coconut oil
+## Rice and atta brands
+daawat, india gate, kohinoor, aashirvaad, tata salt
+## South Indian dairy brands
+## North Indian dairy brands
+chitale, amul taaza, amul gold, mother dairy milk, country delight
+## Cheese and yogurt brands
+## Burger chains
+mcdonald's, burger king, kfc, wendy's, carl's jr, popeyes, burgerama, five guys, shake shack
+## Pizza chains
+domino's, pizza hut, la pino'z, papa john's, little caesars, sbarro, pizza express, mojo pizza, oven story, chicago pizza
+## Sub and taco chains
+subway, taco bell, chipotle, wow momo, faasos, chicking
+## Biryani brands
+behrouz biryani, biryani by kilo, paradise biryani, bademiya, the biryani life, meghana foods, nagarjuna
+## Cloud kitchen brands
+box8, lunchbox, the good bowl, mandarin oak, sweet truth, eatfit, freshmenu, firangi bake, bowl company, rebel foods
+## Global cafe chains
+starbucks, costa coffee, tim hortons, dunkin donuts, krispy kreme
+## Indian cafe chains
+cafe coffee day, barista, chaayos, chai point, third wave coffee, blue tokai, mad over donuts, the belgian waffle, keventers, theobroma
+## International ice cream brands
+baskin robbins, haagen dazs, magnum, ben and jerry's, cold stone, london dairy, cornetto, kwality walls
+## Indian ice cream brands
+naturals, cream stone, amul ice cream, vadilal, havmor, cream bell, giani, nirula's, arun ice cream, dinshaw's, hocco, nic, corner house, polar bear, ibaco
+## Barbecue and buffet chains
+barbeque nation, absolute barbecue, pirates of grill, kabab and curries, the barbeque company, tandoor and grill
+## South Indian restaurant chains
+saravana bhavan, sagar ratna, murugan idli, a2b, sangeetha, udupi, kamat, shiv sagar, rameshwaram cafe, mtr restaurant, vasanta bhavan
+## North Indian restaurant chains
+bikanervala, haldiram's restaurant, moti mahal, karim's, pind balluchi, punjab grill, kailash parbat, gulati, kake da hotel
+## Asian restaurant chains
+mainland china, nando's, chili's, hard rock cafe, mamagoto, chowman, yauatcha, burma burma, wasabi
+## Iconic Mumbai eateries
+leopold cafe, cafe mondegar, britannia and co, trishna, mahesh lunch home, gajalee, swati snacks, bastian, bademiya mumbai
+## Iconic Kolkata and Bangalore eateries
+peter cat, flurys, oh calcutta, indian coffee house, truffles, toit, empire
+## Colas
+coca cola, pepsi, thums up, campa cola, double seven, coke zero
+## Lemon and orange drinks
+sprite, limca, fanta, mirinda, mountain dew, 7up, mirinda orange, fanta orange, bovonto, duke's lemonade
+## Fruit drinks
+maaza, frooti, slice, real, tropicana, minute maid, paper boat, b natural, appy fizz, appy, jeeru, sosyo
+## Water brands
+bisleri, kinley, aquafina, bailley, himalayan, evian, perrier, rail neer, oxyrich, vedica, smart water, fiji water
+## Tea brands
+tata tea, red label, taj mahal tea, wagh bakri, brooke bond, lipton, tetley, twinings
+## Tea types
+assam tea, darjeeling tea, nilgiri tea, kangra tea, earl grey, english breakfast, chamomile, oolong, matcha, jasmine tea
+## Coffee brands
+nescafe, bru, sunrise
+## Health drink brands
+bournvita, horlicks, boost, complan, milo, protinex, ensure, pediasure, maltova, quaker oats
+## Powder drink brands
+rasna, tang, women's horlicks, junior horlicks, nutrilite, herbalife, amway
+## Toothpaste brands
+colgate, pepsodent, close up, sensodyne, dabur red, dant kanti, oral b, meswak, vicco, babool, cibaca
+## Colgate variants
+colgate max fresh, colgate total, colgate visible white
+## Soap brands (international)
+dove, lux, pears, lifebuoy, dettol, fiama, palmolive, camay, rexona, nivea soap
+## Soap brands (Indian)
+santoor, cinthol, medimix, mysore sandal, liril, hamam, godrej no 1, chandrika, margo, savlon, vivel, nirma soap, wheel soap
+## Shampoo brands (international)
+head and shoulders, pantene, sunsilk, clinic plus, tresemme, l'oreal, garnier, dove shampoo
+## Shampoo brands (Indian)
+kesh kanti, indulekha, kesh king, himalaya shampoo, chik, meera, nyle, vatika, biotique, mamaearth, wow
+## Salon hair brands
+kerastase, schwarzkopf, wella, matrix, olaplex, bblunt, streax, godrej expert
+## Hair oil brands
+parachute, bajaj almond drops, dabur amla, navratna, hair and care, keo karpin
+## Hair styling brands
+livon, set wet, brylcreem, gatsby
+## Onion oil brands
+mamaearth onion oil, indulekha bringha
+## Indian makeup brands
+lakme, sugar, colorbar, nykaa cosmetics, kay beauty, plum, swiss beauty, blue heaven, myglamm
+## Drugstore makeup brands
+maybelline, revlon, l'oreal paris, nyx, elf, rimmel
+## Luxury makeup brands
+mac, huda beauty, fenty beauty, charlotte tilbury, rare beauty, kylie cosmetics, bobbi brown, estee lauder
+clinique, nars, too faced, urban decay, benefit
+## Dermatologist skincare brands
+cetaphil, neutrogena, olay, simple, cerave, la roche posay, bioderma, kiehl's
+## Indian skincare brands
+forest essentials, kama ayurveda, mcaffeine, minimalist, the ordinary, dot and key, plum skincare, mamaearth skincare, biotique skincare, lotus herbals, vlcc, himalaya
+## Korean skincare brands
+laneige, innisfree, the face shop, cosrx, beauty of joseon, etude house, missha
+## Classic skincare brands
+nivea, ponds, vaseline, boroline, boro plus, the body shop, bath and body works, fair and lovely, glow and lovely
+## Men's deodorant brands
+axe, wild stone, fogg, engage, denver, yardley, nivea men, garnier men, old spice, park avenue deo, kamasutra deo
+## Sports deodorant brands
+nike deo, adidas deo, skinn
+## Attar brands
+ajmal, al haramain, rasasi
+## Shaving brands
+gillette, bombay shaving company, beardo, ustraa, the man company, park avenue, old spice
+## Razor brands
+gillette mach 3, gillette fusion, gillette guard, bic razor, supermax, wilkinson
+## Trimmer brands
+philips trimmer, braun, syska
+## Men's perfume brands
+davidoff cool water, azzaro, dior sauvage, bleu de chanel, creed aventus, versace eros, armani code, hugo boss bottled, calvin klein one, paco rabanne 1 million, jean paul gaultier, acqua di gio
+## Perfume brands (other)
+tom ford, montblanc legend, dolce and gabbana light blue, gucci guilty, bvlgari, issey miyake, kenzo
+## Indian perfume brands
+## Sanitary brands
+whisper, stayfree, sofy, carefree, nua, sirona, pee safe
+## Diaper brands
+pampers, huggies, mamypoko, himalaya baby, johnson's baby, dabur lal tail, chicco, pigeon baby
+## Baby food brands
+cerelac, nan, lactogen, farex, similac, enfamil
+## TV brands (big)
+lg, samsung tv, sony bravia, panasonic, philips, toshiba, sharp, hisense, tcl, lg oled, samsung qled
+## TV brands (budget)
+mi tv, vu, thomson, sansui, akai, sanyo, realme tv, oneplus tv, kodak tv, onida, videocon, bpl
+## AC brands
+voltas, lloyd, daikin, blue star, carrier, hitachi, haier
+## Washing machine and fridge brands
+whirlpool, godrej, bosch, haier, ifb, siemens
+## Cooker and cookware brands
+prestige, hawkins, pigeon, butterfly, wonderchef
+## Mixer brands
+bajaj, preethi, morphy richards, sujata
+## Water purifier brands
+kent, aquaguard, pureit, livpure, eureka forbes
+## Fan brands
+havells, crompton, usha, orient, atomberg
+## Cooler brands
+symphony, kenstar
+## Vacuum and chimney brands
+dyson, faber, elica, glen, kaff, hindware kitchen, cata, franke
+## Kitchenware brands
+milton, cello, tupperware, borosil, la opala, corelle
+## Modular kitchen brands
+hafele, hettich, sleek
+## Bathroom fittings brands
+jaquar, hindware, cera, parryware, kohler, grohe, roca
+## Paint brands
+asian paints, berger, nerolac, dulux, indigo paints
+## Paint products
+## Cement brands
+jk cement, ultratech, ambuja, acc, birla white, shree cement
+## Steel brands
+tata steel, jsw steel
+## Adhesive brands
+pidilite, m seal, dr fixit, fevicol brand, araldite, fevikwik
+## Power tool brands
+bosch tools, dewalt, black and decker, makita, stanley tools, taparia
+## Tile brands
+kajaria, somany, johnson tiles, nitco
+## Switch brands
+legrand, schneider, anchor
+## Wire brands
+finolex, polycab, havells wires
+## Lighting brands
+wipro lighting, philips lighting, syska led, bajaj lighting, orient electric, crompton lighting
+## Battery brands
+eveready, nippo, duracell, energizer, exide, amaron
+## Inverter brands
+luminous, microtek, su kam, okaya, livguard
+## Furniture stores
+ikea, urban ladder, pepperfry, home centre, hometown, @home, wooden street
+## Mattress brands
+wakefit, sleepwell, kurlon, duroflex, the sleep company
+## Plastic furniture brands
+nilkamal, godrej interio, durian
+## Furniture rental brands
+furlenco, rentomojo, cityfurnish
+## Home textile brands
+d'decor, bombay dyeing, welspun, spaces, raymond home, portico, trident
+## International furniture brands
+pottery barn, herman miller
+## Office furniture brands
+## E-commerce apps (shopping)
+amazon, flipkart, meesho, myntra, ajio, nykaa, snapdeal, tata cliq, jiomart, firstcry, lenskart, purplle, tata neu
+## Old e-commerce brands
+paytm mall, shopclues, limeroad, jabong
+## Innerwear brands online
+zivame, clovia, rupa, amul macho
+## Grocery delivery apps
+bigbasket, blinkit, zepto, dunzo, licious, freshtohome
+## Health delivery apps
+## Home service apps
+urban company, nobroker, housing, 99acres, magicbricks, olx, quikr, justdial, sulekha
+## Car buying apps
+cars24, spinny, cardekho, carwale, bikewale
+## Mobility apps
+zoomcar, bounce, yulu, rapido, ola, uber, blusmart
+## Public sector banks
+sbi, pnb, bank of baroda, canara bank, union bank, bank of india, indian bank, idbi, central bank of india, uco bank, indian overseas bank, punjab and sind bank, bank of maharashtra
+## Private banks
+hdfc, icici, axis, kotak, yes bank, indusind, federal bank, rbl, idfc first, bandhan
+## Small banks
+au small finance, paytm payments bank, airtel payments bank, karnataka bank, south indian bank, city union bank, karur vysya, dcb, equitas, ujjivan, fino, india post payments bank
+## Foreign banks in India
+hsbc, citibank, standard chartered, deutsche bank, dbs, barclays
+## Wall Street banks
+jp morgan, goldman sachs, morgan stanley, wells fargo, bank of america, credit suisse, ubs, santander, nomura, bank of china
+## Life insurance brands
+lic, hdfc life, icici prudential, sbi life, max life, tata aia, bajaj allianz life, pnb metlife
+aviva, bharti axa
+## Health insurance brands
+star health, niva bupa, care health, aditya birla health, manipal cigna, new india assurance
+## General insurance brands
+acko, digit, policybazaar, navi
+hdfc ergo, icici lombard, reliance general, royal sundaram, iffco tokio
+## Card networks
+visa, mastercard, rupay, amex, diners club, discover
+## Payment gateways
+paypal, stripe, razorpay, payu, ccavenue, billdesk
+## UPI apps
+paytm, phonepe, google pay, bhim, cred, mobikwik, freecharge, amazon pay, bharatpe, airtel money, jio money
+## Credit apps
+slice, lazypay, simpl, zestmoney, uni, jupiter, niyo
+## Telecom operators
+jio, airtel, vi, vodafone, idea, bsnl, tata docomo, aircel, reliance communications
+## Broadband brands
+act fibernet, hathway, airtel xstream, jio fiber, excitel
+## DTH brands
+tata play, dish tv, d2h, sun direct, airtel digital tv, dd free dish, jio tv
+## Hindi GEC channels
+star plus, colors, zee tv, sony tv, sab tv, and tv, dd national, star bharat, dangal tv
+## Hindi rerun channels
+zee anmol, star utsav, sony pal, colors rishtey, big magic, bindass
+## Hindi movie channels
+star gold, zee cinema, sony max, and pictures, utv movies, b4u, zee action, zee bollywood, zee classic, star gold select
+## English movie channels
+star movies, sony pix, movies now, romedy now, hbo india
+## Bhojpuri channels
+dabangg tv, bhojpuri cinema, big ganga
+## Marathi channels
+zee marathi, star pravah, colors marathi, zee talkies
+## Bengali channels
+zee bangla, star jalsha, colors bangla, sun bangla
+## Telugu channels
+zee telugu, star maa, gemini, etv
+## Tamil channels
+zee tamil, sun tv, star vijay, colors tamil, kalaignar, jaya tv, raj tv, sun music
+## Kannada channels
+zee kannada, udaya, colors kannada, star suvarna, public tv
+## Malayalam channels
+asianet, surya tv, mazhavil manorama, flowers, zee keralam, kairali, amrita, asianet movies
+## Punjabi channels
+zee punjabi, ptc punjabi, mh one, 9x tashan, ptc music
+## Indian sports channels
+star sports, sony sports, ten sports, eurosport, dd sports, sony six, sony espn, neo sports, fancode
+## World sports channels
+sky sports, bt sport, bein sports, espn, fox sports, nbc sports, cbs sports, supersport, willow tv
+## Kids channels
+cartoon network, pogo, nick, disney channel, hungama, sonic, discovery kids, sony yay, marvel hq, disney xd
+nick jr, disney junior, baby tv, cbeebies, boomerang
+## Infotainment channels
+discovery, nat geo, animal planet, history tv18, tlc, fox life, nat geo wild, discovery science, discovery turbo, bbc earth, sony bbc earth, epic
+## Food and travel channels
+zee zest, food food, travelxp
+## Hindi music channels
+mtv, vh1, 9xm, zoom, b4u music, music india, mtv beats, sony mix
+## Regional music channels
+sun music, isaiaruvi, jaya max, gemini music, udaya music, raj musix, kappa tv
+## English news channels
+times now, ndtv, india today, republic, cnn news18, mirror now, wion, news x, ndtv 24x7, news 9
+## Business news channels
+cnbc, et now, cnbc tv18, zee business, cnbc awaaz, bloomberg quint, business today tv, ndtv profit
+## World news channels
+bbc, cnn, al jazeera, fox news, sky news, dd news, france 24, rt, euronews
+## Hindi news channels
+aaj tak, abp news, zee news, india tv, news18 india, republic bharat, news nation, news 24, tv9 bharatvarsh, ndtv india, times now navbharat
+## Regional news channels
+## English newspapers (national)
+times of india, hindustan times, the hindu, indian express, economic times, mint, business standard, financial express, the statesman
+## English newspapers (city)
+deccan chronicle, deccan herald, mid day, mumbai mirror, the telegraph, tribune, dna, free press journal, new indian express, bangalore mirror, pune mirror
+## Digital news brands
+the print, the wire, scroll, quint, firstpost, moneycontrol, livemint
+## Hindi newspapers
+dainik bhaskar, dainik jagran, amar ujala, navbharat times, rajasthan patrika, punjab kesari, prabhat khabar
+## Marathi and Gujarati newspapers
+lokmat, sakal, loksatta, maharashtra times, gujarat samachar, sandesh, divya bhaskar
+## South Indian newspapers
+eenadu, sakshi, andhra jyothi, prajavani, vijaya karnataka
+malayala manorama, mathrubhumi, dinamalar, dina thanthi
+## Bengali and Punjabi newspapers
+anandabazar, jagbani
+## World newspapers
+guardian, new york times, washington post, wall street journal, financial times, the times london, daily mail, the sun
+## Business magazines
+the economist, forbes, fortune, time magazine, newsweek, bloomberg businessweek, wired, popular science, national geographic, scientific american
+## Music and film magazines
+rolling stone, billboard, variety, hollywood reporter, filmfare magazine, stardust
+## Fashion magazines
+vogue, elle, cosmopolitan, gq, femina, harper's bazaar, marie claire, grazia, vanity fair, people
+## News magazines
+outlook, india today magazine, the week, reader's digest, frontline, tehelka, caravan, sports illustrated
+## Indian conglomerates (old)
+tata, reliance, birla, mahindra, bajaj, godrej, itc, larsen and toubro, kirloskar, tvs, hero, raymond group
+## Indian conglomerates (new)
+adani, wipro, infosys, hcl, jsw, vedanta, hinduja, essar, dlf, lodha, piramal, bharti, jindal
+## Mumbai builders
+lodha, hiranandani, oberoi realty, rustomjee, piramal realty, runwal, kalpataru, raheja, godrej properties
+## Bangalore builders
+prestige group, sobha, brigade, embassy, puravankara
+## Delhi NCR builders
+dlf, omaxe, supertech, amrapali, jaypee, unitech, m3m, emaar
+## Tech parks
+## Food and delivery unicorns
+swiggy delivery, zomato delivery, blinkit delivery, zepto delivery, dunzo delivery, rebel foods
+## Fintech unicorns
+paytm, phonepe, razorpay, cred, groww, upstox, zerodha, bharatpe, coindcx, coinswitch, acko, digit, policybazaar, slice
+## Edtech unicorns
+byju's, physicswallah, unacademy, upgrad, vedantu
+## E-commerce unicorns
+## Mobility unicorns
+ola, oyo, rapido, spinny, cars24, delhivery, shadowfax
+## SaaS unicorns
+postman, browserstack, freshworks, zoho, inmobi, dailyhunt, sharechat, mpl, dream11
+## Indian EV brands
+## Indian electric cars
+nexon ev, tiago ev, punch ev
+## Global electric cars
+## Indian luxury hotels
+taj hotels, oberoi, itc hotels, leela, trident, vivanta, fortune hotels, the lalit, the park
+## Indian budget hotels
+lemon tree, treebo, fabhotels, oyo, ginger, sarovar, zostel
+## Delhi hotels
+the claridges, the imperial
+## International hotel chains
+radisson, novotel, marriott, hilton, hyatt, intercontinental
+ibis, sofitel, ramada, holiday inn, crowne plaza
+## Luxury hotel brands
+four seasons, ritz carlton, jw marriott, westin, sheraton, le meridien, grand hyatt
+## Mid hotel brands
+## Hotel booking apps
+airbnb, booking com, expedia, agoda, trivago, kayak, tripadvisor, oyo app
+## Flight booking apps
+skyscanner, google flights, makemytrip, goibibo, yatra, cleartrip, ixigo, easemytrip
+## Train and bus apps
+irctc, redbus, abhibus, where is my train
+## Tour companies
+thomas cook, sotc, cox and kings, kesari tours, veena world, club mahindra, sterling holidays
+## Toy brands
+lego, hot wheels, barbie, mattel, hasbro, funskool, nerf, play doh, fisher price, beyblade, pokemon cards
+## Toy stores
+hamleys, toys r us, mothercare
+## Game brands
+uno, monopoly, jenga, rubik's, cluedo
+## Indian pen brands
+reynolds, cello pens, classmate, camlin, apsara, natraj, doms, linc, flair, luxor, hauser, add gel, rorito
+## International pen brands
+faber castell, staedtler, parker, pilot, uni ball, montblanc, cross, lamy, waterman, sheaffer
+## Stationery brands
+camel, fevistik, 3m, post it, scotch, sellotape, navneet, sundaram, oxford
+## Petrol pump brands
+indian oil, bharat petroleum, hindustan petroleum, reliance petroleum, shell petrol
+## Engine oil brands
+castrol, servo, mobil, gulf oil, valvoline, motul, shell helix
+## Global oil companies
+chevron, bp, shell
+## Gym chains
+cult fit, gold's gym, anytime fitness, talwalkars, planet fitness
+## Fitness brands
+decathlon, nike training, healthifyme, muscleblaze, myprotein, optimum nutrition
+## Indian sports equipment brands
+nivia, cosco, yonex, sg, ss, mrf bat
+## International cricket brands
+kookaburra, gray nicolls, gunn and moore

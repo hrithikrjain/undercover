@@ -1,0 +1,175 @@
+# Mind & Body
+## Head parts
+head, face, forehead, skull, scalp, brain, temple, crown
+## Eye parts
+eye, eyebrow, eyelash, eyelid, pupil, iris, retina, cornea, eyeball
+## Face parts
+nose, nostril, ear, earlobe, cheek, chin, jaw, dimple
+## Mouth parts
+mouth, lips, tongue, teeth, gums, palate, throat, tonsils
+molar, wisdom tooth, canine, incisor, braces, cavity
+## Torso parts
+neck, shoulder, collarbone, chest, back, spine, waist, hip
+belly, stomach, navel, ribs, abdomen, love handles
+## Arm parts
+arm, elbow, forearm, wrist, hand, palm, finger, thumb, knuckle, nail
+bicep, tricep, armpit, shoulder blade
+## Leg parts
+leg, thigh, knee, shin, calf, ankle, foot, heel, toe, sole, arch, kneecap
+## Organs
+heart, lungs, liver, kidney, intestine, pancreas, bladder, spleen, gall bladder, appendix
+## Body tissues
+bone, muscle, skin, blood, vein, artery, nerve
+tendon, ligament, cartilage, fat, joint, tissue
+## Senses
+see, hear, smell, taste, touch, feel
+## Reflexes
+sneeze, cough, yawn, hiccup, burp, snore, sigh, gasp, pant, wheeze
+## Laughing and crying
+laugh, giggle, chuckle, smile, grin, smirk
+cry, sob, weep, frown, blush, wink, pout
+## Walking and running
+walk, run, jog, sprint, crawl, stroll, limp, tiptoe, waddle, stomp, dash
+jump, hop, skip, march, leap, bounce
+## Postures
+sit, stand, lie down, kneel, squat, lean, bend, stretch, slouch, crouch, lunge
+## Voices
+whisper, shout, scream, yell, mumble, mutter, stutter
+hum, sing, chant, babble, murmur, grunt
+## Hand actions
+push, pull, lift, drag, drop, throw, catch, toss
+kick, punch, slap, pinch, poke, tickle, shove, nudge
+hug, cuddle, pat, high five, handshake, fist bump
+## Happy emotions
+happy, joyful, cheerful, excited, thrilled, delighted, ecstatic, glad, content, elated
+## Sad emotions
+sad, upset, gloomy, depressed, heartbroken, miserable, disappointed, lonely, hopeless, blue
+## Angry emotions
+angry, furious, irritated, annoyed, frustrated, mad, cranky, grumpy, outraged, bitter
+## Scared emotions
+scared, afraid, terrified, nervous, anxious, worried, panicked, frightened, tense, paranoid
+## Surprised emotions
+surprised, shocked, amazed, stunned, astonished, confused, puzzled, baffled, speechless
+## Awkward emotions
+jealous, envious, greedy, proud, arrogant, humble
+shy, embarrassed, ashamed, guilty, awkward, insecure
+## Tired emotions
+bored, tired, sleepy, lazy, exhausted, drained, restless, burnt out, sluggish, drowsy
+## Calm emotions
+calm, relaxed, peaceful, chill, zen, serene, cool, composed, mellow
+## Love emotions
+love, crush, infatuation, attraction, affection, romance, passion, lust, obsession, admiration
+## Common illnesses
+cold, cough, flu, fever, viral, sore throat, headache, migraine, sinus, allergy, body ache, chills
+## Lifestyle diseases
+diabetes, blood pressure, cholesterol, thyroid, obesity, anaemia, arthritis
+asthma, heart attack, stroke, cancer, tb, hepatitis
+## Mosquito and infectious diseases
+dengue, malaria, chikungunya, typhoid, jaundice, covid, swine flu, cholera
+measles, chickenpox, mumps, polio, rabies, tetanus
+## Stomach problems
+acidity, gas, bloating, indigestion, constipation, diarrhoea, food poisoning, ulcer, vomiting, nausea, loose motion, heartburn
+## Skin problems
+acne, pimple, rash, eczema, dandruff, sunburn, tan, blackheads
+wrinkles, dark circles, freckles, mole, wart, scar, stretch marks
+## Injuries
+fracture, sprain, dislocation, cramp, bruise, cut, burn, blister, wound, swelling, stitches, ligament tear
+## Mental health
+anxiety, depression, stress, insomnia, ocd, adhd, phobia, panic attack
+bipolar, burnout, ptsd, trauma, dementia, alzheimer's, autism
+## Eye problems
+myopia, hypermetropia, cataract, glaucoma, colour blindness, squint, conjunctivitis, dry eyes
+## Painkillers
+paracetamol, crocin, dolo, combiflam, disprin, aspirin, ibuprofen, brufen, saridon, calpol
+## Balms
+vicks, iodex, moov, volini, zandu balm, amrutanjan, tiger balm, relispray, bengay
+## Digestive medicines
+digene, eno, gelusil, pudin hara, hajmola, isabgol, ors, electral, glucose
+## Cough remedies
+cough syrup, benadryl, honitus, strepsils, vicks vaporub, halls, lozenge, kadha, ginger tea, steam
+## First aid
+bandage, band aid, cotton, gauze, plaster, dettol, savlon, betadine, crepe bandage, ice pack, hot water bag
+## Medicine forms
+injection, vaccine, drip, saline, tablet, capsule, syrup
+ointment, drops, inhaler, spray, powder, gel, patch
+## Medical tests
+x ray, mri, ct scan, ultrasound, ecg, blood test, biopsy, endoscopy
+## Treatments
+surgery, operation, dialysis, chemotherapy, physiotherapy, acupuncture, stitches treatment, transplant
+## Medicine systems
+allopathy, homeopathy, ayurveda, unani, naturopathy, chiropractic, siddha, yoga therapy
+## Exercises
+push up, pull up, sit up, squat, lunge, plank, burpee, crunch, jumping jack, mountain climber
+deadlift, bench press, bicep curl, leg press, shoulder press, lat pulldown
+## Gym equipment
+treadmill, cycle, elliptical, rowing machine, dumbbell, barbell, kettlebell, resistance band, yoga mat, skipping rope, foam roller, pull up bar
+## Supplements
+protein shake, whey, creatine, bcaa, pre workout, multivitamin, omega 3, protein bar, mass gainer, fish oil
+## Workout types
+cardio, strength training, hiit, crossfit, zumba, pilates, yoga, aerobics, stretching, warm up, cool down, rest day
+## Diets
+diet, keto, intermittent fasting, vegan, paleo, low carb, high protein, calorie deficit, cheat meal, detox, gluten free
+## Muscles
+six pack, biceps, triceps, abs, glutes, quads, hamstrings
+calves, lats, pecs, delts, traps, core, obliques
+## Yoga
+surya namaskar, pranayama, anulom vilom, kapalbhati, bhramari, om chanting, meditation, shavasana
+tadasana, vrikshasana, bhujangasana, dhanurasana, padmasana, chakrasana, sirsasana
+## Sleep
+sleep, nap, power nap, siesta, snooze, doze, dream, nightmare
+insomnia sleep, sleepwalking, snoring, lullaby, bedtime, wake up, alarm
+## Meals
+breakfast, lunch, dinner, brunch, snack, supper, midnight snack, high tea, tiffin, buffet, feast, fast
+## Grooming routine
+bath, shower, brush, shave, floss, gargle, scrub
+wax, facial, pedicure, manicure, massage, haircut, threading, clean up
+## School subjects
+maths, physics, chemistry, biology, science, english, hindi
+history, geography, civics, economics, social studies, evs, gk
+computer, sanskrit, marathi, moral science, drawing, pt
+## Maths topics
+algebra, geometry, trigonometry, calculus, statistics, arithmetic, probability, mensuration
+## School tests
+exam, test, quiz, viva, practical, assignment, project, homework
+class test, unit test, board exam, entrance exam, mock test, surprise test, olympiad
+## Entrance exams
+jee, neet, upsc, cat, gate, clat, cuet, ssc, nda
+ielts, toefl, gre, gmat, sat, cfa, ca
+## Results
+marks, grades, percentage, cgpa, rank, result, report card, marksheet
+merit list, cut off, percentile, topper, backlog, fail, pass, distinction
+## School things
+pencil box, school bag, water bottle, lunch box, id card, uniform, tie, belt, badge
+## Classes
+nursery, lkg, ukg, kindergarten, primary, middle school, high school, junior college, graduation, post graduation, phd
+## Mind powers
+memory, imagination, creativity, logic, intelligence, wisdom, knowledge, common sense
+iq, eq, intuition, instinct, talent, skill
+## Thoughts
+idea, thought, opinion, belief, doubt, guess, theory, plan
+dream, goal, wish, hope, fear, secret
+lie, truth, rumour, gossip, excuse
+## Daily habits
+brushing, bathing, exercising, praying, meditating, journaling, cleaning
+scrolling, napping, snacking, gossiping, procrastinating, overthinking, daydreaming
+## Nervous habits
+nail biting, thumb sucking, hair pulling, knuckle cracking, leg shaking, pen clicking, lip biting, teeth grinding
+## Skincare
+moisturizer, sunscreen, serum, toner, face pack, night cream, bb cream, cleanser, body lotion, cold cream
+vaseline, nivea, ponds, lakme, boroline, boro plus, himalaya, biotique, mamaearth, dove
+## Lip and eye makeup
+lipstick, lip gloss, lip liner, lip tint, lip balm
+kajal, eyeliner, mascara, eyeshadow, surma
+## Face makeup
+foundation, compact, concealer, blush, bronzer, contour, setting spray, primer, highlighter
+## Nails
+nail polish, nail art, gel nails, acrylic nails, nail extensions, nail paint remover
+## Traditional makeup
+bindi, sindoor, mehendi, gajra, alta, kumkum
+## Fragrances
+perfume, deodorant, body spray, cologne, attar, roll on, talcum powder, body mist, aftershave
+## Salon services
+cleanup, waxing, hair spa, keratin, smoothening, rebonding, hair colour, highlights, balayage
+botox, fillers, laser, tattoo, piercing, lip filler
+## Diet types
+vegetarian, non vegetarian, eggetarian, jain, pescatarian, flexitarian, lactose free, sugar free, organic, satvik, halal

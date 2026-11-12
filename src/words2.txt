@@ -1,0 +1,360 @@
+# Places
+## Western Europe cities
+london, paris, rome, berlin, madrid, amsterdam, vienna, brussels, zurich, geneva
+## Southern Europe cities
+milan, venice, florence, naples, barcelona, seville, lisbon, athens
+## UK and Ireland cities
+manchester, edinburgh, oxford, cambridge, dublin, liverpool city, birmingham, glasgow
+## Germany and Central Europe cities
+munich, hamburg, frankfurt, prague, budapest, warsaw
+## Eastern and Northern Europe cities
+moscow, st petersburg, istanbul, stockholm, oslo, copenhagen, helsinki
+## US cities (east)
+new york, washington dc, boston, miami, atlanta, philadelphia
+## US cities (west)
+los angeles, san francisco, las vegas, seattle, houston, dallas, chicago
+## Canada and Latin America cities
+toronto, vancouver, montreal, mexico city, havana, rio de janeiro, buenos aires, sao paulo, lima, bogota, santiago
+## Gulf cities
+dubai, abu dhabi, doha, riyadh, muscat, sharjah, kuwait city, jeddah, mecca
+## East Asian cities
+tokyo, osaka, kyoto, seoul, beijing, shanghai, hong kong, taipei, macau
+## South East Asian cities
+singapore, kuala lumpur, bangkok, jakarta, manila, hanoi, phuket, bali, pattaya, ho chi minh city
+## Neighbouring capitals
+kathmandu, colombo, dhaka, karachi, lahore, islamabad, thimphu, male, kabul
+## African cities
+cairo, nairobi, cape town, johannesburg, lagos, casablanca, marrakech, addis ababa, zanzibar
+## Australian cities
+sydney, melbourne, perth, brisbane, auckland, canberra, adelaide, wellington
+## Indian metros
+mumbai, delhi, bangalore, chennai, kolkata, hyderabad, pune, ahmedabad
+## Rajasthan cities
+jaipur, jodhpur, udaipur, jaisalmer, bikaner, ajmer, pushkar, mount abu
+## UP cities
+agra, lucknow, varanasi, kanpur, allahabad, mathura, vrindavan, ayodhya, noida, ghaziabad, meerut, aligarh
+## Punjab and Haryana cities
+chandigarh, amritsar, ludhiana, jalandhar, patiala, gurgaon, faridabad, panipat
+## Himachal towns
+shimla, manali, dharamshala, kasol, dalhousie, kullu, mcleodganj, kasauli, spiti
+## Uttarakhand towns
+dehradun, mussoorie, rishikesh, haridwar, nainital, auli, jim corbett, ranikhet, almora
+## Kashmir and Ladakh towns
+srinagar, gulmarg, pahalgam, leh, ladakh, kargil, sonmarg, jammu, katra
+## Gujarat cities
+surat, vadodara, rajkot, gandhinagar, bhavnagar, jamnagar, dwarka, somnath, kutch, rann of kutch
+## Maharashtra cities
+nashik, nagpur, aurangabad, kolhapur, solapur, nanded, shirdi
+lonavala, mahabaleshwar, alibaug, matheran, panchgani, khandala, igatpuri
+## MP and Chhattisgarh cities
+bhopal, indore, gwalior, jabalpur, ujjain, khajuraho, raipur
+## Goa places
+panaji, calangute, baga, anjuna, palolem, vagator, candolim, morjim
+## Karnataka cities
+mysore, mangalore, hubli, belgaum, coorg, hampi, udupi, gokarna, chikmagalur
+## Kerala places
+kochi, trivandrum, calicut, munnar, alleppey, thekkady, wayanad, kovalam, varkala, kumarakom
+## Tamil Nadu cities
+coimbatore, madurai, ooty, kodaikanal, pondicherry, kanyakumari, rameswaram, trichy, vellore, salem, mahabalipuram
+## Andhra and Telangana cities
+vizag, vijayawada, warangal, guntur, nellore, tirupati
+## Bihar, Jharkhand and Odisha cities
+patna, ranchi, bhubaneswar, puri, cuttack, jamshedpur, gaya, bodh gaya, dhanbad
+## North East places
+guwahati, shillong, gangtok, darjeeling, kalimpong, imphal, aizawl, kohima, itanagar, agartala, tawang, cherrapunji
+## Delhi landmarks
+taj mahal, red fort, qutub minar, india gate, lotus temple, humayun's tomb, jama masjid, akshardham
+## Mumbai landmarks
+gateway of india, marine drive, juhu beach, bandra worli sea link, elephanta caves, siddhivinayak, haji ali, chhatrapati shivaji terminus
+## Rajasthan landmarks
+hawa mahal, amer fort, city palace, jantar mantar, mehrangarh fort, lake palace, chittorgarh fort, umaid bhawan
+## Hyderabad landmarks
+charminar, golconda fort, ramoji film city, hussain sagar, salar jung museum
+## Punjab landmarks
+golden temple, wagah border, jallianwala bagh, sheesh mahal
+## South Indian landmarks
+mysore palace, gol gumbaz, meenakshi temple, brihadeeswara temple, hoysala temples
+## Kolkata landmarks
+victoria memorial, howrah bridge, dakshineswar temple, belur math, eden gardens, park street
+## Gujarat landmarks
+statue of unity, sabarmati ashram, rani ki vav, somnath temple, dwarkadhish temple
+## Ancient sites
+ajanta caves, ellora caves, konark sun temple, khajuraho temples, sanchi stupa
+## Paris and London landmarks
+eiffel tower, louvre, notre dame, arc de triomphe, big ben, london eye, tower bridge, buckingham palace, stonehenge
+## Italy and Greece landmarks
+colosseum, leaning tower of pisa, vatican, trevi fountain, sagrada familia, acropolis, parthenon
+## US landmarks
+statue of liberty, empire state building, times square, golden gate bridge, hollywood sign, white house, mount rushmore, grand canyon, niagara falls, disneyland
+## Dubai landmarks
+burj khalifa, burj al arab, palm jumeirah, dubai mall, dubai frame, museum of the future
+## Asian landmarks
+great wall of china, forbidden city, terracotta army, mount fuji, tokyo tower, petronas towers, marina bay sands, merlion, angkor wat
+## Wonders of the world
+pyramids of giza, sphinx, machu picchu, christ the redeemer, chichen itza, easter island, petra
+## Australian landmarks
+sydney opera house, harbour bridge, great barrier reef, uluru, bondi beach
+## Indian islands and beaches
+andaman, lakshadweep, diu, daman
+## Island holidays
+maldives, mauritius, seychelles, hawaii, fiji, bora bora, ibiza, santorini, sri lanka
+## Types of places
+hill station, beach town, pilgrimage town, border town, port city, capital city, metro city, village, town, suburb, district, tehsil
+## Indian national parks
+ranthambore, kaziranga, gir, bandhavgarh, kanha, sundarbans, periyar, bandipur, tadoba, pench, sariska
+## World wildlife spots
+serengeti, masai mara, kruger, yellowstone, amazon rainforest, galapagos, borneo
+## World natural wonders
+victoria falls, mount everest, dead sea, northern lights, sahara, amazon, iceland, antarctica
+## Sports venues
+stadium, arena, ground, gymkhana, sports complex, indoor stadium, race track, velodrome
+## Entertainment venues
+theatre, cinema, multiplex, auditorium, amphitheatre, opera house, concert hall, open air theatre
+## Eating places
+restaurant, cafe, dhaba, canteen, food court, food truck, diner, bistro, mess
+## Stay places
+hotel, motel, resort, hostel, lodge, guest house, homestay, inn, dharamshala
+## Medical places
+hospital, clinic, nursing home, dispensary, pharmacy, lab, icu, emergency room
+## Education places
+school, college, university, kindergarten, coaching centre, tuition, boarding school, playschool, nursery
+## Shopping places
+mall, market, bazaar, supermarket, hypermarket, department store, flea market, shopping complex, outlet
+## Religious places
+temple, mosque, church, gurudwara, monastery, cathedral, chapel, shrine, dargah, synagogue, pagoda
+## Transport places
+airport, railway station, bus stand, metro station, port, harbour, helipad, taxi stand, toll plaza
+## Culture places
+library, museum, art gallery, planetarium, science centre, exhibition
+## Work places
+office, factory, warehouse, godown, workshop, studio, coworking space, showroom
+## Government places
+bank, atm, post office, police station, fire station, court, municipal office, passport office, rto
+## Wellness places
+gym, yoga studio, swimming pool, spa, salon, parlour, barber shop, massage centre
+## Nightlife places
+bar, pub, club, lounge, brewery, hookah bar, casino, karaoke bar
+## Outdoor places
+park, playground, amusement park, water park, botanical garden, picnic spot
+## Rooms
+bedroom, living room, kitchen, bathroom, dining room, study room, guest room
+balcony, terrace, basement, attic, garage, store room, pooja room
+## Trip types
+flight, road trip, trek, safari, pilgrimage, backpacking, honeymoon, staycation, camping, picnic, tour
+## Travel documents
+passport, visa, ticket, boarding pass, luggage, suitcase, backpack, trolley bag, itinerary, hotel booking
+## Seat classes
+economy, business class, first class, window seat, aisle seat, middle seat, sleeper, ac coach, general coach
+## Mumbai areas
+bandra, andheri, juhu, colaba, dadar, borivali, powai, worli, lower parel, thane, navi mumbai, vashi
+## Delhi areas
+connaught place, chandni chowk, karol bagh, saket, hauz khas, lajpat nagar, rohini, vasant kunj, greater kailash
+## Bangalore areas
+koramangala, indiranagar, whitefield, hsr layout, jayanagar, mg road, electronic city, marathahalli
+## Hyderabad areas
+banjara hills, jubilee hills, gachibowli, hitech city, secunderabad, kukatpally
+## Chennai areas
+anna nagar, t nagar, adyar, velachery, omr, besant nagar, mylapore
+## Kolkata areas
+salt lake, new town, howrah, ballygunge, esplanade
+
+# Things
+## Seating
+chair, stool, bench, sofa, armchair, recliner, bean bag, rocking chair, ottoman, swing
+## Tables
+table, desk, dining table, coffee table, side table, study table, dressing table, console
+## Beds
+bed, cot, bunk bed, sofa cum bed, mattress, futon, hammock, cradle, charpai
+## Storage furniture
+cupboard, wardrobe, almirah, closet, cabinet, chest of drawers, bookshelf, shoe rack, locker, safe
+## Soft furnishings
+curtain, blind, carpet, rug, doormat
+cushion, pillow, bolster, blanket, quilt, bedsheet, razai
+## Lights
+lamp, bulb, tube light, led, chandelier, lantern, candle, torch, night lamp, emergency light
+## Wall decor
+mirror, photo frame, wall clock, painting, poster, vase, showpiece, wall hanging
+## Cutlery
+spoon, fork, knife, ladle, spatula, tongs, whisk, peeler, grater, chopping board, rolling pin, masher
+## Crockery
+plate, bowl, cup, mug, glass, saucer, tumbler, tray, thali, katori
+## Cookware
+pot, pan, kadhai, tawa, pressure cooker, wok, saucepan, frying pan, griddle, handi
+## Mixers
+mixer, grinder, blender, juicer, food processor, hand blender, chopper
+## Kitchen appliances
+fridge, freezer, microwave, oven, otg, toaster, induction, gas stove, chimney, dishwasher, air fryer
+kettle, coffee maker, water purifier, water dispenser, geyser, rice cooker, egg boiler, sandwich maker
+## Containers
+bottle, jar, container, tiffin, lunch box, flask, thermos, sipper, casserole, dabba
+## Kitchen cloths
+apron, oven mitt, napkin, tissue, kitchen towel, dish cloth, scrubber, sponge, foil, cling wrap
+## Bath products
+soap, body wash, shampoo, conditioner, face wash, scrub, loofah, hand wash, sanitizer
+toothbrush, toothpaste, mouthwash, floss, tongue cleaner
+towel, bath robe, bath mat, shower cap, hand towel
+## Shaving
+razor, trimmer, shaving cream, after shave, wax strips, epilator, shaving foam
+## Bathroom fittings
+bucket, tap, shower, bathtub, jacuzzi, sink, basin, flush, commode, jet spray
+## Hair tools
+comb, hairbrush, hair dryer, straightener, curler, hair clip, hair band, scrunchie, bobby pin
+## Pens
+pen, pencil, marker, highlighter, sketch pen, crayon, chalk, fountain pen, gel pen, ball pen, sharpie
+## Geometry box
+eraser, sharpener, ruler, scale, compass, protractor, divider, set square, geometry box
+## Notebooks
+notebook, diary, register, notepad, sticky note, journal, planner, scrapbook, sketchbook
+## Desk supplies
+stapler, punch, paper clip, binder clip, pin, thumb tack, rubber band, tape, glue, fevicol, glue stick
+file, folder, envelope, clipboard, binder, lever file, document bag
+paper, a4 sheet, chart paper, tissue paper, newspaper, tracing paper
+whiteboard, blackboard, notice board, duster, pointer
+## Hand tools
+hammer, screwdriver, wrench, spanner, pliers, drill, saw, chisel
+nail, screw, bolt, nut, washer, rivet
+## Lifting tools
+ladder, scaffold, rope, chain, hook, pulley, crane
+## Painting tools
+paint brush, roller, paint, primer, varnish, putty, sandpaper
+measuring tape, spirit level, vernier caliper, plumb line
+## Garden tools
+axe, shovel, spade, rake, hoe, sickle, pickaxe, trowel, watering can, lawn mower, hose pipe
+## Cleaning tools
+broom, mop, vacuum cleaner, dustpan, brush, jhadu, wiper
+## Locks
+lock, key, padlock, latch, door knob, handle, keychain
+## Devices
+phone, smartphone, tablet, laptop, desktop, smartwatch, kindle, ipad, iphone, macbook
+## Audio gear
+earphones, headphones, earbuds, airpods, neckband, bluetooth speaker, soundbar, home theatre, woofer
+## Charging
+charger, power bank, cable, adapter, extension board, usb, type c, wireless charger
+## TV gear
+tv, smart tv, projector, set top box, remote, firestick, chromecast, dvd player
+## Cameras
+camera, dslr, gopro, webcam, cctv, drone, lens, tripod, ring light, selfie stick
+## Computer accessories
+keyboard, mouse, monitor, printer, scanner, pen drive, hard disk, router, modem, speaker, mic
+## Cooling appliances
+ac, cooler, fan, heater, ceiling fan, table fan, exhaust fan, air purifier, humidifier
+## Laundry
+washing machine, dryer, iron, steam iron
+## Measuring devices
+calculator, alarm clock, digital clock, stopwatch, timer, weighing scale, thermometer, glucometer, oximeter
+## Gaming gear
+ps5, xbox, nintendo switch, playstation, gaming pc, vr headset, joystick, controller, arcade
+## Chat apps
+whatsapp, telegram, signal, messenger, snapchat, discord, wechat, imessage, hike
+## Social apps
+instagram, facebook, twitter, threads, pinterest, linkedin, reddit, tumblr, sharechat
+## Video apps
+youtube, tiktok, instagram reels, youtube shorts, moj, josh, twitch
+## Shopping apps
+amazon, flipkart, myntra, ajio, meesho, nykaa, snapdeal, tata cliq, shein
+## Food delivery apps
+swiggy, zomato, dunzo, blinkit, zepto, instamart, bigbasket, eatsure
+## Cab apps
+uber, ola, rapido, blablacar, meru, namma yatri, indrive
+## Payment apps
+paytm, phonepe, google pay, bhim, cred, amazon pay, mobikwik, freecharge, bharatpe
+## Streaming apps
+netflix, prime video, hotstar, zee5, sony liv, jio cinema, mx player, voot, alt balaji, apple tv, hulu, disney plus
+## Music apps
+spotify, jio saavn, gaana, wynk, apple music, youtube music, amazon music, soundcloud
+## Mobile games (casual)
+candy crush, subway surfers, temple run, ludo king, angry birds, fruit ninja, pokemon go
+## Mobile games (battle)
+bgmi, free fire, clash of clans, among us, call of duty mobile, minecraft, roblox
+## Travel apps
+makemytrip, goibibo, yatra, cleartrip, ixigo, irctc, redbus, airbnb, oyo, booking com, agoda, trivago
+## Map apps
+google maps, apple maps, waze, mapmyindia
+## Meeting apps
+zoom, google meet, microsoft teams, skype, webex, facetime
+## Email and browsers
+gmail, outlook, yahoo mail, protonmail, rediffmail
+chrome, safari, firefox, edge, opera, brave, uc browser
+## Cloud apps
+google drive, dropbox, onedrive, icloud, google photos
+## Health apps
+practo, 1mg, pharmeasy, netmeds, apollo 247, cult fit, healthifyme
+## Investing apps
+zerodha, groww, upstox, angel one, kuvera, paytm money, smallcase
+## AI assistants
+chatgpt, gemini, copilot, claude, siri, alexa, google assistant, perplexity, grok
+## Road vehicles
+car, bike, scooter, cycle, auto, rickshaw, e rickshaw
+bus, truck, van, tempo, jeep, tractor, lorry
+## Car types
+sedan, hatchback, suv, muv, coupe, convertible, pickup truck, limousine, minivan
+## Service vehicles
+ambulance, fire engine, police car, school bus, garbage truck, tanker, bulldozer, road roller, tow truck
+## Indian bikes
+bullet, activa, splendor, pulsar, ktm, harley davidson, royal enfield, vespa, scooty, jupiter, ola electric, ather
+## Trains
+train, metro, local train, monorail, tram, bullet train, toy train, vande bharat, shatabdi, duronto, goods train
+## Aircraft
+aeroplane, helicopter, jet, glider, hot air balloon, blimp, fighter jet, private jet, cargo plane, chopper
+## Boats
+ship, boat, yacht, ferry, cruise, submarine, catamaran, houseboat, sailboat
+canoe, kayak, raft, jet ski, speedboat, shikara, dinghy
+## Indian women's wear
+saree, lehenga, salwar kameez, anarkali, kurti, sharara, gharara, palazzo, churidar, dupatta, ghagra
+## Indian men's wear
+kurta, sherwani, pathani, dhoti, lungi, nehru jacket, bandhgala, achkan, pyjama, mundu, veshti
+## Tops
+shirt, t shirt, polo, hoodie, sweatshirt, sweater, cardigan
+blazer, jacket, coat, waistcoat, tuxedo, suit, trench coat
+## Bottoms
+jeans, trousers, chinos, shorts, cargo pants, track pants, joggers, leggings, pyjamas, capris, dhoti pants, formal pants
+## Dresses
+dress, gown, skirt, frock, jumpsuit, romper, maxi dress, mini skirt, bodycon, tunic, top, crop top
+## Innerwear
+vest, boxers, briefs, bra, panty, lingerie, innerwear, thermals
+## Nightwear and swimwear
+nightie, nightsuit, bathrobe, swimsuit, bikini, trunks, pyjama set
+## Shoes
+sneakers, sports shoes, running shoes, boots, loafers, formal shoes, oxfords, brogues, moccasins, canvas shoes, crocs
+## Sandals
+sandals, slippers, flip flops, chappal, kolhapuri, jutti, mojari, floaters
+heels, wedges, flats, stilettos, pumps, clogs, platform heels
+## Jewellery
+watch, bracelet, bangle, kada, anklet, ring, nose ring, earring
+necklace, pendant, mangalsutra, maang tikka, brooch, cufflinks, chain
+## Bags
+belt, wallet, purse, handbag, clutch, sling bag, tote, laptop bag, duffel bag, fanny pack
+## Headwear
+cap, hat, beanie, turban, pagdi, helmet, headband, bandana
+hijab, scarf, stole, muffler, shawl, dupatta scarf
+## Eyewear
+sunglasses, spectacles, goggles, contact lens, reading glasses, aviators, wayfarers
+## Rain gear
+umbrella, raincoat, windcheater, poncho, gumboots
+## Formal accessories
+tie, bow tie, pocket square, suspenders, cummerbund, lapel pin, handkerchief
+## Board games
+ludo, snakes and ladders, chess, carrom, monopoly, scrabble, uno, jenga
+pictionary, business, cards, dominoes, checkers, backgammon, sequence, catan
+## Toys
+teddy bear, doll, barbie, action figure, lego, building blocks, puzzle, rubik's cube
+yo yo, spinning top, marbles, kite, remote control car, hot wheels, nerf gun, water gun
+## Media formats
+cd, dvd, cassette, vinyl, floppy disk, blu ray, vhs, walkman, ipod, mp3 player, radio, gramophone
+## Money forms
+cash, coin, note, cheque, demand draft
+card, credit card, debit card, upi, net banking, gift card, voucher, coupon
+## Time keepers
+clock, calendar, almanac, timetable
+## Pooja items
+incense, agarbatti, diya, dhoop, camphor, matchbox, lighter
+## Packing
+trunk, trolley, carton, basket, hamper, crate, sack
+## Laundry products
+washing powder, detergent, fabric softener, bleach, rin, ariel, tide, nirma, wheel
+## Cleaning products
+phenyl, harpic, lizol, dettol, vim, colin, domex, pril
+## Mosquito products
+mosquito coil, all out, good knight, odomos, mosquito net, mortein, hit, baygon, repellent
+## Electrical items
+plug, socket, switch, wire, mcb, fuse, inverter, generator, ups, stabilizer, meter

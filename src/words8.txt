@@ -1,0 +1,228 @@
+# After Dark
+## Spirits
+whisky, rum, vodka, gin, tequila, brandy, scotch, single malt, cognac
+## Desi liquor
+feni, toddy, desi daru, country liquor, mahua, tharra, arrack, bhang drink
+## Beer types
+beer, draught beer, craft beer, pint, mug of beer, light beer, strong beer, ipa, wheat beer
+## Wine types
+wine, red wine, white wine, rose wine, champagne, prosecco, cider, sake, port
+## Indian beer brands
+kingfisher, bira, simba, haywards, kings beer, godfather, knock out, london pilsner, black label beer
+## World beer brands
+budweiser, heineken, corona, carlsberg, tuborg, foster's, stella artois, hoegaarden, guinness, miller, coors, peroni, asahi, tiger beer
+## Indian whisky brands
+mcdowell's, blenders pride, royal stag, imperial blue, signature, antiquity, 100 pipers, black dog, officer's choice, rockford
+## Rum brands
+old monk, bacardi, captain morgan, havana club, malibu, hercules rum, contessa, kraken
+## Scotch brands
+johnnie walker, chivas regal, glenfiddich, glenlivet, macallan, ballantine's, dewar's, teacher's, black and white, jack daniel's, jameson, jim beam
+## Vodka brands
+absolut, smirnoff, grey goose, belvedere, magic moments, romanov, white mischief, ciroc
+## Gin and tequila brands
+bombay sapphire, tanqueray, gordon's, beefeater, hendrick's, jose cuervo, patron, don julio, hennessy
+## Champagne and wine brands
+moet, dom perignon, sula, grover, fratelli, jacob's creek, york winery, big banyan
+## Liqueur brands
+baileys, kahlua, jagermeister, fireball, breezer, smirnoff ice, hooch, cointreau
+## Classic cocktails
+mojito, margarita, cosmopolitan, martini, bloody mary, pina colada, long island iced tea, daiquiri, whisky sour, negroni
+## Simple cocktails
+cuba libre, screwdriver, gin and tonic, rum and coke, whisky soda, vodka cranberry, vodka red bull, shandy, moscow mule
+## Fancy cocktails
+sex on the beach, tequila sunrise, aperol spritz, espresso martini, mai tai, caipirinha, blue lagoon, manhattan, white russian, black russian
+## Shots
+shot, tequila shot, flaming shot, jello shot, jagerbomb, kamikaze, b52, lemon drop
+## Hot drinks (alcoholic)
+irish coffee, hot toddy, mulled wine, punch, jungle juice, eggnog, spiked chai
+## Bar types
+bar, pub, brewery, lounge, nightclub, disco, rooftop bar, sports bar, beer garden, wine bar, dive bar, speakeasy, hookah lounge, karaoke bar, casino bar
+## Club words
+dance floor, vip section, bar counter, open bar, bar stool, bar tab, cover charge, couple entry, stag entry, guest list, bottle service
+## Bar staff
+bouncer, bartender, dj, hostess, shot girl, barback, club promoter, valet
+## Bar deals
+happy hour, ladies night, bottomless brunch, bar crawl, pub hopping, last call, after party, pre drinks, pregame
+## Home parties
+house party, cocktail party, pool party, terrace party, garden party, barbecue party, potluck, sleepover, pyjama party, surprise party, theme party, costume party
+## Special parties
+bachelor party, bachelorette, kitty party, farewell party, reunion party, office party, birthday bash, fresher's party, prom, gala, hen night, stag party
+## Music festivals
+rave, music festival, sunburn, tomorrowland, nh7 weekender, vh1 supersonic, holi party, new year party, christmas party, dj night, bonfire night
+## Party nights
+game night, movie night, karaoke night, poker night, teen patti night, hangout, chill session, get together, ladies night out, boys night out
+## Party roles
+wingman, designated driver, third wheel, plus one, gatecrasher, party animal, life of the party, wallflower, party pooper, buzzkill, fun police
+## Drinker types
+lightweight, heavyweight, teetotaler, social drinker, binge drinker, alcoholic, drunk uncle, cool aunt
+## Party friend types
+mom friend, dad friend, snack bringer, photographer friend, planner friend, drama queen, sleeper, puker, crier, early leaver, last to leave
+## Drunk levels (mild)
+sober, tipsy, buzzed, two drinks in, one too many, under the influence, high, stoned, baked
+## Drunk levels (heavy)
+drunk, wasted, hammered, smashed, blackout, lit, turnt, sloshed, plastered, trashed, blitzed, loaded, on a bender
+## Sobriety
+hungover, dry january, sober october, sober curious, detox, quit drinking, on the wagon, off the wagon
+## Drinking games
+beer pong, flip cup, never have i ever, truth or dare, spin the bottle, kings cup, ring of fire, drunk jenga, shot roulette, quarters, power hour, century club
+## Party games
+cards against humanity, dumb charades, antakshari, mafia, werewolf, undercover, among us, pictionary, heads up, psych, bluff, twister
+## Question games
+would you rather, two truths and a lie, most likely to, paranoia, who's most likely, hot seat, 21 questions, this or that
+## Hangover symptoms
+hangover, headache, nausea, vomiting, dehydration, dry mouth, dizziness, regret, spinning room, puking
+## Hangover cures
+hair of the dog, eno, electral, lemon water, coconut water, greasy breakfast, sleep in, cold shower, black coffee, aspirin, hot soup, maggi at 3am
+## Morning after
+walk of shame, morning after, embarrassing stories, lost phone, lost wallet, missing shoe, taxi home, uber home, crash at friend's, sleep on floor, couch, bathroom floor
+## Drunk behaviour
+drunk texts, drunk dial, drunk call to ex, drunk dancing, drunk crying, drunk singing, drunk confession, drunk proposal, drunk fight, drunk hug, drunk selfie, drunk story, drunk post
+## Late night
+sutta break, late night drive, late night snack, drunk food, 3am maggi, midnight biryani, chai at 2am, egg roll at night
+## Dating apps
+tinder, bumble, okcupid, aisle, truly madly, grindr, happn, badoo, coffee meets bagel, raya
+## Matrimony sites
+shaadi com, jeevansathi, bharat matrimony, betterhalf, matrimony com, rishta aunty app
+## Date types
+date, first date, blind date, double date, dinner date, coffee date, movie date, netflix and chill, long drive date, candle light dinner
+## Casual dating
+crush, flirt, hookup, one night stand, friends with benefits, casual dating, fling, summer fling, rebound
+## Relationship stages
+talking stage, exclusive, committed, serious relationship, long distance, open relationship, soft launch, hard launch, going official, defining the relationship, honeymoon phase, meeting the parents, moving in
+## Partner names
+boyfriend, girlfriend, partner, bae, boo, lover, better half, significant other, soulmate, ride or die
+## Dating types
+sugar daddy, sugar baby, cougar, toy boy, gold digger, player, simp, nice guy, pick me, fuckboy
+## Dating slang
+red flag, green flag, beige flag, ick, rizz, drip, vibe check, dtr, cuffing season
+## Toxic dating terms
+love bombing, gaslighting, ghosting, breadcrumbing, benching, orbiting, zombieing, catfishing, stonewalling
+## Ex words
+ex, toxic ex, crazy ex, first love, childhood sweetheart, high school sweetheart, college crush, office romance, secret relationship
+## Cheating words
+affair, cheating, side chick, homewrecker, two timing, sneaky link, caught red handed, double life
+## Hindi love words
+pyaar, ishq, mohabbat, dil, dhoka, bewafa, deewana, aashiq, jaan, jaanu
+## Famous lovers
+majnu, laila, romeo, juliet, heer, ranjha, devdas, paro, chandramukhi, shirin farhad, sohni mahiwal
+## Breakup words
+breakup, divorce, separation, heartbreak, ghosted, dumped, friendzone, rejected, cheated, betrayed
+## Moving on
+moving on, closure, block, unfollow, delete photos, revenge body, glow up, single again, back together, patch up
+## Sad breakup stuff
+crying, ice cream, sad songs, arijit singh songs, drunk texting, stalking, old photos, long bath, chai and rain
+## Relationship pauses
+break, time out, pause, cold shoulder, silent treatment, fight, argument, make up, apology
+## Relationship problems
+jealousy, trust issues, commitment issues, possessive, clingy, controlling, manipulative, needy, insecure partner
+## Toxic partner types
+toxic, abusive, narcissist, gaslighter, cheater, liar, heartbreaker, womanizer, tease, player type
+## Relationship status
+single, taken, married, complicated, it's complicated, divorced, widowed, engaged, separated, lonely, desperate, thirsty
+## Wedding types
+wedding, shaadi, nikah, vivah, church wedding, court marriage, registered marriage, destination wedding, beach wedding, palace wedding, big fat indian wedding
+## Marriage types
+love marriage, arranged marriage, intercaste marriage, second marriage, shotgun wedding, elopement, runaway bride, runaway groom
+## Pre wedding events
+engagement, roka, sagai, ring ceremony, mehendi, haldi, sangeet, cocktail night, pre wedding shoot, tilak ceremony, chunni ceremony
+## Wedding ceremonies
+baraat, varmala, jaimala, pheras, saat phere, kanyadaan, sindoor daan, bidaai, milni, joota chupai, havan
+## Post wedding events
+reception, honeymoon, grihapravesh, pag phera, muh dikhai, walima, post wedding shoot, wedding anniversary, silver jubilee, golden jubilee, honeymoon suite, bridal suite
+## Bride and groom
+bride, groom, dulhan, dulha, bridesmaid, groomsman, best man, maid of honour, flower girl, ring bearer
+## Wedding officials
+pandit, priest, qazi, wedding planner, wedding photographer, band baaja, dj wedding, decorator, caterer, mehendi artist
+## Wedding family
+father of the bride, mother of the bride, in laws, samdhi, samdhan, jijaji, bhaiya, mamaji, chachaji, cousin brigade
+## Wedding squads
+groom's squad, bride's squad, baraati, bridezilla, momzilla, nosy aunty, dance uncle, selfie aunty, gossip gang, matchmaker aunty, rishta aunty, wedding crasher, ex at the wedding
+## Wedding venue
+mandap, stage, varmala stage, jaimala stage, doli, palki, ghodi, decorated car, elephant entry, fireworks entry, drone entry, sparkler entry, flower shower, phoolon ki chadar
+## Wedding outfits
+lehenga, sherwani, safa, sehra, kalire, chooda, mehendi design, bridal makeup, bridal lehenga, dupatta setting
+## Wedding rings
+wedding ring, engagement ring, diamond ring, solitaire, mangalsutra, nath, haar, bangles set
+## Wedding invites
+wedding card, invitation, e invite, guest list, save the date, wedding date, shubh muhurat, lagna patrika, rsvp
+## Wedding gifts
+dowry, dahej, shagun, lifafa, envelope, cash gift, wedding registry, wedding gift, return gift, gold gift
+## Wedding food
+wedding cake, wedding feast, bhoj, pangat, buffet, live counter, chaat counter, dessert counter, bar counter, paid bar, open bar wedding
+## Wedding dances
+first dance, couple dance, family dance, group dance, bollywood dance, sangeet performance, nagin dance, baraat dance, dhol, shehnai
+## Wedding songs
+wedding song, mehendi song, haldi song, baraat song, bidaai song, sangeet song, jaggo, ladies sangeet, chooda song
+## Casino games
+casino, poker, blackjack, roulette, slot machine, baccarat, craps, bingo, keno
+## Indian card games
+teen patti, rummy, andar bahar, satta, matka, lottery, scratch card, bluff game, 29, judgement
+## Betting words
+horse racing, betting, bookie, bet, wager, odds, jackpot, stake, bankroll, high roller, whale, house edge
+## Poker moves
+all in, fold, bluff, call, raise, check, ante, blind, pot, chips, dealer, croupier
+## Poker hands
+flush, straight, full house, royal flush, four of a kind, three of a kind, two pair, pair, high card, straight flush
+## Playing cards
+king card, queen card, jack, joker card, spade, heart card, club card, diamond card, trump
+## Fantasy apps
+dream11, mpl, my11circle, rummy circle, winzo, zupee, ludo supreme, fantasy cricket, fantasy football, a23
+## Betting apps
+betting app, 1xbet, bet365, parimatch, dafabet, fairplay, satta king, ipl betting, cricket betting, football betting, horse betting
+## Diwali cards
+diwali cards, diwali taash, taash party, card party, poker night diwali, flush night, rummy night, kitty cards
+## Gambling trouble
+gambling addiction, gamblers anonymous, debt, loan shark, pawn, mortgage, bankrupt, broke, loan, emi, credit card debt
+## Smoking items
+cigarette, bidi, cigar, hookah, sheesha, vape, e cigarette, pipe, chillum, cigarillo
+## Weed words
+joint, blunt, bong, weed, ganja, charas, hash, bhang, marijuana, cannabis, edibles, bhang lassi, bhang thandai
+## Tobacco products
+gutka, paan, paan masala, tobacco, khaini, zarda, nicotine, nicotine gum, nicotine patch, snuff
+## Smoking accessories
+lighter, matchbox, ashtray, ash, smoke, puff, drag, filter, rolling paper
+## Smoker types
+chain smoker, social smoker, passive smoking, second hand smoke, quitting, cold turkey, relapse, craving, withdrawal
+## Smoke break words
+smoking zone, no smoking, smoke break, sutta, chai sutta, fag, ciggy, cig, stick, pack, carton
+## Indian cigarette brands
+gold flake, classic, wills, four square, navy cut, charminar cigarette, cavenders, red and white, capstan
+## World cigarette brands
+marlboro, benson and hedges, camel, dunhill, davidoff cigarettes, lucky strike, winston, pall mall, 555, esse, more
+## Cigar brands
+cuban cigar, cohiba, montecristo, romeo y julieta, partagas, davidoff cigar
+## Kisses
+kiss, french kiss, peck, smooch, lip lock, hickey, love bite, forehead kiss, cheek kiss, air kiss
+## Cuddles
+make out, cuddle, spoon, snuggle, hug, bear hug, side hug, holding hands, pillow talk
+## Flirting
+eye contact, wink, blush, butterflies, chemistry, spark, tension, attraction, seduction, flirting, teasing
+## Date night
+candle light dinner, rose petals, chocolate, strawberries, wine night, date night, anniversary night, honeymoon night, valentine's night, late night drive, long drive
+## Hotel words
+hotel room, oyo rooms, couple friendly, check in, do not disturb, room service, bathtub, jacuzzi, king size bed, mini bar
+## Nightwear
+lingerie, nightie, bikini, boxers, silk robe, pyjamas, shorts, tank top
+## Dance styles (adult)
+pole dance, belly dance, item number, bar dancer, cabaret, burlesque, salsa night, tango night
+## Hot words
+sexy, hot, sizzling, bold, steamy, spicy, kinky, naughty
+dirty, wild, crazy, frisky, in the mood, turned on, flirty
+## Cheesy words
+cheesy, corny, cringe, awkward, smooth, suave, charming, seductive, mysterious, confident, cocky
+## Compliments
+cute, adorable, gorgeous, handsome, pretty, beautiful, stunning, dashing, hunk, babe, hottie, stud
+## Pet names
+baby, sweetheart, darling, honey, sweetie, cutie, love, dear, shona, babu, jaan pet name, hubby, wifey
+## Couple terms
+mister, missus, partner in crime, main squeeze, boo thang, bae goals, couple goals, relationship goals, pda, lovey dovey
+## Love types
+head over heels, puppy love, young love, true love, old love, lost love, forbidden love, unrequited love, one sided love, love triangle, love at first sight
+## Romance tropes
+slow burn, enemies to lovers, friends to lovers, fake dating, second chance, forced proximity, grumpy sunshine, opposites attract, childhood friends, holiday romance, monsoon romance
+## Couple activities
+rainy day, long walk, late night talk, deep talk, pillow fight, tickle fight, play fight, staring contest, thumb war, arm wrestling
+## Couple promises
+pinky promise, cross my heart, secret handshake, inside joke, nickname, pet name, love letter, love note, mixtape, playlist
+## Love poetry
+love song, dedication, serenade, poem, shayari, ghazal, nazm, sher, love ballad
