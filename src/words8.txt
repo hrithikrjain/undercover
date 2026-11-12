@@ -2,7 +2,7 @@
 ## Spirits
 whisky, rum, vodka, gin, tequila, brandy, scotch, single malt, cognac
 ## Desi liquor
-feni, toddy, desi daru, country liquor, mahua, tharra, arrack, bhang drink
+feni, toddy, desi daru, country liquor, mahua, tharra, arrack
 ## Beer types
 beer, draught beer, craft beer, pint, mug of beer, light beer, strong beer, ipa, wheat beer
 ## Wine types
@@ -78,11 +78,11 @@ walk of shame, morning after, embarrassing stories, lost phone, lost wallet, mis
 ## Drunk behaviour
 drunk texts, drunk dial, drunk call to ex, drunk dancing, drunk crying, drunk singing, drunk confession, drunk proposal, drunk fight, drunk hug, drunk selfie, drunk story, drunk post
 ## Late night
-sutta break, late night drive, late night snack, drunk food, 3am maggi, midnight biryani, chai at 2am, egg roll at night
+sutta break, late night drive, late night snack, drunk food, 3am maggi, midnight biryani, chai at 2am
 ## Dating apps
 tinder, bumble, okcupid, aisle, truly madly, grindr, happn, badoo, coffee meets bagel, raya
 ## Matrimony sites
-shaadi com, jeevansathi, bharat matrimony, betterhalf, matrimony com, rishta aunty app
+shaadi com, jeevansathi, bharat matrimony, betterhalf, matrimony com
 ## Date types
 date, first date, blind date, double date, dinner date, coffee date, movie date, netflix and chill, long drive date, candle light dinner
 ## Casual dating
@@ -116,7 +116,7 @@ break, time out, pause, cold shoulder, silent treatment, fight, argument, make u
 ## Relationship problems
 jealousy, trust issues, commitment issues, possessive, clingy, controlling, manipulative, needy, insecure partner
 ## Toxic partner types
-toxic, abusive, narcissist, gaslighter, cheater, liar, heartbreaker, womanizer, tease, player type
+toxic, abusive, narcissist, gaslighter, cheater, liar, heartbreaker, womanizer, tease
 ## Relationship status
 single, taken, married, complicated, it's complicated, divorced, widowed, engaged, separated, lonely, desperate, thirsty
 ## Wedding types
@@ -132,15 +132,15 @@ reception, honeymoon, grihapravesh, pag phera, muh dikhai, walima, post wedding 
 ## Bride and groom
 bride, groom, dulhan, dulha, bridesmaid, groomsman, best man, maid of honour, flower girl, ring bearer
 ## Wedding officials
-pandit, priest, qazi, wedding planner, wedding photographer, band baaja, dj wedding, decorator, caterer, mehendi artist
+pandit, priest, qazi, wedding planner, wedding photographer, band baaja, decorator, caterer, mehendi artist
 ## Wedding family
 father of the bride, mother of the bride, in laws, samdhi, samdhan, jijaji, bhaiya, mamaji, chachaji, cousin brigade
 ## Wedding squads
-groom's squad, bride's squad, baraati, bridezilla, momzilla, nosy aunty, dance uncle, selfie aunty, gossip gang, matchmaker aunty, rishta aunty, wedding crasher, ex at the wedding
+groom's squad, bride's squad, baraati, bridezilla, momzilla, nosy aunty, dance uncle, selfie aunty, gossip gang, matchmaker aunty, rishta aunty, wedding crasher
 ## Wedding venue
 mandap, stage, varmala stage, jaimala stage, doli, palki, ghodi, decorated car, elephant entry, fireworks entry, drone entry, sparkler entry, flower shower, phoolon ki chadar
 ## Wedding outfits
-lehenga, sherwani, safa, sehra, kalire, chooda, mehendi design, bridal makeup, bridal lehenga, dupatta setting
+lehenga, sherwani, safa, sehra, kalire, chooda, mehendi design, bridal makeup, bridal lehenga
 ## Wedding rings
 wedding ring, engagement ring, diamond ring, solitaire, mangalsutra, nath, haar, bangles set
 ## Wedding invites
@@ -148,7 +148,7 @@ wedding card, invitation, e invite, guest list, save the date, wedding date, shu
 ## Wedding gifts
 dowry, dahej, shagun, lifafa, envelope, cash gift, wedding registry, wedding gift, return gift, gold gift
 ## Wedding food
-wedding cake, wedding feast, bhoj, pangat, buffet, live counter, chaat counter, dessert counter, bar counter, paid bar, open bar wedding
+wedding cake, wedding feast, bhoj, pangat, buffet, live counter, chaat counter, dessert counter, bar counter, paid bar
 ## Wedding dances
 first dance, couple dance, family dance, group dance, bollywood dance, sangeet performance, nagin dance, baraat dance, dhol, shehnai
 ## Wedding songs
@@ -156,21 +156,21 @@ wedding song, mehendi song, haldi song, baraat song, bidaai song, sangeet song, 
 ## Casino games
 casino, poker, blackjack, roulette, slot machine, baccarat, craps, bingo, keno
 ## Indian card games
-teen patti, rummy, andar bahar, satta, matka, lottery, scratch card, bluff game, 29, judgement
+teen patti, rummy, andar bahar, satta, matka, lottery, scratch card, 29, judgement
 ## Betting words
 horse racing, betting, bookie, bet, wager, odds, jackpot, stake, bankroll, high roller, whale, house edge
 ## Poker moves
 all in, fold, bluff, call, raise, check, ante, blind, pot, chips, dealer, croupier
 ## Poker hands
-flush, straight, full house, royal flush, four of a kind, three of a kind, two pair, pair, high card, straight flush
+flush, straight, full house, royal flush, four of a kind, three of a kind, two pair, pair, ace of spades, straight flush
 ## Playing cards
-king card, queen card, jack, joker card, spade, heart card, club card, diamond card, trump
+king of hearts, queen of hearts, jack, red joker, spade, hearts, clubs, diamonds, trump
 ## Fantasy apps
 dream11, mpl, my11circle, rummy circle, winzo, zupee, ludo supreme, fantasy cricket, fantasy football, a23
 ## Betting apps
 betting app, 1xbet, bet365, parimatch, dafabet, fairplay, satta king, ipl betting, cricket betting, football betting, horse betting
 ## Diwali cards
-diwali cards, diwali taash, taash party, card party, poker night diwali, flush night, rummy night, kitty cards
+diwali cards, diwali taash, taash party, card party, kitty cards
 ## Gambling trouble
 gambling addiction, gamblers anonymous, debt, loan shark, pawn, mortgage, bankrupt, broke, loan, emi, credit card debt
 ## Smoking items
@@ -213,7 +213,7 @@ cheesy, corny, cringe, awkward, smooth, suave, charming, seductive, mysterious, 
 ## Compliments
 cute, adorable, gorgeous, handsome, pretty, beautiful, stunning, dashing, hunk, babe, hottie, stud
 ## Pet names
-baby, sweetheart, darling, honey, sweetie, cutie, love, dear, shona, babu, jaan pet name, hubby, wifey
+baby, sweetheart, darling, honey, sweetie, cutie, love, dear, shona, babu, hubby, wifey
 ## Couple terms
 mister, missus, partner in crime, main squeeze, boo thang, bae goals, couple goals, relationship goals, pda, lovey dovey
 ## Love types

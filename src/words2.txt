@@ -326,7 +326,7 @@ necklace, pendant, mangalsutra, maang tikka, brooch, cufflinks, chain
 belt, wallet, purse, handbag, clutch, sling bag, tote, laptop bag, duffel bag, fanny pack
 ## Headwear
 cap, hat, beanie, turban, pagdi, helmet, headband, bandana
-hijab, scarf, stole, muffler, shawl, dupatta scarf
+hijab, scarf, stole, muffler, shawl
 ## Eyewear
 sunglasses, spectacles, goggles, contact lens, reading glasses, aviators, wayfarers
 ## Rain gear

@@ -117,7 +117,7 @@ surya namaskar, pranayama, anulom vilom, kapalbhati, bhramari, om chanting, medi
 tadasana, vrikshasana, bhujangasana, dhanurasana, padmasana, chakrasana, sirsasana
 ## Sleep
 sleep, nap, power nap, siesta, snooze, doze, dream, nightmare
-insomnia sleep, sleepwalking, snoring, lullaby, bedtime, wake up, alarm
+sleepwalking, snoring, lullaby, bedtime, wake up, alarm
 ## Meals
 breakfast, lunch, dinner, brunch, snack, supper, midnight snack, high tea, tiffin, buffet, feast, fast
 ## Grooming routine

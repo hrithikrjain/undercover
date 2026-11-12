@@ -3,7 +3,7 @@
 idli, dosa, uttapam, vada, appam, medu vada, pongal, upma
 masala dosa, rava dosa, set dosa, neer dosa, paper dosa, pesarattu
 ## North Indian breakfast
-poha, sabudana khichdi, daliya, sheera, upma plate
+poha, sabudana khichdi, daliya, sheera
 paratha, roti, naan, kulcha, bhatura, puri, chapati, thepla, rumali roti
 aloo paratha, gobi paratha, paneer paratha, methi paratha, mooli paratha
 chole bhature, pav bhaji, misal pav, vada pav, dabeli, kachori
@@ -25,7 +25,7 @@ namkeen, bhujia, chivda, mixture, mathri, sev, chakli, murukku, banana chips, mo
 ## Street rolls
 frankie, kathi roll, egg roll, shawarma roll, paneer roll, chicken roll, wrap
 ## Indo Chinese
-chowmein, hakka noodles, fried rice, manchurian, chilli chicken, schezwan noodles, chilli paneer, spring roll chinese, triple schezwan, american chopsuey
+chowmein, hakka noodles, fried rice, manchurian, chilli chicken, schezwan noodles, chilli paneer, triple schezwan, american chopsuey
 ## Rice dishes (Indian)
 biryani, pulao, khichdi, jeera rice, curd rice, lemon rice, tamarind rice, ghee rice, bisi bele bath
 hyderabadi biryani, lucknowi biryani, kolkata biryani, malabar biryani, dum biryani, chicken biryani, mutton biryani, egg biryani, veg biryani
@@ -96,7 +96,7 @@ strawberry, blueberry, raspberry, blackberry, cranberry, cherry, grapes
 ## Melons
 watermelon, muskmelon, honeydew
 ## Dry fruits
-coconut, dates, figs, raisins, almonds, cashews, walnuts, pistachios, apricot dried, prunes
+coconut, dates, figs, raisins, almonds, cashews, walnuts, pistachios, prunes
 ## Exotic fruits
 dragon fruit, avocado, passion fruit, pomegranate
 ## Root vegetables

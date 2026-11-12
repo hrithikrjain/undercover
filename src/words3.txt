@@ -38,7 +38,7 @@ writer, author, poet, journalist, reporter, editor, blogger, novelist, screenwri
 ## Film crew
 photographer, videographer, cinematographer, cameraman, director, producer, choreographer, stylist, makeup artist, hairstylist
 ## Visual artists
-painter artist, cartoonist, animator, illustrator, graphic designer, tattoo artist, sketch artist, calligrapher
+cartoonist, animator, illustrator, graphic designer, tattoo artist, sketch artist, calligrapher
 ## Politicians
 politician, minister, mp, mla, prime minister, president, chief minister, mayor, sarpanch, governor, councillor
 bureaucrat, ias officer, ips officer, diplomat, ambassador, collector
@@ -81,7 +81,7 @@ wide, no ball, bye, leg bye, free hit
 run out, stumping, lbw, catch, bowled, hit wicket
 ## Cricket players
 batsman, bowler, wicketkeeper, fielder, all rounder, opener, finisher, night watchman, twelfth man, spinner, pacer
-captain, umpire, third umpire, coach cricket, selector, commentator
+captain, umpire, third umpire, selector, commentator
 ## Cricket formats
 test match, odi, t20, ipl, world cup, ranji trophy, asia cup, champions trophy, duleep trophy
 ## Bowling types
@@ -92,10 +92,10 @@ cover drive, pull shot, hook, sweep, reverse sweep, helicopter shot, scoop, cut,
 slip, gully, point, cover, mid off, mid on, mid wicket, square leg, fine leg, third man, long on, long off
 ## Football terms
 goal, penalty, free kick, corner, throw in, offside, own goal, header
-red card, yellow card, tackle, dribble, nutmeg, bicycle kick, hat trick football
+red card, yellow card, tackle, dribble, nutmeg, bicycle kick
 ## Football positions
 striker, goalkeeper, defender, midfielder, winger, forward, centre back, full back
-referee, linesman, manager, substitute, captain football, var
+referee, linesman, manager, substitute, var
 ## Creative hobbies
 reading, writing, painting, drawing, sketching, calligraphy, doodling
 origami, pottery, knitting, embroidery, stitching, crochet, quilting
@@ -126,9 +126,9 @@ bhangra, sufi, qawwali, ghazal, bhajan, carnatic, hindustani, item song, lullaby
 ## Indian classical dance
 bharatanatyam, kathak, kuchipudi, odissi, kathakali, mohiniyattam, manipuri, sattriya
 ## Indian folk dance
-bhangra dance, garba, dandiya, lavani, bihu, ghoomar, gidda, kalbelia, chhau, dollu kunitha
+garba, dandiya, lavani, bihu, ghoomar, gidda, kalbelia, chhau, dollu kunitha
 ## Western dance
-hip hop dance, breakdance, salsa, ballet, tango, waltz, zumba dance, contemporary, freestyle, belly dance
+breakdance, salsa, ballet, tango, waltz, contemporary, freestyle, belly dance
 pole dance, tap dance, krumping, popping, locking, moonwalk, twerking, robot dance
 ## Parents
 mother, father, mom, dad, mummy, papa, parents, amma, appa, baba, aai

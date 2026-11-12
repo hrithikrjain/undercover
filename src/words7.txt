@@ -33,7 +33,7 @@ senegal, cameroon, mauritius, madagascar, congo, mali, namibia, botswana, mozamb
 ## Oceania countries
 australia, new zealand, fiji, papua new guinea, samoa, tonga
 ## Continents
-asia, europe, africa, north america, south america, australia continent, antarctica
+asia, europe, africa, north america, south america, oceania, antarctica
 ## Regions
 middle east, far east, south east asia, scandinavia, balkans, caribbean, latin america, gulf, mediterranean, sub continent, siberia, arctic, himalayas
 ## Major currencies
@@ -83,7 +83,7 @@ christmas, easter, good friday, new year, thanksgiving, halloween, boxing day, s
 ## World party festivals
 oktoberfest, carnival, la tomatina, day of the dead, mardi gras, coachella, tomorrowland festival, burning man, glastonbury, holi moo
 ## Sikh, Buddhist and Jain festivals
-guru nanak jayanti, gurpurab, hola mohalla, buddha purnima, mahavir jayanti, paryushan, baisakhi sikh, losar buddhist
+guru nanak jayanti, gurpurab, hola mohalla, buddha purnima, mahavir jayanti, paryushan
 ## National days
 independence day, republic day, gandhi jayanti, labour day, earth day, yoga day, world environment day, constitution day, army day, navy day
 ## Family days
@@ -95,9 +95,7 @@ mumbai indians, chennai super kings, royal challengers bangalore, kolkata knight
 ## Old IPL teams
 deccan chargers, kochi tuskers, pune warriors, gujarat lions, rising pune supergiant, kings xi punjab, delhi daredevils
 ## Cricket nations (top)
-australia cricket, england cricket, pakistan cricket, south africa cricket, new zealand cricket, sri lanka cricket, west indies, bangladesh cricket
 ## Cricket nations (associate)
-afghanistan cricket, zimbabwe cricket, ireland cricket, netherlands cricket, scotland cricket, nepal cricket, namibia, usa cricket, uae cricket, oman cricket
 ## Premier League big six
 manchester united, manchester city, liverpool, chelsea, arsenal, tottenham
 ## Premier League others
@@ -117,9 +115,7 @@ inter miami, la galaxy, al nassr, al hilal, al ittihad, boca juniors, river plat
 ## ISL clubs
 mumbai city, bengaluru fc, kerala blasters, mohun bagan, east bengal, fc goa, chennaiyin, hyderabad fc, odisha fc, jamshedpur fc, northeast united, punjab fc, mohammedan sporting
 ## Football nations (Europe)
-france football, germany football, spain football, italy football, portugal football, england football, netherlands football, belgium football, croatia football
 ## Football nations (world)
-brazil football, argentina football, uruguay football, mexico football, japan football, south korea football, morocco football, senegal football, nigeria football, ghana football, cameroon football, saudi football, india football
 ## Cricket tournaments (international)
 world cup, t20 world cup, champions trophy, asia cup, border gavaskar trophy, ashes, wtc final
 ## Cricket leagues
@@ -167,7 +163,7 @@ western ghats, eastern ghats, aravalli, vindhya, satpura, nilgiris, shivalik
 ## Himalayan peaks
 everest, k2, kanchenjunga, nanda devi, nanga parbat, dhaulagiri, makalu, lhotse, manaslu
 ## World peaks
-kilimanjaro, mont blanc, matterhorn, mount fuji peak
+kilimanjaro, mont blanc, matterhorn, mt fuji
 ## Indian peaks
 ## Deserts
 thar, sahara desert, gobi desert, arabian desert, kalahari desert, atacama, mojave, namib, rann of kutch desert, ladakh cold desert
@@ -236,7 +232,7 @@ maurya, gupta, chola, harappan, vedic
 ## Medieval Indian empires
 mughal, maratha, rajput, vijayanagara, delhi sultanate, nizam, nawab, sikh empire
 ## Colonial India
-british raj, east india company, sepoy mutiny, partition, independence, constitution, viceroy rule, princely states
+british raj, east india company, sepoy mutiny, partition, independence, constitution, princely states
 ## Freedom movements
 quit india, dandi march, non cooperation, civil disobedience, swadeshi, salt satyagraha
 ## Freedom events
@@ -273,7 +269,7 @@ duke, duchess, lord, lady, viceroy
 ## Foreign rulers
 sultan, nawab, pharaoh, caesar, tsar, kaiser, shah, khan
 ## Warriors
-samurai, ninja, knight, gladiator, warrior, soldier, viking warrior
+samurai, ninja, knight, gladiator, warrior, soldier
 ## Army ranks
 general, admiral, commander, captain, colonel, major, lieutenant, sergeant, private
 ## Zodiac signs (English)
@@ -333,7 +329,7 @@ hydrogen, helium, oxygen, nitrogen, chlorine
 ## Common elements
 carbon, sodium, potassium, calcium, zinc, lead, magnesium, silicon, lithium, iodine, phosphorus, sulphur
 ## Metals (elements)
-mercury element, uranium, plutonium, titanium, nickel, tin
+quicksilver metal, uranium, plutonium, titanium, nickel, tin
 ## Forces
 gravity, friction, magnetism, electricity, force, pressure, momentum, inertia
 ## Motion words
@@ -341,7 +337,7 @@ velocity, acceleration, mass, weight, density, volume, temperature, speed
 ## Energy words
 light, sound, heat, energy, radiation, evaporation, condensation, nuclear fission, nuclear fusion
 ## Physics theories
-big bang, relativity, quantum, black hole physics, dark matter
+big bang, relativity, quantum, dark matter
 ## Atom parts
 electron, proton, neutron, nucleus, atom, molecule
 ## Life processes
@@ -363,7 +359,7 @@ refrigerator, air conditioner, microwave, washing machine, vacuum, sewing machin
 ## Medical inventions
 vaccine, penicillin, x ray, anaesthesia, stethoscope, plastic surgery
 ## Indian inventions
-zero, chess game, yoga, ayurveda, shampoo, buttons, ink
+zero, yoga, ayurveda, shampoo, buttons, ink
 ## Tech connectivity
 usb, fibre optics, email, wifi, bluetooth, 5g, iot
 ## New tech
@@ -393,7 +389,7 @@ embroidery, crochet, origami, pottery, sculpture, calligraphy, graffiti, mural, 
 ## Puppetry
 puppetry, kathputli, shadow puppet, ventriloquism
 ## Famous Indian vehicles
-tata nano, maruti 800, ambassador, bajaj chetak, hero honda splendor, royal enfield bullet, mahindra jeep, bajaj scooter
+tata nano, maruti 800, ambassador, bajaj chetak, hero honda splendor, royal enfield bullet, mahindra jeep
 ## Iconic Indian ads
 ## Iconic Indian products
 ## Iconic Indian snacks

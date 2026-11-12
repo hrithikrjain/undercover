@@ -12,7 +12,7 @@ intel, amd, nvidia, qualcomm, snapdragon, mediatek, exynos, ryzen
 ## Tech giants (US)
 microsoft, google, amazon, meta, netflix, tesla, ibm, oracle, adobe, cisco, openai, spacex, twitter
 ## Tech giants (China)
-tiktok, alibaba, tencent, bytedance, baidu, huawei tech, xiaomi tech, byd tech
+tiktok, alibaba, tencent, bytedance, baidu
 ## Indian IT companies
 tcs, infosys, wipro, hcl, tech mahindra, cognizant, accenture, capgemini, zoho, freshworks, mindtree, mphasis
 ## Consulting firms
@@ -44,7 +44,7 @@ seltos, sonet, carens, carnival, slavia, kushaq, octavia, superb, kodiaq
 ## Other car models
 kwid, duster, polo, hector, astor, compass, wrangler, endeavour, ecosport, figo
 ## Indian bike brands
-hero, honda bikes, bajaj, tvs, royal enfield, yamaha, suzuki, jawa
+hero, bajaj, tvs, royal enfield, yamaha, suzuki, jawa
 ## Premium bike brands
 ktm, kawasaki, harley davidson, ducati, bmw motorrad, aprilia, benelli
 ## Electric scooter brands
@@ -96,7 +96,7 @@ gucci, prada, louis vuitton, chanel, dior, versace, armani, hermes, balenciaga, 
 ## Luxury fashion (others)
 burberry, ralph lauren, hugo boss, michael kors, coach, kate spade, off white, supreme, balmain, tom ford
 ## Luxury shoe brands
-jimmy choo, christian louboutin, manolo blahnik, gucci shoes, prada shoes
+jimmy choo, christian louboutin, manolo blahnik
 ## Sports shoe brands
 nike, adidas, puma, reebok, new balance, asics, skechers, fila, hoka, salomon
 ## Sneaker brands
@@ -108,7 +108,7 @@ hush puppies, clarks, crocs, birkenstock, aldo, steve madden, charles and keith,
 ## Swiss watch brands
 rolex, omega, tissot, rado, tag heuer, patek philippe, audemars piguet, hublot, breitling, iwc, panerai, longines
 ## Luxury watch brands (other)
-cartier watches, movado, bulgari, richard mille, montblanc watches, chopard, piaget
+movado, bulgari, richard mille, chopard, piaget
 ## Everyday watch brands
 casio, fossil, titan, fastrack, sonata, daniel wellington, g shock, armani exchange, guess, swatch, citizen, titan raga
 ## Smartwatch brands
@@ -197,13 +197,13 @@ colgate, pepsodent, close up, sensodyne, dabur red, dant kanti, oral b, meswak, 
 ## Colgate variants
 colgate max fresh, colgate total, colgate visible white
 ## Soap brands (international)
-dove, lux, pears, lifebuoy, dettol, fiama, palmolive, camay, rexona, nivea soap
+dove, lux, pears, lifebuoy, dettol, fiama, palmolive, camay, rexona
 ## Soap brands (Indian)
-santoor, cinthol, medimix, mysore sandal, liril, hamam, godrej no 1, chandrika, margo, savlon, vivel, nirma soap, wheel soap
+santoor, cinthol, medimix, mysore sandal, liril, hamam, godrej no 1, chandrika, margo, savlon, vivel
 ## Shampoo brands (international)
-head and shoulders, pantene, sunsilk, clinic plus, tresemme, l'oreal, garnier, dove shampoo
+head and shoulders, pantene, sunsilk, clinic plus, tresemme, l'oreal, garnier
 ## Shampoo brands (Indian)
-kesh kanti, indulekha, kesh king, himalaya shampoo, chik, meera, nyle, vatika, biotique, mamaearth, wow
+kesh kanti, indulekha, kesh king, chik, meera, nyle, vatika, biotique, mamaearth, wow
 ## Salon hair brands
 kerastase, schwarzkopf, wella, matrix, olaplex, bblunt, streax, godrej expert
 ## Hair oil brands
@@ -222,15 +222,14 @@ clinique, nars, too faced, urban decay, benefit
 ## Dermatologist skincare brands
 cetaphil, neutrogena, olay, simple, cerave, la roche posay, bioderma, kiehl's
 ## Indian skincare brands
-forest essentials, kama ayurveda, mcaffeine, minimalist, the ordinary, dot and key, plum skincare, mamaearth skincare, biotique skincare, lotus herbals, vlcc, himalaya
+forest essentials, kama ayurveda, mcaffeine, minimalist, the ordinary, dot and key, lotus herbals, vlcc, himalaya
 ## Korean skincare brands
 laneige, innisfree, the face shop, cosrx, beauty of joseon, etude house, missha
 ## Classic skincare brands
 nivea, ponds, vaseline, boroline, boro plus, the body shop, bath and body works, fair and lovely, glow and lovely
 ## Men's deodorant brands
-axe, wild stone, fogg, engage, denver, yardley, nivea men, garnier men, old spice, park avenue deo, kamasutra deo
+axe, wild stone, fogg, engage, denver, yardley, nivea men, garnier men, old spice, kamasutra
 ## Sports deodorant brands
-nike deo, adidas deo, skinn
 ## Attar brands
 ajmal, al haramain, rasasi
 ## Shaving brands
@@ -251,9 +250,9 @@ pampers, huggies, mamypoko, himalaya baby, johnson's baby, dabur lal tail, chicc
 ## Baby food brands
 cerelac, nan, lactogen, farex, similac, enfamil
 ## TV brands (big)
-lg, samsung tv, sony bravia, panasonic, philips, toshiba, sharp, hisense, tcl, lg oled, samsung qled
+lg, sony bravia, panasonic, philips, toshiba, sharp, hisense, tcl, lg oled, samsung qled
 ## TV brands (budget)
-mi tv, vu, thomson, sansui, akai, sanyo, realme tv, oneplus tv, kodak tv, onida, videocon, bpl
+mi tv, vu, thomson, sansui, akai, sanyo, onida, videocon, bpl
 ## AC brands
 voltas, lloyd, daikin, blue star, carrier, hitachi, haier
 ## Washing machine and fridge brands
@@ -269,7 +268,7 @@ havells, crompton, usha, orient, atomberg
 ## Cooler brands
 symphony, kenstar
 ## Vacuum and chimney brands
-dyson, faber, elica, glen, kaff, hindware kitchen, cata, franke
+dyson, faber, elica, glen, kaff, cata, franke
 ## Kitchenware brands
 milton, cello, tupperware, borosil, la opala, corelle
 ## Modular kitchen brands
@@ -284,7 +283,7 @@ jk cement, ultratech, ambuja, acc, birla white, shree cement
 ## Steel brands
 tata steel, jsw steel
 ## Adhesive brands
-pidilite, m seal, dr fixit, fevicol brand, araldite, fevikwik
+pidilite, m seal, dr fixit, araldite, fevikwik
 ## Power tool brands
 bosch tools, dewalt, black and decker, makita, stanley tools, taparia
 ## Tile brands
@@ -444,7 +443,6 @@ prestige group, sobha, brigade, embassy, puravankara
 dlf, omaxe, supertech, amrapali, jaypee, unitech, m3m, emaar
 ## Tech parks
 ## Food and delivery unicorns
-swiggy delivery, zomato delivery, blinkit delivery, zepto delivery, dunzo delivery, rebel foods
 ## Fintech unicorns
 paytm, phonepe, razorpay, cred, groww, upstox, zerodha, bharatpe, coindcx, coinswitch, acko, digit, policybazaar, slice
 ## Edtech unicorns
@@ -471,7 +469,7 @@ ibis, sofitel, ramada, holiday inn, crowne plaza
 four seasons, ritz carlton, jw marriott, westin, sheraton, le meridien, grand hyatt
 ## Mid hotel brands
 ## Hotel booking apps
-airbnb, booking com, expedia, agoda, trivago, kayak, tripadvisor, oyo app
+airbnb, booking com, expedia, agoda, trivago, kayak, tripadvisor
 ## Flight booking apps
 skyscanner, google flights, makemytrip, goibibo, yatra, cleartrip, ixigo, easemytrip
 ## Train and bus apps
@@ -485,7 +483,7 @@ hamleys, toys r us, mothercare
 ## Game brands
 uno, monopoly, jenga, rubik's, cluedo
 ## Indian pen brands
-reynolds, cello pens, classmate, camlin, apsara, natraj, doms, linc, flair, luxor, hauser, add gel, rorito
+reynolds, cello, classmate, camlin, apsara, natraj, doms, linc, flair, luxor, hauser, add gel, rorito
 ## International pen brands
 faber castell, staedtler, parker, pilot, uni ball, montblanc, cross, lamy, waterman, sheaffer
 ## Stationery brands

@@ -10,7 +10,7 @@ hum aapke hain koun, maine pyar kiya, hum saath saath hain, saajan, raja hindust
 ## Bollywood new romance
 jab we met, love aaj kal, rockstar, tamasha, yeh jawaani hai deewani, ae dil hai mushkil, cocktail, wake up sid, student of the year
 ## Bollywood tragic romance
-aashiqui 2, ek villain, kabir singh, sanam teri kasam, half girlfriend, raabta, ok jaanu, devdas film
+aashiqui 2, ek villain, kabir singh, sanam teri kasam, half girlfriend, raabta, ok jaanu, devdas
 ## Bollywood friendship films
 dil chahta hai, zindagi na milegi dobara, 3 idiots, rang de basanti, chhichhore, kai po che, jaane tu ya jaane na
 ## Bollywood bro comedy
@@ -24,7 +24,7 @@ pathaan, tiger zinda hai, ek tha tiger, tiger 3, fighter, jawan, animal, kill
 singham, dabangg, wanted, rowdy rathore, bodyguard, simmba, sooryavanshi, kick, ready, ghajini, holiday
 ## Bollywood patriotic
 uri, kesari, tanhaji, shershaah, baby, raazi, mission majnu, special 26
-gadar, gadar 2, border, lakshya, airlift, lok, rang de basanti patriotic
+gadar, gadar 2, border, lakshya, airlift, lok
 ## Bollywood comedy (Akshay and Priyadarshan)
 hera pheri, phir hera pheri, welcome, housefull, garam masala, bhagam bhag, de dana dan, hungama, chup chup ke
 ## Bollywood comedy (others)
@@ -53,7 +53,7 @@ magadheera, eega, arjun reddy, ala vaikunthapurramuloo, sarkaru vaari paata, gun
 ## Tamil hits
 jailer, leo, vikram, master, kaithi, ponniyin selvan, 2.0, robot, sivaji, 96
 ## Malayalam and Kannada hits
-premam, bangalore days, manjummel boys, drishyam original, lucifer malayalam, 777 charlie, kirik party, ugramm
+premam, bangalore days, manjummel boys, lucifer film, 777 charlie, kirik party, ugramm
 ## Hollywood epics
 titanic, avatar, jurassic park, gladiator, braveheart, troy, 300, ben hur
 ## Nolan films
@@ -78,7 +78,7 @@ lucy, limitless, looper, in time, wall e, elysium, oblivion
 ## Hollywood monster and alien films
 transformers, pacific rim, godzilla, independence day, men in black, king kong, cloverfield, war of the worlds
 ## Hollywood dystopian YA
-the hunger games, divergent, maze runner, ender's game, ready player one ya
+the hunger games, divergent, maze runner, ender's game
 ## Hollywood haunted house horror
 the conjuring, annabelle, the nun, insidious, paranormal activity, poltergeist, sinister, ouija, lights out
 ## Hollywood classic horror
@@ -87,7 +87,7 @@ the exorcist, the shining, psycho, the ring, the grudge, evil dead, chucky, hall
 it, final destination, a quiet place, hereditary, get out, us, smile, nope
 the purge, don't breathe, bird box, train to busan, the sixth sense, orphan, split, m3gan, talk to me
 ## Hollywood romance classics
-the notebook, la la land, pretty woman, notting hill, love actually, 500 days of summer, before sunrise, ghost, titanic romance
+the notebook, la la land, pretty woman, notting hill, love actually, 500 days of summer, before sunrise, ghost
 ## Hollywood rom com
 crazy rich asians, the proposal, 50 first dates, the holiday, about time, crazy stupid love, friends with benefits, no strings attached
 ## Hollywood teen romance
@@ -101,23 +101,23 @@ the hangover, superbad, 21 jump street, ted, we're the millers, central intellig
 ## Hollywood family comedy
 home alone, mr bean, mrs doubtfire, night at the museum, elf, grown ups, click, happy gilmore, meet the parents, free guy
 ## Jim Carrey comedy
-dumb and dumber, the mask, ace ventura, liar liar, bruce almighty, yes man, the truman show carrey
+dumb and dumber, the mask, ace ventura, liar liar, bruce almighty, yes man
 ## Hollywood spoof comedy
 zoolander, anchorman, step brothers, austin powers, scary movie, white chicks, nutty professor, johnny english, borat, the dictator
 ## Fantasy book franchises
-harry potter, lord of the rings, the hobbit, narnia, twilight saga, hunger games, percy jackson, fantastic beasts, game of thrones
+harry potter, lord of the rings, the hobbit, narnia, hunger games, percy jackson, fantastic beasts, game of thrones
 ## Adventure franchises
 pirates of the caribbean, the mummy, indiana jones, national treasure, jurassic world, planet of the apes, tomb raider, uncharted
 ## Disney live action
 the wizard of oz, alice in wonderland, peter pan, maleficent, cinderella, beauty and the beast, the jungle book, mary poppins, the greatest showman
 ## Spy franchises
-james bond, kingsman, mission impossible spy, bourne spy, the man from uncle, johnny english spy, salt, atomic blonde
+james bond, kingsman, the man from uncle, salt, atomic blonde
 ## Boxing and fighting franchises
 rocky, creed, the karate kid, ip man, warrior, million dollar baby, raging bull, cinderella man
 ## Video game films
 resident evil, mortal kombat, sonic the hedgehog, super mario bros, need for speed, prince of persia, assassin's creed, warcraft, detective pikachu
 ## Team action franchises
-hobbs and shaw, g i joe, power rangers, teenage mutant ninja turtles, the expendables team, suicide squad film, a team
+hobbs and shaw, g i joe, power rangers, teenage mutant ninja turtles, a team
 ## Historical action
 spartacus, robin hood, king arthur, the last samurai, kingdom of heaven, the patriot, master and commander
 ## Avengers
@@ -145,7 +145,7 @@ shaktimaan, krrish, ra one, mr india, flying jatt, minnal murali, bhavesh joshi,
 ## Indian comic heroes
 chacha chaudhary, nagraj, super commando dhruv, doga, bhokal, parmanu, tinkle heroes, suppandi, shikari shambhu, kalia the crow
 ## Indian TV heroes
-junior g, baalveer, hatim, aryamaan, captain vyom, shaka laka boom boom hero, karishma ka karishma robot, vicky
+junior g, baalveer, hatim, aryamaan, captain vyom, vicky
 ## Pixar films (classic)
 toy story, finding nemo, finding dory, the incredibles, monsters inc, cars, up, ratatouille, wall e, a bug's life
 ## Pixar films (new)
@@ -178,7 +178,7 @@ your name, weathering with you, suzume, a silent voice, wolf children, the garde
 chhota bheem, motu patlu, bal ganesh, little krishna, roll no 21, pakdam pakdai, gattu battu, mighty raju, super bheem
 rudra, shiva, kris, vir the robot boy, bandbudh aur budbak, guru aur bhole, honey bunny, kicko and super speedo, golmaal jr
 ## Japanese cartoons (Indian TV)
-shinchan, doraemon, ninja hattori, kiteretsu, perman, hagemaru, obocchama kun, kochikame, pokemon india
+shinchan, doraemon, ninja hattori, kiteretsu, perman, hagemaru, obocchama kun, kochikame
 ## Preschool cartoons
 peppa pig, masha and the bear, cocomelon, paw patrol, dora the explorer, pingu, oswald, noddy, bob the builder, bluey, teletubbies, thomas the tank engine, barney, blues clues
 ## Cartoon Network classics
@@ -192,7 +192,7 @@ spongebob, hey arnold, rugrats, fairly oddparents, danny phantom, jimmy neutron,
 ## Adult animated series
 rick and morty, simpsons, family guy, south park, futurama, bojack horseman, bob's burgers, american dad, archer, big mouth
 ## Animated action series
-arcane, castlevania, love death and robots, invincible series, blood of zeus, the legend of korra, x men 97, batman the animated series
+arcane, castlevania, love death and robots, blood of zeus, the legend of korra, x men 97, batman the animated series
 ## Indian web series (crime)
 mirzapur, sacred games, family man, scam 1992, delhi crime, paatal lok, asur, farzi, special ops, criminal justice, jamtara, breathe
 ## Indian web series (thriller)
@@ -209,18 +209,18 @@ breaking bad, better call saul, narcos, ozark, peaky blinders, the sopranos, the
 ## Detective series
 sherlock, the blacklist, the mentalist, criminal minds, csi, ncis, law and order, 24, homeland, mr robot, you, bones, castle, monk
 ## Fantasy series
-game of thrones, house of the dragon, the witcher, shadow and bone, the sandman, vikings, the last kingdom, the lord of the rings series, wheel of time, his dark materials, outlander, the tudors, rome series, merlin, once upon a time
+game of thrones, house of the dragon, the witcher, shadow and bone, the sandman, vikings, the last kingdom, rings of power, wheel of time, his dark materials, outlander, the tudors, merlin, once upon a time
 ## Supernatural series
 charmed, supernatural, the vampire diaries, the originals, legacies, teen wolf, buffy, lucifer, the haunting of hill house, midnight mass, american horror story, the walking dead
 ## Sci fi series
 stranger things, dark, black mirror, westworld, the expanse, lost, the 100, fringe, the x files, twin peaks, the twilight zone
 severance, the umbrella academy, locke and key, sweet tooth, the last of us, 3 body problem, silo
 ## Marvel series
-loki, wandavision, hawkeye series, moon knight series, ms marvel series, she hulk series, daredevil series, jessica jones, the punisher series, agents of shield, secret invasion, echo, agatha all along
+loki, wandavision, jessica jones, agents of shield, secret invasion, echo, agatha all along
 ## Star Wars series
 the mandalorian, andor, obi wan kenobi, ahsoka, the book of boba fett, the acolyte, the clone wars, star wars rebels, the bad batch, skeleton crew
 ## DC series
-the boys, the flash series, arrow, supergirl series, gotham, titans, doom patrol, peacemaker series, gen v, the penguin series, smallville, legends of tomorrow
+the boys, arrow, gotham, titans, doom patrol, gen v, the penguin, smallville, legends of tomorrow
 ## Medical series
 grey's anatomy, house, the good doctor, er, new amsterdam, chicago med, the resident, scrubs
 ## Legal and political series
@@ -229,12 +229,12 @@ suits, house of cards, the good wife, succession, the crown, scandal, how to get
 euphoria, sex education, riverdale, gossip girl, outer banks, 13 reasons why, elite, never have i ever
 the summer i turned pretty, heartstopper, ginny and georgia, one tree hill, the oc, pretty little liars, dawson's creek, skins
 ## Period romance series
-bridgerton, emily in paris, downton abbey, the gilded age, outlander romance, reign, the white queen, poldark, anne with an e, little women series
+bridgerton, emily in paris, downton abbey, the gilded age, reign, the white queen, poldark, anne with an e
 ## Korean dramas (romance)
 crash landing on you, goblin, descendants of the sun, business proposal, boys over flowers, true beauty, hometown cha cha cha, start up, my love from the star
 what's wrong with secretary kim, strong woman do bong soon, weightlifting fairy, while you were sleeping, it's okay to not be okay, queen of tears, lovely runner, twenty five twenty one
 ## Korean dramas (thriller)
-squid game korea, all of us are dead, vincenzo, itaewon class, extraordinary attorney woo, reply 1988, hospital playlist, the glory, kingdom, sweet home, hellbound, moving, alice in borderland
+squid game, all of us are dead, vincenzo, itaewon class, extraordinary attorney woo, reply 1988, hospital playlist, the glory, kingdom, sweet home, hellbound, moving, alice in borderland
 ## Classic sitcoms
 friends, the office, how i met your mother, big bang theory, brooklyn nine nine, modern family, two and a half men, seinfeld, frasier, cheers, everybody loves raymond, the king of queens, 2 broke girls, young sheldon
 ## Cult sitcoms
@@ -245,7 +245,7 @@ the middle, malcolm in the middle, everybody hates chris, the fresh prince of be
 what we do in the shadows, it's always sunny in philadelphia, curb your enthusiasm, barry, atlanta, master of none, fleabag, after life, dead to me
 the kominsky method, shrinking, the bear, ted lasso, hacks, abbott elementary, only murders in the building, mythic quest
 ## British comedies
-the it crowd, the inbetweeners, derry girls, extras, peep show, the thick of it, gavin and stacey, miranda, the vicar of dibley, blackadder, fawlty towers, only fools and horses, mr bean series, keeping up appearances
+the it crowd, the inbetweeners, derry girls, extras, peep show, the thick of it, gavin and stacey, miranda, the vicar of dibley, blackadder, fawlty towers, only fools and horses, keeping up appearances
 ## Nickelodeon sitcoms
 drake and josh, icarly, victorious, zoey 101, kenan and kel, all that, the amanda show, ned's declassified, unfabulous, big time rush, henry danger, the thundermans, game shakers
 ## Disney Channel sitcoms
@@ -276,7 +276,7 @@ mahabharat, ramayan, shri krishna, jai hanuman, om namah shivay, devon ke dev ma
 ## Indian historical TV
 chandragupta maurya, porus, jodha akbar, maharana pratap, chakravartin ashoka samrat, jhansi ki rani, veer shivaji, razia sultan, prithviraj chauhan, sher e punjab, rudramadevi
 ## Indian fantasy TV
-chandrakanta, alif laila, vikram aur betaal, singhasan battisi, tenali rama, akbar birbal serial, aladdin naam toh suna hoga, baalveer returns, hero gayab mode on
+chandrakanta, alif laila, vikram aur betaal, singhasan battisi, tenali rama, aladdin naam toh suna hoga, baalveer returns, hero gayab mode on
 ## Indian singing shows
 indian idol, sa re ga ma pa, superstar singer, the voice india, rising star, super singer, sur kshetra, dil hai hindustani, the stage, voice of india
 ## Indian dance shows
