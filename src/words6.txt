@@ -101,7 +101,7 @@ barbeque nation, absolute barbecue, saravana bhavan, sagar ratna, bikanervala, m
 rajdhani, pind balluchi, punjab grill, social, hard rock cafe, chili's, nando's, kailash parbat
 ## Cold drink brands
 coca cola, pepsi, thums up, sprite, limca, fanta
-mirinda, mountain dew, 7up, campa cola, bovonto
+mirinda, mountain dew, 7up, campa cola
 ## Juice brands
 maaza, frooti, slice, real, tropicana, minute maid, paper boat, b natural, appy fizz
 ## Water brands
@@ -139,7 +139,7 @@ nivea men, garnier men, old spice, park avenue, set wet, kamasutra
 he deo, nike, adidas, playboy deo, villain, skinn
 ## Shaving brands
 gillette, bombay shaving company, beardo, ustraa, the man company, philips trimmer
-braun, nova trimmer, park avenue, old spice, godrej shaving cream, vi john
+braun, park avenue, old spice, godrej shaving cream, vi john
 ## Perfume brands
 davidoff cool water, azzaro, dior sauvage, bleu de chanel, creed aventus, versace eros, armani code, hugo boss
 calvin klein, paco rabanne, jean paul gaultier, bella vita, titan skinn, engage, fogg scent
@@ -168,7 +168,7 @@ ikea, urban ladder, pepperfry, home centre, nilkamal, godrej interio, durian, wa
 sleepwell, kurlon, duroflex, the sleep company, wooden street, furlenco, hometown
 ## Online shopping brands
 amazon, flipkart, meesho, myntra, ajio, nykaa, snapdeal
-tata cliq, jiomart, firstcry, lenskart, purplle, zivame, clovia
+tata cliq, jiomart, firstcry, lenskart
 ## Delivery brands
 swiggy, zomato, blinkit, zepto, dunzo, bigbasket, licious
 freshtohome, pharmeasy, 1mg, netmeds, practo, urban company
@@ -223,7 +223,6 @@ news 24, tv9 bharatvarsh, ndtv india, times now navbharat, good news today, indi
 ## English newspapers
 times of india, hindustan times, the hindu, indian express, economic times, mint, business standard
 deccan chronicle, deccan herald, mid day, mumbai mirror, the telegraph, tribune, dna
-the print, the wire, scroll, quint, firstpost
 ## Hindi newspapers
 dainik bhaskar, dainik jagran, amar ujala, navbharat times, hindustan hindi, rajasthan patrika, punjab kesari, prabhat khabar
 nai dunia, lokmat, sakal, loksatta, maharashtra times, eenadu, sakshi, malayala manorama

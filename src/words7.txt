@@ -24,8 +24,7 @@ asia, europe, africa, north america, south america, australia, antarctica
 middle east, far east, south east asia, scandinavia, caribbean, latin america, gulf region, mediterranean, himalayas, arctic
 ## Currencies
 rupee, dollar, euro, pound, yen, yuan
-dirham, riyal, dinar, taka, rand, peso
-lira, won, franc, ringgit, baht, ruble
+dirham, riyal, taka, peso
 ## Crypto
 bitcoin, ethereum, dogecoin, solana, shiba inu, binance coin, crypto coin, nft
 ## Indian languages
@@ -34,8 +33,8 @@ kannada, malayalam, urdu, sanskrit, assamese, odia language, kashmiri, konkani
 sindhi, bhojpuri, haryanvi, rajasthani, tulu, nepali
 ## World languages
 french, spanish, german, italian, portuguese, russian, chinese
-mandarin, japanese, korean, arabic, persian, turkish, hebrew
-greek, latin, dutch, thai language, swahili
+mandarin, japanese, korean, arabic, turkish
+greek, thai language
 ## North Indian states
 jammu and kashmir, himachal pradesh, punjab, haryana, uttarakhand, uttar pradesh, delhi, rajasthan, chandigarh, ladakh
 ## West and Central Indian states
@@ -109,7 +108,7 @@ aravalli, vindhya, satpura, nilgiris, shivalik
 everest, k2, kanchenjunga, nanda devi, annapurna, kilimanjaro, mont blanc, mount fuji, mount kailash, matterhorn
 ## Deserts and seas
 thar, sahara desert, gobi desert, arabian sea, bay of bengal, indian ocean, pacific ocean
-atlantic ocean, red sea, dead sea, black sea, caspian sea, mediterranean sea, persian
+atlantic ocean, red sea, dead sea, black sea, caspian sea, mediterranean sea
 ## Lakes
 dal lake, chilika, vembanad, loktak, pangong, pichola
 nainital lake, sukhna, powai lake, lake victoria, lake baikal, loch ness
@@ -117,9 +116,7 @@ nainital lake, sukhna, powai lake, lake victoria, lake baikal, loch ness
 president, prime minister, chief minister, governor, mayor, vice president
 speaker, deputy cm, cabinet minister, home minister, finance minister, defence minister
 ## Political parties
-bjp, congress, aap, tmc, dmk, aiadmk, shiv sena, ncp
-sp, bsp, rjd, jdu, ysrcp, tdp, brs, bjd
-cpi, cpm, akali dal, national conference, jmm, aimim
+bjp, congress, aap, tmc, dmk, aiadmk, shiv sena
 ## World awards
 nobel prize, oscar, grammy, emmy, bafta, golden globe
 booker prize, pulitzer, ballon d'or, golden boot, golden glove

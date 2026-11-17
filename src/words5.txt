@@ -162,7 +162,7 @@ dexter, mindhunter, sherlock, you, the blacklist, the mentalist, 24
 game of thrones, house of the dragon, the witcher, vikings, shadow and bone, the sandman, wednesday
 the umbrella academy, the vampire diaries, teen wolf, supernatural, lucifer, the walking dead
 ## Sci fi series
-stranger things, dark, black mirror, squid, alice in borderland, all of us are dead
+stranger things, dark, black mirror, squid game, alice in borderland, all of us are dead
 the last of us, westworld, lost, the 100, severance, 3 body problem
 ## Superhero series
 the boys, loki, wandavision, daredevil, the mandalorian, obi wan kenobi, andor

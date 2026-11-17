@@ -77,7 +77,7 @@ bowled, caught, run out, lbw, stumped, hit wicket, retired hurt
 ## Cricket extras
 wide, no ball, bye, leg bye, free hit, overthrow
 ## Cricket players
-batsman, bowler, wicketkeeper, fielder, all rounder, captain cricket, opener, finisher, spinner, fast bowler
+batsman, bowler, wicketkeeper, fielder, all rounder, captain, opener, finisher, spinner, fast bowler
 ## Cricket officials
 umpire, third umpire, coach cricket, selector, commentator, scorer, match referee, twelfth man
 ## Cricket formats
@@ -93,7 +93,7 @@ square leg, fine leg, third man, long on, long off
 goal, penalty, free kick, corner, throw in, offside
 own goal, header, tackle, dribble, hat trick
 ## Football players
-striker, goalkeeper, defender, midfielder, winger, captain football, referee, linesman, substitute, coach football
+striker, goalkeeper, defender, midfielder, winger, captain, referee, linesman, substitute, coach football
 ## Art hobbies
 reading, writing, painting, drawing, sketching, colouring, origami, pottery, craft
 ## Performing hobbies
