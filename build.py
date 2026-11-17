@@ -20,7 +20,7 @@ for cat,sub,ws,ln in clusters:   # keep first occurrence of every word; later re
     for w in ws:
         k=w.lower()
         if k in DROP: dropped.append((w,ln)); continue
-        if k in seen: dups+=1; continue
+        if k in [u.lower() for u in uniq]: dups+=1; continue
         seen[k]=ln; uniq.append(w)
     if len(uniq)<2: bad.append(f'line {ln}: cluster too small after dedupe: {uniq}')
     if len(uniq)>14: bad.append(f'line {ln}: cluster size {len(uniq)}')

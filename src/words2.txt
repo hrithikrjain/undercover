@@ -5,9 +5,9 @@ los angeles, las vegas, chicago, san francisco, washington dc, miami, toronto
 ## European cities
 berlin, madrid, amsterdam, venice, milan, moscow, istanbul, zurich, barcelona
 ## Asian cities
-bangkok, kuala lumpur, hong kong, shanghai, beijing, seoul, bali, phuket, maldives city
+bangkok, kuala lumpur, hong kong, shanghai, beijing, seoul, bali, phuket, maldives
 ## Gulf cities
-dubai gulf, abu dhabi, doha, muscat, sharjah, riyadh
+dubai, abu dhabi, doha, muscat, sharjah, riyadh
 ## Neighbour country cities
 kathmandu, colombo, dhaka, karachi, lahore, islamabad
 ## Indian metros
@@ -41,11 +41,11 @@ eiffel tower, big ben, london eye, colosseum, leaning tower of pisa, louvre, buc
 statue of liberty, golden gate bridge, times square, disneyland, niagara falls, grand canyon
 burj khalifa, great wall of china, pyramids, mount fuji, petronas towers, sydney opera house
 ## Beaches and islands
-goa beach, andaman, lakshadweep, maldives, mauritius, bali island, phuket island, hawaii
+goa beach, andaman, lakshadweep, maldives, mauritius, bali, phuket, hawaii
 ## National parks
 jim corbett, ranthambore, kaziranga, gir forest, sundarbans, bandipur, periyar
 ## Sports venues
-stadium, ground, playground, sports club, gym place, swimming pool, race track, cricket academy
+stadium, ground, playground, sports club, gym, swimming pool, race track, cricket academy
 ## Entertainment venues
 theatre, cinema hall, multiplex, auditorium, concert, circus, fair, mela
 ## Eating places
@@ -69,7 +69,7 @@ bank, atm, post office, police station, fire station, court, municipal office, p
 ## Beauty places
 salon, parlour, barber shop, spa, gym, yoga class, massage centre, tattoo studio
 ## Fun places
-park, garden, zoo park, amusement park, water park, museum, aquarium place, planetarium
+park, garden, zoo park, amusement park, water park, museum, aquarium, planetarium
 ## Rooms
 bedroom, living room, kitchen, bathroom, dining room, balcony
 terrace, garage, study room, store room, pooja room, hall
@@ -117,10 +117,10 @@ oven, fridge, kettle, induction, gas stove, chimney
 ## Boxes
 bottle, jar, container, tiffin, lunch box, flask, thermos, sipper, dabba, casserole
 ## Bathroom things
-soap, shampoo, conditioner, face wash, toothbrush, toothpaste, mouthwash, comb, razor, towel bath
-bucket, mug bath, tap, shower, geyser, basin, flush, bathtub
+soap, shampoo, conditioner, face wash, toothbrush, toothpaste, mouthwash, comb, razor, towel
+bucket, mug, tap, shower, geyser, basin, flush, bathtub
 ## Hair things
-comb hair, hair brush, hair dryer, straightener, hair oil, hair gel, hair clip, hair band, rubber band
+comb, hair brush, hair dryer, straightener, hair oil, hair gel, hair clip, hair band, rubber band
 ## Pens and pencils
 pen, pencil, marker, highlighter, sketch pen, crayon, chalk, gel pen, ball pen
 ## Geometry box
@@ -137,7 +137,7 @@ hammer, screwdriver, wrench, pliers, drill, saw, nail, screw, ladder, rope
 ## Garden tools
 spade, shovel, rake, watering can, pipe, lawn mower, flower pot, gardening gloves
 ## Cleaning tools
-broom, mop, jhadu, vacuum cleaner, dustpan, brush, duster cloth, wiper, bucket cleaning
+broom, mop, jhadu, vacuum cleaner, dustpan, brush, duster cloth, wiper, bucket
 ## Locks and keys
 lock, key, padlock, latch, door bell, door knob, keychain, chain
 ## Devices
@@ -155,9 +155,9 @@ keyboard, mouse, monitor, printer, scanner, pen drive, hard disk, router, wifi, 
 ## Cooling and heating
 ac, cooler, fan, ceiling fan, table fan, heater, exhaust fan, air purifier
 ## Washing
-washing machine, iron, dryer, washing powder, detergent, bucket wash, clothes line, hanger
+washing machine, iron, dryer, washing powder, detergent, bucket, clothes line, hanger
 ## Clocks
-clock, alarm clock, wall clock time, stopwatch, timer, watch, calendar time, hourglass
+clock, alarm clock, wall clock, stopwatch, timer, watch, calendar, hourglass
 ## Gaming
 ps5, xbox, playstation, nintendo, gaming pc, vr headset, controller, joystick
 ## Chat apps
@@ -193,13 +193,13 @@ bus, truck, van, jeep, tractor, e rickshaw
 ## Car types
 sedan, hatchback, suv, sports car, electric car, vintage car, taxi, limousine
 ## Special vehicles
-ambulance, fire engine, police car, school bus, garbage truck, tanker, bulldozer, crane, tow truck
+ambulance, fire engine, police, school bus, garbage truck, tanker, bulldozer, crane, tow truck
 ## Bikes and scooters
 bullet, activa, splendor, pulsar, scooty, vespa, royal enfield, ktm, harley davidson, ola electric
 ## Trains
 train, metro, local train, bullet train, toy train, vande bharat, rajdhani, shatabdi, goods train, tram
 ## Flying vehicles
-aeroplane, helicopter, jet, rocket vehicle, hot air balloon, drone vehicle, glider, parachute
+aeroplane, helicopter, jet, rocket, hot air balloon, drone, glider, parachute
 ## Boats
 ship, boat, yacht, ferry, cruise, submarine, canoe, speedboat, houseboat, raft
 ## Indian women's wear
@@ -233,13 +233,13 @@ umbrella, raincoat, windcheater, gumboots, poncho
 ludo, snakes and ladders, chess, carrom, monopoly, scrabble, uno, jenga, playing cards, business game
 ## Toys
 teddy bear, doll, barbie, lego, puzzle, rubik's cube, yo yo
-spinning top, marbles, kite, toy car, remote car, water gun
+spinning top, marbles, kite, toy car, remote, water gun
 ## Money things
 cash, coin, note, credit card, debit card, upi, cheque, wallet money, piggy bank, atm card
 ## Pooja things
 diya, agarbatti, incense, camphor, bell pooja, idol, garland, kumkum, prasad, aarti plate
 ## Bags and boxes
-suitcase thing, trunk, basket, carton, crate, sack, trolley, hamper
+suitcase, trunk, basket, carton, crate, sack, trolley, hamper
 ## Cleaning products
 surf excel, ariel, tide, rin, nirma, wheel
 vim, harpic, lizol, colin, dettol, phenyl

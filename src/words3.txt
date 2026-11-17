@@ -63,13 +63,13 @@ long jump, high jump, javelin, shot put, discus, pole vault
 ## Wheel sports
 cycling, skating, skateboarding, rollerblading, bmx, cycle race
 ## Indoor games
-chess game, carrom game, snooker, billiards, pool game, darts, bowling, table football, air hockey
+chess, carrom, snooker, billiards, pool game, darts, bowling, table football, air hockey
 ## Gym sports
 gymnastics, yoga, zumba, aerobics, pilates, crossfit, weightlifting, bodybuilding
 ## Racing
 formula 1, motogp, car race, bike race, horse race, drag race, go karting, cycle racing
 ## Snow sports
-skiing, snowboarding, ice skating, sledging, ice hockey snow
+skiing, snowboarding, ice skating, sledging, ice hockey
 ## Cricket runs
 sixer, four, boundary, single, double, century, half century, dot ball, duck
 ## Cricket outs
@@ -101,9 +101,9 @@ singing, dancing, acting, music, karaoke, beatboxing, rapping, mimicry, stand up
 ## Home hobbies
 cooking, baking, gardening, knitting, stitching, photography, vlogging, blogging
 ## Screen hobbies
-gaming, binge watching, scrolling, memes, selfies, texting, social media hobby, youtube hobby
+gaming, binge watching, scrolling, memes, selfies, texting, social media hobby, youtube
 ## Outdoor hobbies
-trekking, hiking, camping hobby, cycling hobby, running hobby, swimming hobby, gymming, travelling
+trekking, hiking, camping, cycling, running, swimming, gymming, travelling
 ## Collecting hobbies
 stamp collecting, coin collecting, card collecting, bird watching, star gazing, fishing hobby, horse riding
 ## String instruments
@@ -123,9 +123,9 @@ carnatic, hindustani, folk, item song, lullaby, devotional
 ## Indian classical dance
 bharatanatyam, kathak, kuchipudi, odissi, kathakali, mohiniyattam, manipuri
 ## Indian folk dance
-bhangra dance, garba, dandiya, lavani, bihu, ghoomar, gidda, nagin dance
+bhangra, garba, dandiya, lavani, bihu, ghoomar, gidda, nagin dance
 ## Western dance
-hip hop dance, breakdance, salsa, ballet, tango, zumba dance
+hip hop, breakdance, salsa, ballet, tango, zumba
 freestyle, belly dance, moonwalk, robot dance, twerking
 ## Parents
 mother, father, mom, dad, mummy, papa, amma, appa, maa, baba
@@ -147,7 +147,7 @@ teenager, nephew, niece, grandson, granddaughter
 father in law, mother in law, brother in law, sister in law, jiju, saali
 saas, sasur, devar, nanad, bhabhi
 ## Ages
-baby age, child age, teenager age, young, adult, middle aged, old, senior citizen
+baby, child, teenager, young, adult, middle aged, old, senior citizen
 ## Celebrations
 birthday, anniversary, wedding, engagement, baby shower, housewarming, farewell, reunion, graduation, first salary party
 ## Indian ceremonies
@@ -163,7 +163,7 @@ beard, moustache, goatee, stubble, clean shaven, french beard, side burns, handl
 introvert, extrovert, shy, outgoing, talkative, quiet, loud, calm
 ## Personality (fun)
 nerd, geek, foodie, bookworm, gym freak, party animal, workaholic
-lazy bones, drama queen, chatterbox, gossip, flirt, prankster, joker person
+lazy bones, drama queen, chatterbox, gossip, flirt, prankster, joker
 ## Superstitions
 black cat, broken mirror, nazar, evil eye, lemon chilli, number 13, horseshoe
 four leaf clover, itchy palm, sneeze before leaving, crow cawing, owl, black magic, tantrik

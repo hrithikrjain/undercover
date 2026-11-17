@@ -1,13 +1,13 @@
 # World & Culture
 ## Neighbour countries
-india, pakistan, bangladesh, sri lanka, nepal, bhutan, maldives country, afghanistan, myanmar, china
+india, pakistan, bangladesh, sri lanka, nepal, bhutan, maldives, afghanistan, myanmar, china
 ## East Asian countries
-japan, south korea, north korea, taiwan, hong kong country, mongolia, china east
+japan, south korea, north korea, taiwan, hong kong, mongolia, china
 ## South East Asian countries
-thailand, vietnam, malaysia, singapore country, indonesia, philippines, cambodia
+thailand, vietnam, malaysia, singapore, indonesia, philippines, cambodia
 ## Gulf countries
 uae, saudi arabia, qatar, oman, kuwait, bahrain
-dubai country, iran, iraq, israel, turkey
+dubai, iran, iraq, israel, turkey
 ## European countries
 uk, england, scotland, ireland, france, germany, italy
 spain, portugal, netherlands, switzerland, russia, ukraine, greece
@@ -19,7 +19,7 @@ egypt, south africa, nigeria, kenya, morocco, ethiopia, ghana, tanzania, uganda,
 ## Australia region
 australia, new zealand, fiji, papua new guinea
 ## Continents
-asia, europe, africa, north america, south america, australia continent, antarctica
+asia, europe, africa, north america, south america, australia, antarctica
 ## Regions
 middle east, far east, south east asia, scandinavia, caribbean, latin america, gulf region, mediterranean, himalayas, arctic
 ## Currencies
@@ -29,19 +29,19 @@ lira, won, franc, ringgit, baht, ruble
 ## Crypto
 bitcoin, ethereum, dogecoin, solana, shiba inu, binance coin, crypto coin, nft
 ## Indian languages
-hindi language, english language, marathi, gujarati, punjabi, bengali, tamil, telugu
-kannada, malayalam, urdu, sanskrit language, assamese, odia language, kashmiri, konkani
+hindi, english, marathi, gujarati, punjabi, bengali, tamil, telugu
+kannada, malayalam, urdu, sanskrit, assamese, odia language, kashmiri, konkani
 sindhi, bhojpuri, haryanvi, rajasthani, tulu, nepali
 ## World languages
 french, spanish, german, italian, portuguese, russian, chinese
 mandarin, japanese, korean, arabic, persian, turkish, hebrew
 greek, latin, dutch, thai language, swahili
 ## North Indian states
-jammu and kashmir, himachal pradesh, punjab, haryana, uttarakhand, uttar pradesh, delhi state, rajasthan, chandigarh, ladakh state
+jammu and kashmir, himachal pradesh, punjab, haryana, uttarakhand, uttar pradesh, delhi, rajasthan, chandigarh, ladakh
 ## West and Central Indian states
-gujarat, maharashtra, goa state, madhya pradesh, chhattisgarh, daman and diu
+gujarat, maharashtra, goa, madhya pradesh, chhattisgarh, daman and diu
 ## South Indian states
-karnataka, kerala, tamil nadu, andhra pradesh, telangana, pondicherry state, lakshadweep state, andaman and nicobar
+karnataka, kerala, tamil nadu, andhra pradesh, telangana, pondicherry, lakshadweep, andaman and nicobar
 ## East and North East states
 west bengal, bihar, jharkhand, odisha, sikkim, assam
 meghalaya, arunachal pradesh, nagaland, manipur, mizoram, tripura
@@ -68,7 +68,7 @@ valentine's day week, rose day, propose day, chocolate day, teddy day, promise d
 ## IPL teams
 mumbai indians, chennai super kings, royal challengers bangalore, kolkata knight riders, delhi capitals, sunrisers hyderabad, rajasthan royals, punjab kings, gujarat titans, lucknow super giants
 ## Cricket teams
-india cricket, australia cricket, england cricket, pakistan cricket, south africa cricket, new zealand cricket, sri lanka cricket, west indies, bangladesh cricket, afghanistan cricket
+india, australia, england, pakistan, south africa, new zealand, sri lanka, west indies, bangladesh, afghanistan
 ## English football clubs
 manchester united, manchester city, liverpool, chelsea, arsenal, tottenham
 newcastle, aston villa, everton, west ham, leicester
@@ -78,11 +78,11 @@ psg, ajax, benfica, porto, al nassr, al hilal, inter miami
 ## ISL teams
 mumbai city fc, bengaluru fc, kerala blasters, mohun bagan, east bengal, fc goa, chennaiyin fc, hyderabad fc, odisha fc
 ## Football countries
-brazil football, argentina football, france football, germany football, spain football, portugal football
-england football, italy football, netherlands football, croatia football, japan football, morocco football
+brazil, argentina, france, germany, spain, portugal
+england, italy, netherlands, croatia, japan, morocco
 ## Cricket tournaments
-world cup cricket, t20 world cup, champions trophy, asia cup cricket, ipl tournament, big bash
-psl, the hundred, ranji trophy tournament, wtc final, border gavaskar trophy, ashes
+world cup, t20 world cup, champions trophy, asia cup, ipl, big bash
+psl, the hundred, ranji trophy, wtc final, border gavaskar trophy, ashes
 ## Football tournaments
 fifa world cup, euro cup, copa america, champions league, europa league, premier league
 la liga, bundesliga, serie a, isl, fa cup, club world cup
@@ -103,13 +103,13 @@ beas, sutlej, saraswati, gomti, hooghly, teesta
 nile, amazon river, mississippi, yangtze, thames, seine, danube
 rhine, volga, mekong, yellow river, congo river, colorado river, hudson
 ## Mountains
-himalayas mountain, alps, andes, rockies, western ghats, eastern ghats
+himalayas, alps, andes, rockies, western ghats, eastern ghats
 aravalli, vindhya, satpura, nilgiris, shivalik
 ## Peaks
-everest, k2, kanchenjunga, nanda devi, annapurna, kilimanjaro, mont blanc, mount fuji peak, mount kailash, matterhorn
+everest, k2, kanchenjunga, nanda devi, annapurna, kilimanjaro, mont blanc, mount fuji, mount kailash, matterhorn
 ## Deserts and seas
 thar, sahara desert, gobi desert, arabian sea, bay of bengal, indian ocean, pacific ocean
-atlantic ocean, red sea, dead sea, black sea, caspian sea, mediterranean sea, persian gulf
+atlantic ocean, red sea, dead sea, black sea, caspian sea, mediterranean sea, persian
 ## Lakes
 dal lake, chilika, vembanad, loktak, pangong, pichola
 nainital lake, sukhna, powai lake, lake victoria, lake baikal, loch ness
@@ -208,36 +208,36 @@ yama, kuber, kamdev, narad, vishwakarma, hanuman ji, ayyappa, murugan
 venkateswara, jagannath, vithoba, sai baba, shani dev, mahadev, bholenath, bajrangbali
 ganpati bappa, radha krishna, sita ram, laddu gopal, bal krishna
 ## Famous people types
-freedom fighter, saint, poet famous, scientist famous, cricketer, actor famous, singer famous, politician famous
-businessman, social worker, philosopher, mathematician famous, astronaut famous, nobel winner, olympian, chess grandmaster
+freedom fighter, saint, poet, scientist, cricketer, actor, singer, politician
+businessman, social worker, philosopher, mathematician, astronaut, nobel winner, olympian, chess grandmaster
 boxer, wrestler, shooter, archer, sprinter, weightlifter, badminton player, tennis player
 footballer, hockey player, kabaddi player, golfer, racer, swimmer, gymnast
 ## Elements
 hydrogen, helium, oxygen, nitrogen, carbon, sodium, potassium, calcium
-iron element, copper element, zinc, silver element, gold element, mercury element, lead, uranium
+iron, copper, zinc, silver, gold, mercury, lead, uranium
 neon, chlorine, sulphur, phosphorus, magnesium, silicon, lithium
 ## Science words
 gravity, friction, magnet, electricity, light, sound, heat, energy
 force, pressure, speed, velocity, mass, weight, density, volume
 temperature, evaporation, condensation, photosynthesis, respiration, digestion, osmosis, dna
 gene, cell, atom, molecule, electron, proton, neutron, bacteria
-virus science, fungus, enzyme, hormone, vitamin, protein, carbohydrate, fat science
+virus science, fungus, enzyme, hormone, vitamin, protein, carbohydrate, fat
 fibre, calorie, glucose, insulin, adrenaline, dopamine, serotonin, big bang
-black hole science, relativity, quantum
+black hole, relativity, quantum
 ## Inventions
-wheel, fire, paper invention, printing press, compass invention, telescope invention, microscope, steam engine
-light bulb, telephone, radio, television, computer invention, internet, smartphone invention, aeroplane invention
-bicycle, rocket invention, satellite invention, gps, camera invention, battery invention, refrigerator, air conditioner
-microwave invention, washing machine invention, vaccine invention, penicillin, x ray invention, stethoscope, zero, chess invention
-yoga invention, shampoo invention, buttons, usb invention, wifi invention, bluetooth, email, drone invention
-3d printer, ai, robot, solar panel, electric car invention, chatgpt invention, blockchain, metaverse
+wheel, fire, paper, printing press, compass, telescope, microscope, steam engine
+light bulb, telephone, radio, television, computer, internet, smartphone, aeroplane
+bicycle, rocket, satellite, gps, camera, battery, refrigerator, air conditioner
+microwave, washing machine, vaccine, penicillin, x ray, stethoscope, zero, chess
+yoga, shampoo, buttons, usb, wifi, bluetooth, email, drone
+3d printer, ai, robot, solar panel, electric car, chatgpt, blockchain, metaverse
 vr, 5g, self driving car
 ## Indian arts
-madhubani, warli, rangoli, kolam, mehendi art, block printing, bandhani, ikat
+madhubani, warli, rangoli, kolam, mehendi, block printing, bandhani, ikat
 kantha, chikankari, zardozi, phulkari, banarasi, kanjeevaram, paithani, pashmina
-blue pottery, terracotta, brassware, pottery art, embroidery art, origami art, calligraphy art, graffiti
-mural, sculpture, mosaic, sand art, puppet show, kathputli
+blue pottery, terracotta, brassware, pottery, embroidery art, origami, calligraphy art, graffiti
+mural, sculpture, mosaic, sand, puppet show, kathputli
 ## Famous Indian things
-tata nano, maruti 800 car, ambassador car, bajaj chetak scooter, hero honda splendor, royal enfield bullet bike
+tata nano, maruti 800, ambassador car, bajaj chetak scooter, hero honda splendor, royal enfield bullet bike
 amul butter girl, fevicol ad, nirma girl, vicco turmeric, lifebuoy ad, surf excel ad
 vodafone zoozoo, hutch pug, hamara bajaj, mile sur mera tumhara, doordarshan logo, washing powder nirma

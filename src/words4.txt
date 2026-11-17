@@ -5,7 +5,7 @@ head, face, forehead, skull, brain, hair, scalp, neck
 eye, eyebrow, eyelash, nose, ear, cheek
 chin, lips, mouth, tongue, teeth, jaw
 ## Teeth and mouth
-teeth mouth, tongue mouth, gums, molar, wisdom tooth, braces, cavity, lips mouth
+teeth, tongue, gums, molar, wisdom tooth, braces, cavity, lips
 ## Body parts
 shoulder, chest, back, stomach, belly, waist, hip, spine, ribs, navel
 ## Arm parts
@@ -13,9 +13,9 @@ arm, elbow, wrist, hand, palm, finger, thumb, nail, knuckle, bicep
 ## Leg parts
 leg, thigh, knee, ankle, foot, heel, toe, sole, calf, shin
 ## Organs
-heart, lungs, liver, kidney, stomach organ, intestine, brain organ, bladder, appendix
+heart, lungs, liver, kidney, stomach, intestine, brain, bladder, appendix
 ## Body stuff
-bone, muscle, skin, blood, vein, nerve, fat body, joint, sweat, tears
+bone, muscle, skin, blood, vein, nerve, fat, joint, sweat, tears
 ## Senses
 see, hear, smell, taste, touch, feel
 ## Body noises
@@ -36,19 +36,19 @@ push, pull, lift, drag, drop, throw
 catch, kick, punch, slap, pinch, poke
 tickle, hug, pat, high five, handshake
 ## Happy feelings
-happy, joyful, cheerful, excited, thrilled, delighted, glad, proud, relaxed, calm feeling
+happy, joyful, cheerful, excited, thrilled, delighted, glad, proud, relaxed, calm
 ## Sad feelings
 sad, upset, gloomy, depressed, heartbroken, disappointed, lonely, hurt, miserable, hopeless
 ## Angry feelings
 angry, furious, irritated, annoyed, frustrated, mad, cranky, grumpy, jealous, bitter
 ## Scared feelings
-scared, afraid, nervous, worried, anxious, terrified, panicked, tense, shy feeling, embarrassed
+scared, afraid, nervous, worried, anxious, terrified, panicked, tense, shy, embarrassed
 ## Surprised feelings
 surprised, shocked, amazed, stunned, confused, puzzled, speechless, curious
 ## Tired feelings
 bored, tired, sleepy, lazy feeling, exhausted, drained, restless, burnt out
 ## Love feelings
-love, crush feeling, attraction, affection, romance, passion, obsession, admiration, jealousy love
+love, crush, attraction, affection, romance, passion, obsession, admiration, jealousy love
 ## Common illnesses
 cold, cough illness, flu, fever, viral, sore throat, headache, migraine, body ache, allergy
 ## Serious illnesses
@@ -74,25 +74,25 @@ vicks, iodex, moov, volini, zandu balm, amrutanjan, tiger balm, relispray
 ## Stomach medicines
 digene, eno, gelusil, pudin hara, hajmola, isabgol, ors, electral
 ## Cough medicines
-cough syrup, benadryl, honitus, strepsils, vicks vaporub, halls, lozenge, kadha, steam, ginger tea medicine
+cough syrup, benadryl, honitus, strepsils, vicks vaporub, halls, lozenge, kadha, steam, ginger tea
 ## First aid
-bandage, band aid, cotton, plaster, dettol first aid, savlon, betadine, ice pack, hot water bag, crepe bandage
+bandage, band aid, cotton, plaster, dettol, savlon, betadine, ice pack, hot water bag, crepe bandage
 ## Medicine forms
-injection, vaccine, drip, tablet, capsule, syrup, ointment, drops, inhaler, spray medicine
+injection, vaccine, drip, tablet, capsule, syrup, ointment, drops, inhaler, spray
 ## Medical tests
 x ray, mri, ct scan, ultrasound, ecg, blood test, urine test, sugar test, bp check, eye test
 ## Treatments
-surgery, operation, physiotherapy, chemotherapy, dialysis, stitches treatment, plaster cast, root canal, braces treatment
+surgery, operation, physiotherapy, chemotherapy, dialysis, stitches, plaster cast, root canal, braces
 ## Medicine systems
 allopathy, homeopathy, ayurveda, unani, home remedy, yoga therapy, naturopathy
 ## Exercises
-push up, pull up, sit up, squat exercise, plank, burpee, crunch, jumping jack, lunges, skipping
+push up, pull up, sit up, squat, plank, burpee, crunch, jumping jack, lunges, skipping
 ## Gym machines
-treadmill, cycle machine, dumbbell, barbell, kettlebell, bench press, rowing machine, yoga mat, skipping rope, pull up bar
+treadmill, cycle machine, dumbbell, barbell, kettlebell, bench press, rowing machine, yoga mat, skipping rope, pull up
 ## Protein stuff
-protein shake, whey, creatine, protein bar, multivitamin, mass gainer, pre workout, omega 3
+protein shake, whey, creatine, protein, multivitamin, mass gainer, pre workout, omega 3
 ## Workouts
-cardio, weight training, hiit, crossfit workout, zumba workout, pilates workout, stretching, warm up, cool down, rest day
+cardio, weight training, hiit, crossfit, zumba, pilates, stretching, warm up, cool down, rest day
 ## Diets
 diet, keto, intermittent fasting, vegan diet, low carb, high protein, calorie deficit, cheat meal, detox, crash diet
 ## Muscles
@@ -101,12 +101,12 @@ six pack, biceps, triceps, abs, chest muscles, shoulders muscles, thighs muscles
 surya namaskar, pranayama, anulom vilom, kapalbhati, om chanting, meditation, shavasana, tree pose, cobra pose, headstand
 ## Sleep
 sleep, nap, power nap, siesta, snooze, dream
-nightmare, insomnia sleep, sleepwalking, snoring, bedtime, alarm sleep
+nightmare, insomnia, sleepwalking, snoring, bedtime, alarm
 ## Morning routine
-bath, shower, brush, shave, floss, gargle, face wash routine, moisturise, sunscreen routine, comb hair routine
+bath, shower, brush, shave, floss, gargle, face wash, moisturise, sunscreen, comb
 ## School subjects
 maths, physics, chemistry, biology, science, english, hindi, history
-geography, civics, economics, computer, sanskrit, drawing subject, pt
+geography, civics, economics, computer, sanskrit, drawing, pt
 ## Maths topics
 algebra, geometry, trigonometry, calculus, statistics, arithmetic, probability, fractions, decimals, percentages
 ## Exams
@@ -143,9 +143,9 @@ vaseline, nivea, ponds, lakme, boroline, boro plus, himalaya, mamaearth, dove, c
 ## Lip and eye makeup
 lipstick, lip gloss, lip liner, kajal, eyeliner, mascara, eyeshadow, surma
 ## Face makeup
-foundation, compact, concealer, blush, highlighter makeup, primer, contour, setting spray
+foundation, compact, concealer, blush, highlighter, primer, contour, setting spray
 ## Nails
-nail polish, nail art, nail cutter, nail file, nail extensions, nail paint remover, french manicure, gel nails
+nail polish, nail, nail cutter, nail file, nail extensions, nail paint remover, french manicure, gel nails
 ## Traditional makeup
 bindi, sindoor, mehendi design, gajra, alta, kumkum, nose pin, bangles set
 ## Perfume

@@ -106,9 +106,9 @@ sugar, jaggery, honey, butter, ghee, oil, vinegar, soy sauce
 ## Sauces
 ketchup, mayonnaise, chutney, pickle, hot sauce, schezwan sauce, green chutney, tamarind chutney
 ## Dairy
-milk, curd, paneer, cheese, butter dairy, ghee dairy, cream, condensed milk
+milk, curd, paneer, cheese, butter, ghee, cream, condensed milk
 ## Bread
-bread, brown bread, white bread, garlic bread, pav, bun, toast bread
+bread, brown bread, white bread, garlic, pav, bun, toast
 ## Meat
 chicken, mutton, fish, prawn, crab, egg, lamb, beef, pork
 ## Egg dishes
@@ -134,7 +134,7 @@ deer, antelope, reindeer, moose, blackbuck
 ## Monkeys
 monkey, gorilla, chimpanzee, orangutan, baboon, langur
 ## Farm animals
-cow, buffalo farm, ox, bull, goat, sheep, donkey, horse, pig
+cow, buffalo, ox, bull, goat, sheep, donkey, horse, pig
 ## Birds (farm)
 hen, rooster, chick, duck, goose, turkey
 ## Pets
@@ -175,14 +175,14 @@ sunny, cloudy, rainy, windy, foggy, humid, hot, cold
 ## Sky things
 lightning, thunder, rainbow, sunrise, sunset, eclipse, cloud, sky
 ## Disasters
-earthquake, tsunami, flood disaster, landslide, volcano, drought, wildfire, famine
+earthquake, tsunami, flood, landslide, volcano, drought, wildfire, famine
 ## Mountains and valleys
-mountain, hill, valley, cliff, cave, glacier, peak, volcano mountain
+mountain, hill, valley, cliff, cave, glacier, peak, volcano
 ## Water bodies
 river, stream, lake, pond, waterfall, canal
 dam, well, sea, ocean, beach, island
 ## Land types
-desert, forest, jungle, island land, garden, park, field, farm, village, city
+desert, forest, jungle, island, garden, park, field, farm, village, city
 ## Space
 sun, moon, star, planet, comet, meteor, galaxy, black hole, satellite, rocket
 ## Planets
@@ -190,7 +190,7 @@ mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, pluto
 ## Moon types
 full moon, new moon, half moon, crescent moon, blue moon, lunar eclipse, solar eclipse
 ## Space travel
-rocket space, spaceship, astronaut, space station, telescope, ufo, alien, isro, nasa
+rocket, spaceship, astronaut, space station, telescope, ufo, alien, isro, nasa
 ## Metals
 gold, silver, iron, copper, steel, aluminium, brass, bronze, platinum
 ## Gems
