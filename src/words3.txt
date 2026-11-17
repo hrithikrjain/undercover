@@ -1,173 +1,169 @@
 # People & Fun
-## Medical professions
-doctor, nurse, surgeon, dentist, physiotherapist, pharmacist, paramedic, vet, compounder, ward boy
-## Specialist doctors
-cardiologist, neurologist, dermatologist, pediatrician, gynaecologist, orthopaedic, psychiatrist, oncologist, radiologist, ent specialist
-## Tech professions
-engineer, software engineer, developer, programmer, coder, data scientist, designer, architect, product manager, analyst
-## Office hierarchy
-manager, boss, ceo, cfo, cto, director, founder, chairman, team lead
-hr, intern, trainee, employee, consultant, freelancer, contractor
-## Finance professions
-accountant, chartered accountant, auditor, banker, cashier, clerk, tax consultant, stock broker, loan agent, insurance agent
-## Legal professions
-lawyer, judge, advocate, magistrate, notary, public prosecutor, legal advisor, barrister
-## Teaching professions
-teacher, professor, lecturer, tutor, principal, coach, trainer, mentor, instructor, headmaster
-## Kitchen professions
-chef, cook, baker, waiter, bartender, barista, sommelier, halwai
-## Driving professions
-driver, pilot, captain, conductor, auto driver, cab driver, truck driver, delivery boy, courier, postman, rider
-## Trade professions
-plumber, electrician, carpenter, painter, mechanic, welder, mason, labourer, technician, mistry
-## Home service professions
-tailor, barber, cobbler, dhobi, maid, watchman, gardener, security guard, sweeper, milkman, paperboy
-## Uniformed services
-police, army, navy, air force, soldier, commando, cop, inspector, constable, traffic police
-bodyguard, bouncer, detective, spy, agent, sniper
-## Rural professions
-farmer, fisherman, shepherd, potter, weaver, blacksmith, goldsmith, sculptor
-## Office support
-receptionist, secretary, assistant, peon, office boy, telecaller
-salesman, shopkeeper, vendor, hawker, broker, dealer
+## Doctors
+doctor, nurse, surgeon, dentist, eye doctor, child doctor, heart doctor, skin doctor, vet, pharmacist
+## Office jobs
+engineer, manager, boss, ceo, clerk, accountant, banker, receptionist, intern, hr
+## Tech jobs
+software engineer, programmer, coder, web designer, app developer, data analyst, it guy, hacker
+## Teaching jobs
+teacher, professor, principal, tutor, coach, trainer, headmaster, lecturer
+## Food jobs
+chef, cook, baker, waiter, bartender, halwai, barista, dishwasher
+## Driving jobs
+driver, pilot, auto driver, cab driver, bus driver, truck driver, delivery boy, postman, rider
+## Repair jobs
+plumber, electrician, carpenter, painter, mechanic, welder, mason, labourer, technician
+## Home jobs
+tailor, barber, cobbler, dhobi, maid, watchman, gardener, security guard, sweeper, milkman
+## Uniform jobs
+police, army, navy, air force, soldier, commando
+inspector, constable, traffic police, bodyguard, bouncer
+## Village jobs
+farmer, fisherman, shepherd, potter, weaver, blacksmith, goldsmith
+## Shop jobs
+shopkeeper, salesman, cashier, vendor, hawker, broker, dealer, agent
 ## Performers
-actor, actress, singer, dancer, musician, comedian, magician, model
-anchor, host, vj, rj, dj, influencer, youtuber, streamer, podcaster
-## Writers
-writer, author, poet, journalist, reporter, editor, blogger, novelist, screenwriter, lyricist, columnist, critic
-## Film crew
-photographer, videographer, cinematographer, cameraman, director, producer, choreographer, stylist, makeup artist, hairstylist
-## Visual artists
-cartoonist, animator, illustrator, graphic designer, tattoo artist, sketch artist, calligrapher
-## Politicians
-politician, minister, mp, mla, prime minister, president, chief minister, mayor, sarpanch, governor, councillor
-bureaucrat, ias officer, ips officer, diplomat, ambassador, collector
-## Religious roles
-priest, pandit, pujari, imam, maulvi, monk, nun, sadhu, guru, baba, astrologer, pastor, granthi
-## Science professions
-scientist, researcher, astronaut, inventor, mathematician, physicist, chemist, biologist, geologist, archaeologist, historian, economist
-## Bat and ball sports
-cricket, baseball, softball, rounders
+actor, actress, singer, dancer, musician, comedian
+magician, model, anchor, dj, rj, vj
+## Internet jobs
+youtuber, influencer, blogger, vlogger, streamer, podcaster, content creator, tiktoker
+## Writing jobs
+writer, author, poet, journalist, reporter, editor, lyricist, novelist
+## Film jobs
+director, producer, cameraman, photographer, editor film, choreographer, stunt man, makeup artist, hairstylist
+## Art jobs
+painter artist, cartoonist, animator, designer, tattoo artist, sketch artist, graphic designer
+## Politics jobs
+politician, minister, mp, mla, prime minister, president, chief minister, mayor, sarpanch, governor
+## Religious people
+priest, pandit, pujari, imam, maulvi, monk
+nun, sadhu, guru, baba, astrologer, pastor
+## Science jobs
+scientist, astronaut, inventor, researcher, mathematician, archaeologist, lab assistant
+## Law jobs
+lawyer, judge, advocate, magistrate, notary, police officer, detective, spy
+## Bat and ball games
+cricket, baseball, softball, gully cricket, book cricket, hand cricket
 ## Football types
 football, rugby, american football, futsal, soccer
-## Team ball sports
-basketball, volleyball, netball, handball, throwball, dodgeball, kabaddi, kho kho
-## Racket sports
-tennis, badminton, table tennis, squash, pickleball, lawn tennis, ping pong
-## Stick sports
-golf, hockey, polo, ice hockey, field hockey, lacrosse, croquet
-## Combat sports
-boxing, wrestling, judo, karate, taekwondo, mma, ufc, kickboxing, kung fu, sumo, fencing, jiu jitsu
+## Team games
+basketball, volleyball, handball, throwball, dodgeball, kabaddi, kho kho, tug of war
+## Racket games
+tennis, badminton, table tennis, squash, lawn tennis, pickleball
+## Stick games
+golf, hockey, polo, ice hockey, gilli danda
+## Fighting sports
+boxing, wrestling, judo, karate, taekwondo, mma, kung fu, sumo, kickboxing
 ## Water sports
-swimming, diving, water polo, surfing, rowing, sailing, kayaking, rafting, snorkelling, scuba diving
-## Track events
-running, sprint, marathon, hurdles, relay, race walking, triathlon
-## Field events
-long jump, high jump, pole vault, javelin, shot put, discus, hammer throw
+swimming, diving, surfing, water polo, rowing, rafting, scuba diving, jet skiing
+## Running sports
+running, sprint, marathon, jogging, relay race, hurdles, walking race
+## Jump and throw sports
+long jump, high jump, javelin, shot put, discus, pole vault
 ## Wheel sports
-cycling, skating, skateboarding, rollerblading, bmx, mountain biking
-## Indoor sports
-chess, carrom, snooker, billiards, pool, darts, bowling, archery, shooting, esports
-## Fitness activities
-gymnastics, yoga, zumba, aerobics, pilates, crossfit, weightlifting, powerlifting, bodybuilding, calisthenics
-## Motorsport
-formula 1, motogp, nascar, rally, karting, drag race, bike race
-## Winter sports
-skiing, snowboarding, ice skating, sledging, curling, bobsleigh
-## Cricket scoring
-sixer, four, boundary, single, double, dot ball, century, half century, hat trick, duck
-## Cricket extras and dismissals
-wide, no ball, bye, leg bye, free hit
-run out, stumping, lbw, catch, bowled, hit wicket
+cycling, skating, skateboarding, rollerblading, bmx, cycle race
+## Indoor games
+chess game, carrom game, snooker, billiards, pool game, darts, bowling, table football, air hockey
+## Gym sports
+gymnastics, yoga, zumba, aerobics, pilates, crossfit, weightlifting, bodybuilding
+## Racing
+formula 1, motogp, car race, bike race, horse race, drag race, go karting, cycle racing
+## Snow sports
+skiing, snowboarding, ice skating, sledging, ice hockey snow
+## Cricket runs
+sixer, four, boundary, single, double, century, half century, dot ball, duck
+## Cricket outs
+bowled, caught, run out, lbw, stumped, hit wicket, retired hurt
+## Cricket extras
+wide, no ball, bye, leg bye, free hit, overthrow
 ## Cricket players
-batsman, bowler, wicketkeeper, fielder, all rounder, opener, finisher, night watchman, twelfth man, spinner, pacer
-captain, umpire, third umpire, selector, commentator
+batsman, bowler, wicketkeeper, fielder, all rounder, captain cricket, opener, finisher, spinner, fast bowler
+## Cricket officials
+umpire, third umpire, coach cricket, selector, commentator, scorer, match referee, twelfth man
 ## Cricket formats
-test match, odi, t20, ipl, world cup, ranji trophy, asia cup, champions trophy, duleep trophy
+test match, odi, t20, ipl, world cup, asia cup, ranji trophy, gully match
 ## Bowling types
-yorker, bouncer, googly, doosra, inswinger, outswinger, slower ball, full toss, beamer, carrom ball, leg spin, off spin
+yorker, bouncer, googly, slower ball, full toss, inswing, outswing, leg spin, off spin
 ## Batting shots
-cover drive, pull shot, hook, sweep, reverse sweep, helicopter shot, scoop, cut, square cut, straight drive, flick, upper cut
+cover drive, pull shot, hook shot, sweep, reverse sweep, helicopter shot, scoop, cut shot, straight drive, flick
 ## Fielding positions
-slip, gully, point, cover, mid off, mid on, mid wicket, square leg, fine leg, third man, long on, long off
-## Football terms
-goal, penalty, free kick, corner, throw in, offside, own goal, header
-red card, yellow card, tackle, dribble, nutmeg, bicycle kick
-## Football positions
-striker, goalkeeper, defender, midfielder, winger, forward, centre back, full back
-referee, linesman, manager, substitute, var
-## Creative hobbies
-reading, writing, painting, drawing, sketching, calligraphy, doodling
-origami, pottery, knitting, embroidery, stitching, crochet, quilting
+slip, gully, point, cover, mid on, mid off
+square leg, fine leg, third man, long on, long off
+## Football words
+goal, penalty, free kick, corner, throw in, offside
+own goal, header, tackle, dribble, hat trick
+## Football players
+striker, goalkeeper, defender, midfielder, winger, captain football, referee, linesman, substitute, coach football
+## Art hobbies
+reading, writing, painting, drawing, sketching, colouring, origami, pottery, craft
 ## Performing hobbies
-singing, dancing, acting, music, karaoke, beatboxing, rapping, djing, mimicry, stand up comedy
-## Lifestyle hobbies
-gardening, cooking, baking, photography, videography, vlogging, blogging, podcasting, journaling, scrapbooking
+singing, dancing, acting, music, karaoke, beatboxing, rapping, mimicry, stand up comedy
+## Home hobbies
+cooking, baking, gardening, knitting, stitching, photography, vlogging, blogging
 ## Screen hobbies
-gaming, binge watching, scrolling, memes, social media, texting, selfies, reels
+gaming, binge watching, scrolling, memes, selfies, texting, social media hobby, youtube hobby
 ## Outdoor hobbies
-trekking, hiking, camping, jogging, walking, gymming, meditation, travelling
+trekking, hiking, camping hobby, cycling hobby, running hobby, swimming hobby, gymming, travelling
 ## Collecting hobbies
-collecting stamps, collecting coins, collecting cards, bird watching, star gazing, fishing, hunting, horse riding
+stamp collecting, coin collecting, card collecting, bird watching, star gazing, fishing hobby, horse riding
 ## String instruments
-guitar, bass guitar, ukulele, banjo, mandolin, harp, electric guitar, acoustic guitar
-sitar, veena, violin, cello, sarangi, santoor
+guitar, electric guitar, ukulele, sitar, veena, violin, banjo, harp
 ## Keyboard instruments
-piano, keyboard, harmonium, synthesizer, organ, accordion, xylophone, casio
+piano, keyboard, harmonium, casio, synthesizer, organ
 ## Drums
-drums, tabla, dhol, dholak, mridangam, congo, bongo, djembe, nagada, tambourine, damru, cajon
+drums, tabla, dhol, dholak, bongo, tambourine, damru, nagada
 ## Wind instruments
-flute, bansuri, shehnai, saxophone, trumpet, clarinet, harmonica, trombone, bagpipes, nadaswaram, conch
-## Western music genres
-pop, rock, jazz, blues, metal, punk, indie, country
-hip hop, rap, edm, techno, house, trap, disco, lo fi, k pop, reggae
-## Indian music genres
-bhangra, sufi, qawwali, ghazal, bhajan, carnatic, hindustani, item song, lullaby, folk song, filmi, devotional
+flute, bansuri, shehnai, saxophone, trumpet, harmonica, bagpipes, trombone
+## Music types (world)
+pop, rock, jazz, hip hop, rap, edm
+metal, k pop, classical, disco, reggae, country music
+## Music types (India)
+bollywood music, bhangra, sufi, qawwali, ghazal, bhajan
+carnatic, hindustani, folk, item song, lullaby, devotional
 ## Indian classical dance
-bharatanatyam, kathak, kuchipudi, odissi, kathakali, mohiniyattam, manipuri, sattriya
+bharatanatyam, kathak, kuchipudi, odissi, kathakali, mohiniyattam, manipuri
 ## Indian folk dance
-garba, dandiya, lavani, bihu, ghoomar, gidda, kalbelia, chhau, dollu kunitha
+bhangra dance, garba, dandiya, lavani, bihu, ghoomar, gidda, nagin dance
 ## Western dance
-breakdance, salsa, ballet, tango, waltz, contemporary, freestyle, belly dance
-pole dance, tap dance, krumping, popping, locking, moonwalk, twerking, robot dance
+hip hop dance, breakdance, salsa, ballet, tango, zumba dance
+freestyle, belly dance, moonwalk, robot dance, twerking
 ## Parents
-mother, father, mom, dad, mummy, papa, parents, amma, appa, baba, aai
+mother, father, mom, dad, mummy, papa, amma, appa, maa, baba
 ## Siblings
-brother, sister, bhai, didi, sibling, cousin, twin, elder brother, younger sister, stepbrother
+brother, sister, bhai, didi, cousin, twin, elder brother, younger sister, step brother
 ## Grandparents
-grandfather, grandmother, dada, dadi, nana, nani, grandparents, aaji
+grandfather, grandmother, dada, dadi, nana, nani, grandpa, grandma
 ## Uncles and aunts
-uncle, aunt, chacha, chachi, mama, bua, fufa
-mausi, masi, tau, tai, kaka, kaki
+uncle, aunt, chacha, chachi, mama, mami
+bua, fufa, mausi, tau, tai
 ## Partners
-husband, wife, spouse, partner, boyfriend, girlfriend, fiance
-ex, crush, lover, bae, soulmate, better half
+husband, wife, boyfriend, girlfriend, fiance, partner, crush, ex, lover, better half
 ## Friends
-friend, best friend, bestie, bff, buddy, colleague, classmate, roommate
-neighbour, acquaintance, stranger, frenemy, enemy, rival
+friend, best friend, bestie, bff, buddy, classmate, roommate, neighbour, colleague, stranger
 ## Children
-son, daughter, child, kid, baby, toddler, teenager, nephew, niece, grandson, granddaughter, godson
-## In-laws
-father in law, mother in law, brother in law, sister in law, son in law, daughter in law
-jiju, saali, saas, sasur, devar, nanad, bhabhi, jeth
-## Life stages
-infant, adolescent, youth, adult, middle aged, senior citizen, old man, grandparent, newborn, retired
-## Family events
-birthday, anniversary, baby shower, housewarming, farewell, reunion, graduation, retirement party, promotion, first salary
+son, daughter, child, kid, baby, toddler
+teenager, nephew, niece, grandson, granddaughter
+## In laws
+father in law, mother in law, brother in law, sister in law, jiju, saali
+saas, sasur, devar, nanad, bhabhi
+## Ages
+baby age, child age, teenager age, young, adult, middle aged, old, senior citizen
+## Celebrations
+birthday, anniversary, wedding, engagement, baby shower, housewarming, farewell, reunion, graduation, first salary party
 ## Indian ceremonies
-naming ceremony, mundan, thread ceremony, sangeet, mehendi, haldi, reception, bachelor party, cocktail party, engagement
+naming ceremony, mundan, thread ceremony, sangeet, mehendi, haldi, reception, roka, godh bharai, satyanarayan pooja
 ## Body types
-tall, short, slim, fat, chubby, skinny, muscular, athletic
-lanky, petite, plus size, curvy, lean, buff, obese
+tall, short, slim, fat, chubby, skinny, muscular, fit, lean, plus size
 ## Hairstyles
-bald, curly hair, straight hair, wavy hair, long hair, short hair
-ponytail, bun, braid, dreadlocks, mohawk, buzz cut, fringe, undercut, mullet, side part, man bun
+bald, curly hair, straight hair, long hair, short hair, ponytail
+bun, braid, spikes, fringe, mohawk, man bun
 ## Facial hair
-beard, moustache, goatee, stubble, clean shaven, french beard, mutton chops, sideburns, handlebar
-## Personality types
-introvert, extrovert, ambivert, shy, outgoing, talkative, quiet, loud
-nerd, geek, jock, hipster, foodie, bookworm, gym freak, party animal
-workaholic, procrastinator, perfectionist, overthinker, drama queen, chatterbox, gossip, flirt, prankster
+beard, moustache, goatee, stubble, clean shaven, french beard, side burns, handlebar moustache
+## Personality (quiet and loud)
+introvert, extrovert, shy, outgoing, talkative, quiet, loud, calm
+## Personality (fun)
+nerd, geek, foodie, bookworm, gym freak, party animal, workaholic
+lazy bones, drama queen, chatterbox, gossip, flirt, prankster, joker person
 ## Superstitions
-black cat, broken mirror, nazar, evil eye, lemon chilli, number 13, horseshoe, four leaf clover
-salt spill, itchy palm, sneeze, crow cawing, owl omen, black magic, tantrik
+black cat, broken mirror, nazar, evil eye, lemon chilli, number 13, horseshoe
+four leaf clover, itchy palm, sneeze before leaving, crow cawing, owl, black magic, tantrik

@@ -1,277 +1,213 @@
 # Food
 ## South Indian breakfast
-idli, dosa, uttapam, vada, appam, medu vada, pongal, upma
-masala dosa, rava dosa, set dosa, neer dosa, paper dosa, pesarattu
-## North Indian breakfast
-poha, sabudana khichdi, daliya, sheera
-paratha, roti, naan, kulcha, bhatura, puri, chapati, thepla, rumali roti
-aloo paratha, gobi paratha, paneer paratha, methi paratha, mooli paratha
-chole bhature, pav bhaji, misal pav, vada pav, dabeli, kachori
-## Western breakfast
-pancake, waffle, crepe, french toast
-omelette, scrambled eggs, boiled egg, fried egg, poached egg, egg bhurji
-cereal, oats, muesli, granola, cornflakes, porridge
-toast, bagel, croissant, muffin, bun, brioche
+idli, dosa, vada, uttapam, upma
+masala dosa, plain dosa, rava dosa, set dosa, paper dosa
+## Indian breads
+roti, chapati, naan, paratha, kulcha, puri, bhatura, thepla
+aloo paratha, gobi paratha, paneer paratha, methi paratha
+## Mumbai street food
+vada pav, pav bhaji, misal pav, dabeli, bhel puri, sev puri, pani puri, dahi puri, ragda pattice
 ## Fried snacks
-samosa, pakora, bhajiya, spring roll, cutlet, bread pakora, mirchi bhaji
-dhokla, khandvi, patra, fafda, khakhra, handvo
-french fries, potato wedges, hash browns, onion rings, nachos
-popcorn, chips, pretzel, peanuts, cheese balls, kurkure
-momos, dim sum, dumplings, wonton, bao, gyoza
-## Chaat
-bhel puri, sev puri, pani puri, dahi puri, papdi chaat, ragda pattice, aloo tikki chaat, dahi bhalla, raj kachori, samosa chaat
+samosa, kachori, pakora, bread pakora, spring roll, cutlet, onion bhaji
+dhokla, khandvi, fafda, khakhra, poha
+## Chips and popcorn
+french fries, potato wedges, chips, popcorn, nachos, peanuts, cheese balls
+## Momos and dumplings
+momos, dim sum, dumplings, wonton, spring roll chinese
 ## Namkeen
-namkeen, bhujia, chivda, mixture, mathri, sev, chakli, murukku, banana chips, moong dal namkeen
-## Street rolls
-frankie, kathi roll, egg roll, shawarma roll, paneer roll, chicken roll, wrap
+bhujia, mixture, chivda, sev, chakli, murukku, banana chips
+## Rolls
+frankie, kathi roll, egg roll, chicken roll, paneer roll, shawarma, wrap
 ## Indo Chinese
-chowmein, hakka noodles, fried rice, manchurian, chilli chicken, schezwan noodles, chilli paneer, triple schezwan, american chopsuey
-## Rice dishes (Indian)
-biryani, pulao, khichdi, jeera rice, curd rice, lemon rice, tamarind rice, ghee rice, bisi bele bath
-hyderabadi biryani, lucknowi biryani, kolkata biryani, malabar biryani, dum biryani, chicken biryani, mutton biryani, egg biryani, veg biryani
-## Rice dishes (world)
-risotto, paella, sushi, bibimbap, jambalaya, nasi goreng, pilaf, kabsa, mandi
-## Chicken curries
-butter chicken, chicken tikka masala, chicken curry, kadhai chicken, chicken korma, chicken changezi, chicken do pyaza, chicken chettinad
-## Paneer curries
-paneer butter masala, shahi paneer, kadhai paneer, palak paneer, matar paneer, paneer tikka masala, paneer bhurji, paneer lababdar
-## Dal and legumes
-dal makhani, dal tadka, dal fry, chana masala, rajma, sambar, kadhi, dal bukhara, pindi chole
-## Mutton dishes
-rogan josh, mutton curry, nihari, haleem, keema, mutton korma, laal maas, mutton rezala
-## Veg sabzis
-aloo gobi, bhindi masala, baingan bharta, aloo matar, mix veg, malai kofta, dum aloo, aloo jeera, bharwa bhindi, sarson ka saag
-## Tandoor and kebabs
-tandoori chicken, chicken tikka, seekh kebab, shami kebab, galouti kebab, malai tikka, reshmi kebab, paneer tikka, hara bhara kebab, tangdi kebab
+chowmein, hakka noodles, fried rice, manchurian, chilli chicken, chilli paneer, schezwan noodles
+## Biryani and rice
+biryani, pulao, fried rice, khichdi, jeera rice, curd rice, lemon rice
+chicken biryani, mutton biryani, egg biryani, veg biryani, hyderabadi biryani, dum biryani
+## Chicken dishes
+butter chicken, chicken tikka masala, chicken curry, kadhai chicken, chicken korma, tandoori chicken, chicken tikka, chicken 65
+## Paneer dishes
+paneer butter masala, shahi paneer, kadhai paneer, palak paneer, matar paneer, paneer tikka, paneer bhurji
+## Dal and beans
+dal makhani, dal tadka, dal fry, chole, rajma, sambar, kadhi, chana masala
+## Veg dishes
+aloo gobi, bhindi masala, baingan bharta, aloo matar, mix veg, malai kofta, dum aloo, aloo jeera
+## Kebabs
+seekh kebab, shami kebab, malai tikka, hara bhara kebab, chicken lollipop, chicken wings
 ## Fast food
-burger, pizza, hot dog, sandwich, taco, burrito, shawarma, sub, quesadilla, panini
-cheeseburger, veg burger, chicken burger, aloo tikki burger, double patty, mcaloo tikki, whopper, zinger
-margherita, pepperoni, farmhouse, paneer pizza, cheese pizza, peppy paneer, mexican green wave, chicken dominator
-## Pasta
-pasta, spaghetti, macaroni, lasagna, penne, ravioli, fettuccine, mac and cheese, white sauce pasta, red sauce pasta, pink sauce pasta, alfredo, arrabiata, pesto pasta
-## Asian noodles and dishes
-ramen, pho, udon, soba, pad thai, laksa, maggi, cup noodles
-sashimi, tempura, teriyaki, miso soup, kimchi, korean fried chicken, bulgogi, tteokbokki
-## Indian sweets (syrupy)
-gulab jamun, rasgulla, rasmalai, jalebi, kala jamun, cham cham, malpua, imarti, balushahi, ghevar
+burger, pizza, hot dog, sandwich, taco, burrito, sub, wrap
+cheeseburger, veg burger, chicken burger, aloo tikki burger, double patty
+margherita, pepperoni, farmhouse, cheese pizza, paneer pizza, chicken pizza
+## Pasta and noodles
+pasta, spaghetti, macaroni, lasagna, mac and cheese, white sauce pasta, red sauce pasta
+maggi, cup noodles, ramen, instant noodles, chowmein noodles
+## Indian sweets (wet)
+gulab jamun, rasgulla, rasmalai, jalebi, kala jamun, malpua, cham cham
 ## Indian sweets (dry)
-ladoo, barfi, peda, kaju katli, soan papdi, mysore pak, halwa, petha, sandesh, modak
-motichoor ladoo, besan ladoo, boondi ladoo, coconut ladoo, rava ladoo, til ladoo
+ladoo, barfi, peda, kaju katli, soan papdi, mysore pak, halwa, petha, modak
+motichoor ladoo, besan ladoo, boondi ladoo, coconut ladoo
 ## Indian puddings
-kheer, phirni, gajar halwa, moong dal halwa, shahi tukda, sewai, payasam, basundi, rabri, shrikhand
-## Frozen desserts
-kulfi, falooda, ice cream, gelato, frozen yogurt, popsicle, chuski, softy, sundae, ice cream sandwich
-## Cakes and pastries
-cake, pastry, cupcake, brownie, donut, cheesecake, pie, tart, eclair, swiss roll
-chocolate cake, red velvet, black forest, tiramisu, blueberry cheesecake, pineapple cake, butterscotch cake, truffle cake
-## Biscuits and puddings
-cookie, biscuit, cracker, wafer, rusk, macaron, shortbread, khari
-pudding, custard, mousse, panna cotta, jelly, trifle, souffle, creme brulee
+kheer, gajar halwa, suji halwa, phirni, sewai, payasam, rabri
+## Ice cream
+kulfi, falooda, ice cream, cone, ice cream sandwich, popsicle, chuski, softy, sundae
+vanilla, chocolate ice cream, strawberry ice cream, butterscotch, mango ice cream, pista ice cream, black currant
+## Cakes
+cake, pastry, cupcake, brownie, muffin, donut, cheesecake, pie
+chocolate cake, red velvet, black forest, pineapple cake, butterscotch cake, truffle cake
+## Biscuits
+cookie, biscuit, cracker, wafer, rusk, toast
 ## Chocolates
-dairy milk, kitkat, five star, perk, munch, snickers, mars, bounty, twix, ferrero rocher, toblerone, milky bar
+dairy milk, kitkat, five star, perk, munch, snickers, ferrero rocher, milky bar, silk, gems
 ## Candies
-gems, eclairs, melody, kismi, coffee bite, mango bite, pulse, polo, mentos, chlormint, poppins, alpenliebe, hajmola candy, lollipop
-## Hot drinks
-tea, coffee, green tea, black tea, masala chai, hot chocolate, kahwa, cutting chai, ginger tea, lemon tea
-cappuccino, latte, espresso, americano, mocha, filter coffee, cold coffee, frappe, macchiato, flat white
-## Indian cold drinks
-lassi, buttermilk, chaas, milkshake, smoothie, badam milk, thandai, sweet lassi, mango lassi
-lemonade, nimbu pani, shikanji, iced tea, jaljeera, aam panna, kokum sharbat, bel sharbat
+eclairs, melody, kismi, coffee bite, mango bite, pulse
+polo, mentos, alpenliebe, lollipop, candy, toffee
+## Tea and coffee
+tea, coffee, green tea, black tea, masala chai, hot chocolate, cutting chai, ginger tea, lemon tea
+cappuccino, latte, cold coffee, filter coffee, black coffee, frappe
+## Milk drinks
+lassi, buttermilk, chaas, milkshake, smoothie, badam milk, thandai, flavoured milk
+## Lemon drinks
+lemonade, nimbu pani, shikanji, iced tea, jaljeera, aam panna, rooh afza
 ## Soft drinks
-coke, pepsi, thums up, sprite, limca, fanta, mirinda, mountain dew, 7up, maaza, frooti, slice
+coke, pepsi, thums up, sprite, limca, fanta, mirinda, mountain dew, 7up
+## Fruit drinks
+maaza, frooti, slice, real juice, tropicana, appy, paper boat
 ## Energy drinks
-red bull, monster, sting, gatorade, powerade, hell, predator energy
+red bull, monster, sting, gatorade, glucon d
 ## Juices
-coconut water, sugarcane juice, orange juice, apple juice, mango juice, mosambi juice, pomegranate juice, watermelon juice, pineapple juice, mixed fruit juice
-## Water and mixers
-mineral water, soda, sparkling water, tonic water, ice, club soda, ginger ale, lime soda
-## Fruits (temperate)
-apple, pear, guava, peach, plum, apricot
-## Fruits (tropical)
-mango, papaya, pineapple, banana, chikoo, jackfruit, custard apple, litchi
-## Citrus
-orange, mosambi, lemon, lime, grapefruit, kinnow, tangerine
-## Berries
-strawberry, blueberry, raspberry, blackberry, cranberry, cherry, grapes
+coconut water, sugarcane juice, orange juice, apple juice, mango juice, watermelon juice, pineapple juice, mixed fruit juice
+## Water
+mineral water, soda, bisleri, kinley, aquafina, ice water, tap water, hot water
+## Fruits (common)
+apple, banana, orange, mango, grapes, papaya, pineapple, guava
+## Fruits (small)
+strawberry, cherry, blueberry, litchi, plum, peach, pear, kiwi
 ## Melons
 watermelon, muskmelon, honeydew
 ## Dry fruits
-coconut, dates, figs, raisins, almonds, cashews, walnuts, pistachios, prunes
-## Exotic fruits
-dragon fruit, avocado, passion fruit, pomegranate
+almonds, cashews, walnuts, pistachios, raisins, dates, peanuts dry, figs
+## Lemon family
+lemon, lime, orange, mosambi, grapefruit
+## Fruits (other)
+coconut, pomegranate, chikoo, jackfruit, dragon fruit, avocado, custard apple
 ## Root vegetables
-potato, sweet potato, yam, tapioca, colocasia
-onion, garlic, ginger, spring onion, shallot
-carrot, radish, beetroot, turnip
-## Vegetables (common)
-tomato, capsicum, chilli, brinjal, lady finger
-cabbage, cauliflower, broccoli, lettuce, spinach, methi
-peas, beans, french beans, cluster beans, drumstick, corn
-cucumber, bottle gourd, bitter gourd, ridge gourd, pumpkin, ash gourd, tinda
-mushroom, baby corn, bell pepper, jalapeno, olives
-## Lentils
-moong dal, toor dal, chana dal, urad dal, masoor dal, chole, kabuli chana, lobia
+potato, sweet potato, onion, garlic, ginger, carrot, radish, beetroot
+## Vegetables
+tomato, capsicum, chilli, brinjal, lady finger, cucumber, pumpkin, bottle gourd, bitter gourd
+cabbage, cauliflower, broccoli, lettuce, spinach, methi, peas, beans, corn, mushroom
+## Dal types
+moong dal, toor dal, chana dal, masoor dal, urad dal
 ## Grains
-rice, wheat, jowar, bajra, ragi, maize, barley, quinoa
-basmati, brown rice, sona masoori, puffed rice, flattened rice
-## Spices (everyday)
-turmeric, cumin, coriander, red chilli, garam masala, black pepper, mustard seeds, fenugreek, asafoetida
-## Spices (whole)
-cardamom, cinnamon, clove, bay leaf, nutmeg, star anise, saffron, mace
-## Basics
-salt, sugar, jaggery, honey, vinegar, soy sauce
-## Condiments
-ketchup, mayonnaise, mustard, chutney, pickle, salsa, hummus, hot sauce, schezwan sauce
-mint chutney, tamarind chutney, coconut chutney, tomato chutney, garlic chutney
+rice, wheat, atta, maida, suji, oats, corn flour, besan
+## Spices
+turmeric, cumin, coriander, red chilli, garam masala, black pepper, salt, mustard
+cardamom, cinnamon, clove, bay leaf, saffron
+## Kitchen basics
+sugar, jaggery, honey, butter, ghee, oil, vinegar, soy sauce
+## Sauces
+ketchup, mayonnaise, chutney, pickle, hot sauce, schezwan sauce, green chutney, tamarind chutney
 ## Dairy
-milk, curd, paneer, cheese, butter, ghee, cream, khoya, condensed milk
-cheddar, mozzarella, parmesan, feta, cream cheese, cheese slice, cottage cheese, amul cheese
-## Breads
-bread, brown bread, white bread, garlic bread, pav, baguette, pita, focaccia
-## Meat and seafood
-chicken, mutton, fish, prawn, crab, egg, lamb, beef, pork, turkey, duck
-chicken wings, chicken lollipop, chicken 65, chicken nuggets, popcorn chicken, fried chicken
-fish fry, fish curry, prawn curry, fish fingers, grilled fish, tandoori fish
-## Soups
-tomato soup, sweet corn soup, hot and sour soup, manchow soup, mushroom soup, chicken soup, lemon coriander soup
-## Salads
-caesar salad, greek salad, russian salad, fruit salad, coleslaw, kachumber, sprout salad
-## Cooking methods
-fried, grilled, roasted, baked, steamed, boiled, sauteed, smoked, barbecued, tandoori
+milk, curd, paneer, cheese, butter dairy, ghee dairy, cream, condensed milk
+## Bread
+bread, brown bread, white bread, garlic bread, pav, bun, toast bread
+## Meat
+chicken, mutton, fish, prawn, crab, egg, lamb, beef, pork
 ## Egg dishes
-egg curry, egg roll, anda pav, half fry, egg fried rice, egg maggi, egg sandwich
+omelette, boiled egg, fried egg, egg bhurji, egg curry, half fry, scrambled eggs, egg sandwich
+## Soups
+tomato soup, sweet corn soup, hot and sour soup, manchow soup, chicken soup, mushroom soup, veg soup
+## Salads
+green salad, fruit salad, caesar salad, russian salad, coleslaw, kachumber
+## Meals of the day
+breakfast, lunch, dinner, brunch, snack, supper, midnight snack, tiffin
 
 # Animals & Nature
 ## Big cats
-lion, tiger, leopard, cheetah, jaguar, panther, puma, lynx, snow leopard
-## Large wild animals
-elephant, rhinoceros, hippopotamus, giraffe, zebra, buffalo, bison
+lion, tiger, leopard, cheetah, jaguar, panther
+## Big animals
+elephant, rhino, hippo, giraffe, zebra, buffalo, camel
 ## Wild dogs
-wolf, fox, jackal, hyena, coyote, dingo, wild dog
+wolf, fox, jackal, hyena, wild dog
 ## Bears
-bear, polar bear, panda, grizzly bear, sloth bear, koala
-## Deer
-deer, antelope, reindeer, moose, elk, chital, nilgai
-## Primates
-monkey, gorilla, chimpanzee, orangutan, baboon, langur, lemur
-## Cattle
-cow, ox, bull, calf, yak
+bear, polar bear, panda, koala, sloth
+## Deer family
+deer, antelope, reindeer, moose, blackbuck
+## Monkeys
+monkey, gorilla, chimpanzee, orangutan, baboon, langur
 ## Farm animals
-goat, sheep, ram, donkey, mule, horse, pony, camel
-hen, rooster, chick, goose, quail
-pig, boar, hog, piglet
+cow, buffalo farm, ox, bull, goat, sheep, donkey, horse, pig
+## Birds (farm)
+hen, rooster, chick, duck, goose, turkey
 ## Pets
-dog, cat, puppy, kitten, hamster, guinea pig, rabbit, parrot, goldfish, turtle
-## Dog breeds (big)
-labrador, german shepherd, golden retriever, husky, doberman, rottweiler, dalmatian, great dane
-## Dog breeds (small)
-pug, beagle, pomeranian, bulldog, chihuahua, poodle, shih tzu, dachshund
-## Cat types
-persian cat, siamese cat, tabby, street cat, bengal cat
+dog, cat, puppy, kitten, rabbit, hamster, parrot, goldfish, turtle, tortoise
+## Dog breeds
+labrador, german shepherd, golden retriever, pug, beagle, husky, pomeranian, bulldog, doberman
 ## Common birds
-crow, pigeon, sparrow, mynah, cuckoo, koel, bulbul, hummingbird, kingfisher
-## Birds of prey
-eagle, hawk, falcon, vulture, kite, owl, condor
+crow, pigeon, sparrow, parrot bird, mynah, cuckoo, koel, kingfisher
 ## Big birds
-peacock, swan, flamingo, ostrich, emu, pelican, stork, crane, heron
-## Water birds
-penguin, seagull, puffin, albatross, cormorant
-## Snakes
-snake, cobra, python, viper, anaconda, rattlesnake, krait, boa
-## Lizards
-lizard, chameleon, gecko, iguana, komodo dragon, monitor lizard
-## Crocodiles
-crocodile, alligator, gharial
-## Amphibians
-frog, toad, salamander, newt, tadpole
-## Tortoises
-tortoise, terrapin, sea turtle
-## Sharks and whales
-shark, whale, dolphin, orca, blue whale, great white shark, hammerhead
-## Sea creatures
-octopus, squid, jellyfish, starfish, sea horse, sea urchin, cuttlefish
-lobster, shrimp, crayfish, king crab
-## Fish
-salmon, tuna, sardine, mackerel, pomfret, rohu, hilsa, catfish, cod, trout, anchovy, eel
-## Sea mammals
-seal, walrus, sea lion, otter, manatee
-## Shellfish
-clam, oyster, mussel, snail, scallop
-## Insects (flying)
-butterfly, moth, dragonfly, ladybug, firefly, grasshopper, cricket, beetle, cockroach
-ant, termite, bee, wasp, hornet, bumblebee, honeybee
-mosquito, housefly, fruit fly, gnat
-## Creepy crawlies
-spider, scorpion, centipede, millipede, tick, tarantula
-caterpillar, worm, earthworm, silkworm, leech, maggot
-## Rodents
-rat, mouse, squirrel, mole, chipmunk, beaver
-hedgehog, porcupine, mongoose, bat, meerkat
-## Dinosaurs
-dinosaur, mammoth, dodo, sabre tooth tiger, t rex, triceratops, velociraptor, pterodactyl
-## Mythical creatures
-dragon, unicorn, phoenix, griffin, pegasus, mermaid
-yeti, loch ness monster, bigfoot, werewolf, vampire, zombie, ghost
-## Flowers (garden)
-rose, lily, tulip, orchid, daisy, lavender, dahlia, chrysanthemum
-## Flowers (Indian)
-lotus, jasmine, marigold, sunflower, hibiscus, mogra, champa, parijat
-## Trees (Indian)
-banyan, peepal, neem, mango tree, coconut tree, gulmohar, ashoka, tamarind tree
-## Trees (world)
-palm, bamboo, teak, pine, oak, maple, eucalyptus, willow, cedar
-## House plants
-cactus, aloe vera, money plant, tulsi, bonsai, fern, snake plant, succulent
-creeper, grass, weed, moss, shrub, hedge, vine
-## Rain
-rain, drizzle, shower, storm, thunderstorm, hailstorm, monsoon, cloudburst
-## Fog and snow
-fog, mist, smog, haze, dew, frost
-snow, sleet, blizzard, avalanche, hail
+eagle, hawk, vulture, kite, owl, peacock, swan, flamingo, ostrich, penguin
+## Snakes and lizards
+snake, cobra, python, viper, lizard, chameleon, crocodile, alligator
+## Frogs and fish
+frog, toad, tadpole, fish, shark, whale, dolphin, octopus, jellyfish, starfish
+## Sea food animals
+crab sea, lobster, prawn sea, squid, oyster, seahorse
+## Insects
+butterfly, bee, ant, mosquito, housefly, cockroach, grasshopper, ladybug, dragonfly, moth
+spider, scorpion, lizard wall, centipede, earthworm, snail
+## Small animals
+rat, mouse, squirrel, bat, mongoose, hedgehog, porcupine
+## Dinosaurs and legends
+dinosaur, t rex, mammoth, dragon, unicorn, mermaid, ghost, vampire, zombie, yeti
+## Flowers
+rose, lotus, sunflower, marigold, jasmine, hibiscus, tulip, lily, daisy, orchid
+## Trees
+banyan, neem, peepal, mango tree, coconut tree, palm tree, bamboo, pine tree, apple tree, christmas tree
+## Plants
+cactus, aloe vera, money plant, tulsi, grass, creeper, fern, bonsai
+## Rain words
+rain, drizzle, storm, thunderstorm, monsoon, flood, cloudburst, shower
+## Cold weather
+fog, mist, dew, frost, snow, ice, hail, cold wave
 ## Wind
-wind, breeze, gust, cyclone, hurricane, typhoon, tornado, dust storm
+wind, breeze, storm wind, cyclone, tornado, hurricane, dust storm
 ## Weather types
-sunny, cloudy, humid, dry, windy, rainy, foggy, chilly
-## Sky events
-lightning, thunder, rainbow, sunrise, sunset, eclipse
-## Natural disasters
-earthquake, tsunami, flood, landslide, volcano, drought, wildfire, famine
-## Landforms
-mountain, hill, peak, cliff, valley, plateau, glacier, canyon, cave
+sunny, cloudy, rainy, windy, foggy, humid, hot, cold
+## Sky things
+lightning, thunder, rainbow, sunrise, sunset, eclipse, cloud, sky
+## Disasters
+earthquake, tsunami, flood disaster, landslide, volcano, drought, wildfire, famine
+## Mountains and valleys
+mountain, hill, valley, cliff, cave, glacier, peak, volcano mountain
 ## Water bodies
-river, stream, lake, pond, waterfall, canal, dam, spring, reservoir, creek, lagoon
-sea, ocean, bay, gulf, beach, coast, island, peninsula, reef, strait
-## Dry and green lands
-desert, dune, oasis, savanna, grassland, tundra, prairie, meadow
-forest, jungle, rainforest, woods, grove, orchard, garden, park, mangrove, swamp
-## Space objects
-sun, moon, star, planet, comet, asteroid, meteor, galaxy, black hole, nebula
+river, stream, lake, pond, waterfall, canal
+dam, well, sea, ocean, beach, island
+## Land types
+desert, forest, jungle, island land, garden, park, field, farm, village, city
+## Space
+sun, moon, star, planet, comet, meteor, galaxy, black hole, satellite, rocket
 ## Planets
 mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, pluto
-## Moon phases
-full moon, new moon, crescent, half moon, lunar eclipse, solar eclipse
+## Moon types
+full moon, new moon, half moon, crescent moon, blue moon, lunar eclipse, solar eclipse
 ## Space travel
-rocket, spaceship, space station, satellite, telescope, astronaut, ufo, space shuttle
+rocket space, spaceship, astronaut, space station, telescope, ufo, alien, isro, nasa
 ## Metals
-gold, silver, platinum, bronze, copper, brass, iron, steel, aluminium
+gold, silver, iron, copper, steel, aluminium, brass, bronze, platinum
 ## Gems
-diamond, ruby, emerald, sapphire, pearl, topaz, opal, jade, amethyst, garnet
-## Stones
-marble, granite, sandstone, limestone, slate, quartz, brick, cement, concrete
+diamond, ruby, emerald, sapphire, pearl, topaz
 ## Materials
-wood, plastic, glass, rubber, leather, paper, cardboard, foam, clay, wax
-## Fabrics
-cotton, wool, linen, denim, nylon, polyester
-velvet, satin, khadi, jute, fur, lace, chiffon, georgette
+wood, plastic, glass, rubber, paper, cloth
+leather, stone, cement, brick, clay, sand
+## Cloth types
+cotton, silk, wool, denim, nylon, polyester, velvet, linen
 ## Seasons
-summer, winter, autumn, spring, rainy season
+summer, winter, monsoon season, spring, autumn
 ## Times of day
-morning, afternoon, evening, night, midnight, dawn, dusk, noon
+morning, afternoon, evening, night, midnight, dawn, noon
 ## Baby animals
-kid, foal, cub, fawn, joey, duckling, gosling
+puppy baby, kitten baby, calf, lamb, chick baby, cub, foal, piglet
 ## Animal sounds
-bark, meow, roar, moo, neigh, chirp, quack
-hiss, howl, buzz, croak, squeak, growl, bleat
+bark, meow, roar, moo, neigh, chirp
+quack, hiss, howl, buzz, croak
 ## Animal homes
-nest, burrow, hive, web, kennel, stable
-coop, cage, aquarium, zoo, sanctuary, barn, shed
+nest, den, burrow, hive, web, kennel, stable, cage, aquarium, zoo

@@ -1,396 +1,243 @@
 # World & Culture
-## Countries (South Asia)
-india, pakistan, bangladesh, sri lanka, nepal, bhutan, maldives, afghanistan, myanmar
-## Countries (East Asia)
-china, japan, south korea, north korea, taiwan, mongolia, hong kong, macau
-## Countries (South East Asia)
-thailand, vietnam, malaysia, singapore, indonesia, philippines, cambodia, laos, brunei
+## Neighbour countries
+india, pakistan, bangladesh, sri lanka, nepal, bhutan, maldives country, afghanistan, myanmar, china
+## East Asian countries
+japan, south korea, north korea, taiwan, hong kong country, mongolia, china east
+## South East Asian countries
+thailand, vietnam, malaysia, singapore country, indonesia, philippines, cambodia
 ## Gulf countries
-uae, saudi arabia, qatar, oman, kuwait, bahrain, yemen
-## Middle East countries
-iran, iraq, israel, jordan, lebanon, syria, turkey, palestine
-## Countries (Central Asia)
-kazakhstan, uzbekistan, kyrgyzstan, tajikistan, turkmenistan, azerbaijan, armenia, georgia
-## UK nations
-uk, england, scotland, wales, ireland, northern ireland
-## Western European countries
-france, germany, italy, spain, portugal, netherlands, belgium, switzerland, austria
-## Nordic countries
-sweden, norway, denmark, finland, iceland, greenland
-## Eastern European countries
-russia, ukraine, poland, czech republic, hungary, romania, bulgaria, serbia, croatia, belarus
-## Southern and small European countries
-greece, cyprus, malta, slovakia, slovenia, lithuania, latvia, estonia, luxembourg, monaco, vatican city
-## North American countries
-usa, canada, mexico, cuba, jamaica, bahamas, puerto rico, haiti, dominican republic, costa rica, panama, guatemala
-## South American countries
-brazil, argentina, chile, peru, colombia, venezuela, uruguay, paraguay, bolivia, ecuador
-## North African countries
-egypt, morocco, algeria, tunisia, libya, sudan, ethiopia, somalia
-## Sub Saharan countries
-south africa, nigeria, kenya, ghana, tanzania, uganda, zimbabwe, zambia, rwanda
-senegal, cameroon, mauritius, madagascar, congo, mali, namibia, botswana, mozambique
-## Oceania countries
-australia, new zealand, fiji, papua new guinea, samoa, tonga
+uae, saudi arabia, qatar, oman, kuwait, bahrain
+dubai country, iran, iraq, israel, turkey
+## European countries
+uk, england, scotland, ireland, france, germany, italy
+spain, portugal, netherlands, switzerland, russia, ukraine, greece
+sweden, norway, denmark, finland, poland, austria, belgium
+## American countries
+usa, canada, mexico, brazil, argentina, chile, peru, colombia, cuba, jamaica
+## African countries
+egypt, south africa, nigeria, kenya, morocco, ethiopia, ghana, tanzania, uganda, zimbabwe
+## Australia region
+australia, new zealand, fiji, papua new guinea
 ## Continents
-asia, europe, africa, north america, south america, oceania, antarctica
+asia, europe, africa, north america, south america, australia continent, antarctica
 ## Regions
-middle east, far east, south east asia, scandinavia, balkans, caribbean, latin america, gulf, mediterranean, sub continent, siberia, arctic, himalayas
-## Major currencies
-rupee, euro, pound, yen, yuan, franc, won
-## Asian currencies
-dirham, riyal, dinar, taka, ringgit, baht, rupiah, shekel, lira
-## Other currencies
-rand, peso, krona, ruble, real, zloty, rupee pakistani, nepali rupee
-## Cryptocurrencies
-bitcoin, ethereum, dogecoin, solana, tether, shiba inu, binance coin, ripple, cardano, litecoin
-## North Indian languages
-hindi, punjabi, urdu, sanskrit, kashmiri, nepali, bhojpuri, haryanvi, rajasthani, maithili, dogri
-## West and East Indian languages
-marathi, gujarati, bengali, assamese, konkani, sindhi, manipuri, bodo, santali, mizo, khasi
-## South Indian languages
-tamil, telugu, kannada, malayalam, tulu
-## European languages
-english, french, spanish, german, italian, portuguese, russian, greek, latin, dutch, swedish, polish
-## Asian languages
-chinese, mandarin, japanese, korean, arabic, persian, turkish, hebrew, thai, vietnamese, indonesian, malay, swahili, zulu
-## Indian states (north)
-jammu and kashmir, himachal pradesh, punjab, haryana, uttarakhand, uttar pradesh, delhi, rajasthan, chandigarh, ladakh
-## Indian states (west and central)
-gujarat, maharashtra, goa, madhya pradesh, chhattisgarh, daman and diu, dadra and nagar haveli
-## Indian states (south)
-karnataka, kerala, tamil nadu, andhra pradesh, telangana, pondicherry, lakshadweep, andaman and nicobar
-## Indian states (east)
-west bengal, bihar, jharkhand, odisha, sikkim
-## Indian states (northeast)
-assam, meghalaya, arunachal pradesh, nagaland, manipur, mizoram, tripura
-## Hindu festivals (big)
-diwali, holi, dussehra, navratri, ganesh chaturthi, janmashtami, durga puja, mahashivratri
-## Hindu festivals (family)
-raksha bandhan, bhai dooj, karva chauth, teej, hartalika teej, tulsi vivah, govardhan puja, dhanteras
+middle east, far east, south east asia, scandinavia, caribbean, latin america, gulf region, mediterranean, himalayas, arctic
+## Currencies
+rupee, dollar, euro, pound, yen, yuan
+dirham, riyal, dinar, taka, rand, peso
+lira, won, franc, ringgit, baht, ruble
+## Crypto
+bitcoin, ethereum, dogecoin, solana, shiba inu, binance coin, crypto coin, nft
+## Indian languages
+hindi language, english language, marathi, gujarati, punjabi, bengali, tamil, telugu
+kannada, malayalam, urdu, sanskrit language, assamese, odia language, kashmiri, konkani
+sindhi, bhojpuri, haryanvi, rajasthani, tulu, nepali
+## World languages
+french, spanish, german, italian, portuguese, russian, chinese
+mandarin, japanese, korean, arabic, persian, turkish, hebrew
+greek, latin, dutch, thai language, swahili
+## North Indian states
+jammu and kashmir, himachal pradesh, punjab, haryana, uttarakhand, uttar pradesh, delhi state, rajasthan, chandigarh, ladakh state
+## West and Central Indian states
+gujarat, maharashtra, goa state, madhya pradesh, chhattisgarh, daman and diu
+## South Indian states
+karnataka, kerala, tamil nadu, andhra pradesh, telangana, pondicherry state, lakshadweep state, andaman and nicobar
+## East and North East states
+west bengal, bihar, jharkhand, odisha, sikkim, assam
+meghalaya, arunachal pradesh, nagaland, manipur, mizoram, tripura
+## Big Hindu festivals
+diwali, holi, dussehra, navratri, ganesh chaturthi, janmashtami, durga puja, mahashivratri, ram navami, hanuman jayanti
+## Family festivals
+raksha bandhan, bhai dooj, karva chauth, teej, govardhan puja, dhanteras, chhath puja, tulsi vivah
 ## Harvest festivals
-makar sankranti, lohri, pongal, bihu, baisakhi, onam, bhogi, kanuma, nuakhai, wangala
+makar sankranti, lohri, pongal, bihu festival, baisakhi, onam, bhogi, uttarayan, kite festival
 ## New year festivals
-ugadi, gudi padwa, vishu, puthandu, parsi new year, nowruz, lunar new year, chinese new year, songkran, losar
-## Religious gatherings
-chhath puja, ram navami, hanuman jayanti, basant panchami, rath yatra, kumbh mela, akshaya tritiya, nag panchami
-## Fairs and festivals
-hornbill festival, pushkar fair, goa carnival, hemis festival, surajkund mela, rann utsav, jaipur literature festival, kala ghoda, ziro festival, sunburn festival
+ugadi, gudi padwa, vishu, puthandu, parsi new year, chinese new year, new year's eve, nowruz
 ## Muslim festivals
-eid, eid ul fitr, eid ul adha, bakrid, ramzan, muharram, milad un nabi, shab e barat, iftar, sehri
-## Christian festivals
-christmas, easter, good friday, new year, thanksgiving, halloween, boxing day, st patrick's day, hanukkah, passover
-## World party festivals
-oktoberfest, carnival, la tomatina, day of the dead, mardi gras, coachella, tomorrowland festival, burning man, glastonbury, holi moo
-## Sikh, Buddhist and Jain festivals
-guru nanak jayanti, gurpurab, hola mohalla, buddha purnima, mahavir jayanti, paryushan
-## National days
-independence day, republic day, gandhi jayanti, labour day, earth day, yoga day, world environment day, constitution day, army day, navy day
-## Family days
-mother's day, father's day, friendship day, teacher's day, children's day, women's day, grandparents day, siblings day
+eid, eid ul fitr, bakrid, ramzan, muharram, milad un nabi, iftar party, sehri
+## Christian and world festivals
+christmas, easter, good friday, new year, thanksgiving, halloween, valentine's day
+boxing day, st patrick's day, hanukkah, oktoberfest, carnival, la tomatina
+## Sikh Buddhist Jain festivals
+guru nanak jayanti, gurpurab, buddha purnima, mahavir jayanti, paryushan, hola mohalla, lohri sikh
+## Special days
+mother's day, father's day, friendship day, teacher's day, children's day, women's day, independence day
+republic day, gandhi jayanti, labour day, earth day, yoga day, april fool's day
 ## Valentine week
-valentine's day, rose day, propose day, chocolate day, teddy day, promise day, hug day, kiss day, april fool's day
+valentine's day week, rose day, propose day, chocolate day, teddy day, promise day, hug day, kiss day
 ## IPL teams
 mumbai indians, chennai super kings, royal challengers bangalore, kolkata knight riders, delhi capitals, sunrisers hyderabad, rajasthan royals, punjab kings, gujarat titans, lucknow super giants
-## Old IPL teams
-deccan chargers, kochi tuskers, pune warriors, gujarat lions, rising pune supergiant, kings xi punjab, delhi daredevils
-## Cricket nations (top)
-## Cricket nations (associate)
-## Premier League big six
+## Cricket teams
+india cricket, australia cricket, england cricket, pakistan cricket, south africa cricket, new zealand cricket, sri lanka cricket, west indies, bangladesh cricket, afghanistan cricket
+## English football clubs
 manchester united, manchester city, liverpool, chelsea, arsenal, tottenham
-## Premier League others
-newcastle, aston villa, everton, west ham, leicester, leeds, wolves, brighton, crystal palace, fulham, nottingham forest, southampton, bournemouth, brentford
-## Spanish clubs
-real madrid, barcelona, atletico madrid, sevilla, valencia, villarreal, real sociedad, athletic bilbao, real betis
-## German clubs
-bayern munich, bayer leverkusen, rb leipzig, schalke, borussia monchengladbach, eintracht frankfurt
-## Italian clubs
-juventus, ac milan, inter milan, napoli, roma, lazio, atalanta, fiorentina
-## French clubs
-psg, marseille, lyon, monaco, lille, nice, rennes
-## Other European clubs
-ajax, psv, feyenoord, benfica, porto, sporting lisbon, celtic, rangers, galatasaray, fenerbahce, besiktas
-## World clubs
-inter miami, la galaxy, al nassr, al hilal, al ittihad, boca juniors, river plate, flamengo, santos, corinthians, palmeiras
-## ISL clubs
-mumbai city, bengaluru fc, kerala blasters, mohun bagan, east bengal, fc goa, chennaiyin, hyderabad fc, odisha fc, jamshedpur fc, northeast united, punjab fc, mohammedan sporting
-## Football nations (Europe)
-## Football nations (world)
-## Cricket tournaments (international)
-world cup, t20 world cup, champions trophy, asia cup, border gavaskar trophy, ashes, wtc final
-## Cricket leagues
-ipl, big bash, psl, cpl, the hundred, women's premier league
-## Domestic cricket
-ranji trophy, duleep trophy, vijay hazare, syed mushtaq ali, irani cup
-## Football tournaments (international)
-fifa world cup, euro, copa america, afc asian cup, club world cup, nations league, gold cup
-## Football leagues
-champions league, europa league, premier league, la liga, bundesliga, serie a, ligue 1, mls, saudi pro league
-## Indian football tournaments
-isl, i league, durand cup, santosh trophy, super cup
-## English cups
-fa cup, carabao cup
-## Multi sport events
-olympics, paralympics, commonwealth games, asian games, national games, khelo india, world championship, winter olympics, special olympics
-## Tennis tournaments
-grand slam, wimbledon, us open, french open, australian open, davis cup
-## Badminton tournaments
-all england, thomas cup, uber cup, bwf world championship
-## US leagues
-nba, nfl, nhl, mlb, super bowl, nba finals, stanley cup, world series
-## Motorsport events
-formula 1, monaco grand prix, le mans, dakar rally, isle of man tt, motogp, nascar, indycar, formula e
-## Golf and cycling
-ryder cup, masters, pga tour, the open, tour de france
+newcastle, aston villa, everton, west ham, leicester
+## European football clubs
+real madrid, barcelona, atletico madrid, bayern munich, juventus, ac milan, inter milan
+psg, ajax, benfica, porto, al nassr, al hilal, inter miami
+## ISL teams
+mumbai city fc, bengaluru fc, kerala blasters, mohun bagan, east bengal, fc goa, chennaiyin fc, hyderabad fc, odisha fc
+## Football countries
+brazil football, argentina football, france football, germany football, spain football, portugal football
+england football, italy football, netherlands football, croatia football, japan football, morocco football
+## Cricket tournaments
+world cup cricket, t20 world cup, champions trophy, asia cup cricket, ipl tournament, big bash
+psl, the hundred, ranji trophy tournament, wtc final, border gavaskar trophy, ashes
+## Football tournaments
+fifa world cup, euro cup, copa america, champions league, europa league, premier league
+la liga, bundesliga, serie a, isl, fa cup, club world cup
+## Big sports events
+olympics, paralympics, commonwealth games, asian games, national games, khelo india, winter olympics, world championship
+## Tennis and badminton
+wimbledon, us open, french open, australian open, grand slam, davis cup, all england, thomas cup, uber cup, bwf world championship
+## US sports
+nba, nfl, nhl, mlb, super bowl, nba finals
+wwe, ufc fight, formula 1 race, monaco grand prix, tour de france
 ## Indian leagues
-pro kabaddi, kabaddi world cup, hockey india league, hockey world cup
-## IPL events
-ipl auction, mega auction, playoffs, qualifier, eliminator, ipl final, opening ceremony, orange cap race
-## Big Indian rivers
-ganga, yamuna, brahmaputra, godavari, krishna river, kaveri, narmada, tapi, mahanadi, indus
-## North Indian rivers
-jhelum, chenab, ravi, beas, sutlej, saraswati, chambal
-## South and East Indian rivers
-tungabhadra, periyar river, mandovi, hooghly, teesta, damodar, sabarmati
-## World rivers (Americas and Africa)
-nile, amazon river, mississippi, congo river, niger river, zambezi, colorado river, hudson, rio grande
-## World rivers (Europe and Asia)
-yangtze, thames, seine, danube, rhine, volga, tigris, euphrates, mekong, yellow river, murray, jordan river
-## World mountain ranges
-alps, andes, rockies, atlas mountains, urals, caucasus, pyrenees, appalachians, karakoram, hindu kush
-## Indian mountain ranges
-western ghats, eastern ghats, aravalli, vindhya, satpura, nilgiris, shivalik
-## Himalayan peaks
-everest, k2, kanchenjunga, nanda devi, nanga parbat, dhaulagiri, makalu, lhotse, manaslu
-## World peaks
-kilimanjaro, mont blanc, matterhorn, mt fuji
-## Indian peaks
-## Deserts
-thar, sahara desert, gobi desert, arabian desert, kalahari desert, atacama, mojave, namib, rann of kutch desert, ladakh cold desert
-## Indian seas
-arabian sea, bay of bengal, indian ocean, andaman sea, palk strait
-## Oceans
-pacific ocean, atlantic ocean, arctic ocean, southern ocean
-## World seas
-mediterranean sea, red sea, dead sea, black sea, caspian sea, caribbean sea, south china sea, persian gulf, gulf of mexico, baltic sea, north sea
-## Indian lakes
-dal lake, chilika, vembanad, pangong, sambhar
-pichola, nainital lake, powai lake, pushkar lake
-## World lakes
-lake superior, lake victoria, lake baikal, lake titicaca, great lakes, loch ness, lake geneva, lake como, lake tahoe
+pro kabaddi, hockey india league, ultimate kho kho, prime volleyball, indian super league, premier badminton league, pro wrestling league, ipl auction
+## Indian rivers
+ganga, yamuna, brahmaputra, godavari, krishna river, kaveri, narmada
+tapi, mahanadi, sabarmati, indus, jhelum, chenab, ravi
+beas, sutlej, saraswati, gomti, hooghly, teesta
+## World rivers
+nile, amazon river, mississippi, yangtze, thames, seine, danube
+rhine, volga, mekong, yellow river, congo river, colorado river, hudson
+## Mountains
+himalayas mountain, alps, andes, rockies, western ghats, eastern ghats
+aravalli, vindhya, satpura, nilgiris, shivalik
+## Peaks
+everest, k2, kanchenjunga, nanda devi, annapurna, kilimanjaro, mont blanc, mount fuji peak, mount kailash, matterhorn
+## Deserts and seas
+thar, sahara desert, gobi desert, arabian sea, bay of bengal, indian ocean, pacific ocean
+atlantic ocean, red sea, dead sea, black sea, caspian sea, mediterranean sea, persian gulf
+## Lakes
+dal lake, chilika, vembanad, loktak, pangong, pichola
+nainital lake, sukhna, powai lake, lake victoria, lake baikal, loch ness
 ## Government heads
-president, prime minister, chief minister, governor, mayor, vice president, speaker, deputy cm
-## Elected posts
-mp, mla, corporator, sarpanch, councillor, panch
-## Officers
-collector, dm, sp, dgp, cji, commissioner
-## Ministers
-cabinet minister, home minister, finance minister, defence minister, foreign minister, education minister, health minister, railway minister
-## Legislatures
-lok sabha, rajya sabha, vidhan sabha, parliament, assembly, panchayat, municipal corporation
-## Courts and commissions
-supreme court, high court, district court, election commission, cag, upsc, niti aayog
-## Regulators
-rbi, sebi
-## Investigation agencies
-cbi, ed, ib, raw, nia, ncb, cid, crime branch
-## Public sector companies
-isro, drdo, bhel, ongc, ntpc, sail, coal india, indian railways, doordarshan, all india radio
-## National parties
-bjp, congress, aap, cpi, cpm, bsp, ncp, tmc
-## Regional parties (north)
-sp, rjd, jdu, akali dal, national conference
-## Regional parties (south and west)
-dmk, aiadmk, ysrcp, tdp, brs, bjd, shiv sena
-## Political ideologies
-democrat, republican, labour, conservative, liberal, green party, communist, socialist, nationalist, centrist, left wing, right wing, independent
-## Global awards
-nobel prize, oscar, grammy, emmy, bafta, golden globe, booker prize, pulitzer
-## Football awards
-ballon d'or, golden boot, golden glove, golden ball
-## Civilian awards
-bharat ratna, padma vibhushan, padma bhushan, padma shri
-## Gallantry awards
-param vir chakra, ashok chakra, kirti chakra, shaurya chakra, vir chakra
-## Sports awards (India)
-arjuna award, khel ratna
-## Film awards (India)
-dadasaheb phalke award, filmfare, national film award, iifa, screen award, zee cine award, stardust award
+president, prime minister, chief minister, governor, mayor, vice president
+speaker, deputy cm, cabinet minister, home minister, finance minister, defence minister
+## Elected people
+mp, mla, mlc, corporator, sarpanch, councillor, panch, pradhan
+## Government bodies
+lok sabha, rajya sabha, vidhan sabha, parliament, assembly, supreme court, high court
+district court, election commission, rbi, sebi, cbi, ed, raw
+nia, ncb, upsc, isro, drdo, niti aayog
+## Political parties
+bjp, congress, aap, tmc, dmk, aiadmk, shiv sena, ncp
+sp, bsp, rjd, jdu, ysrcp, tdp, brs, bjd
+cpi, cpm, akali dal, national conference, jmm, aimim
+## World politics words
+democrat, republican, labour party, conservative, communist, socialist
+nationalist, liberal, left wing, right wing, independent candidate
+## World awards
+nobel prize, oscar, grammy, emmy, bafta, golden globe
+booker prize, pulitzer, ballon d'or, golden boot, golden glove
+## Indian awards
+bharat ratna, padma vibhushan, padma bhushan, padma shri, param vir chakra, ashok chakra, vir chakra, arjuna award
+khel ratna, dronacharya award, dadasaheb phalke award, filmfare award, national film award, iifa, screen award
 ## Match awards
-player of the match, man of the series, orange cap, purple cap, emerging player, fair play award, mvp, golden duck
-## Stat awards
-most sixes, best fielder, best bowler, best batsman, best keeper, rookie of the year, team of the tournament, hat trick award
+player of the match, man of the series, orange cap, purple cap, emerging player, fair play award, mvp, golden duck, best fielder, team of the tournament
 ## Religions
-hinduism, islam, christianity, sikhism, buddhism, jainism, judaism, zoroastrianism
-atheism, agnosticism
-## Economic ideologies
-capitalism, communism, socialism, democracy, monarchy, dictatorship, republic, federalism, secularism, nationalism, patriotism, liberalism, conservatism
-## Life philosophies
-feminism, humanism, minimalism, veganism, stoicism, nihilism, existentialism, optimism, pessimism
-## Ancient Indian empires
-maurya, gupta, chola, harappan, vedic
-## Medieval Indian empires
-mughal, maratha, rajput, vijayanagara, delhi sultanate, nizam, nawab, sikh empire
-## Colonial India
-british raj, east india company, sepoy mutiny, partition, independence, constitution, princely states
-## Freedom movements
-quit india, dandi march, non cooperation, civil disobedience, swadeshi, salt satyagraha
-## Freedom events
+hinduism, islam, christianity, sikhism, buddhism, jainism, judaism, zoroastrianism, atheism
+## Isms
+capitalism, communism, socialism, democracy, monarchy, dictatorship, republic
+secularism, nationalism, patriotism, feminism, veganism, minimalism
+## Indian empires
+mughal, maurya, gupta, chola, maratha, rajput, vijayanagara
+delhi sultanate, british raj, east india company, nizam, peshwa, sikh empire
+## Freedom movement
+sepoy mutiny, quit india, dandi march, non cooperation, civil disobedience, swadeshi, partition, independence
+constitution, salt march, jallianwala bagh massacre, simon commission, khilafat, chauri chaura, kakori
 ## Freedom slogans
 inquilab zindabad, vande mataram, jai hind, do or die, swaraj, satyamev jayate, jai jawan jai kisan, bharat mata ki jai
-## Indian economic events
-emergency, green revolution, white revolution, liberalisation, demonetisation, gst, article 370, lockdown, janata curfew
-## Indian wars
-kargil, pokhran, 1971 war, 1962 war, 1965 war, surgical strike, balakot, operation sindoor
-## ISRO missions
-chandrayaan, mangalyaan, pslv, gslv, gaganyaan
-## Government schemes
-make in india, digital india, swachh bharat, jan dhan, ayushman bharat, ujjwala, startup india
-## Indian sports moments
-cwg 2010, ipl 2008, 1983 world cup, 2011 world cup, 2007 t20 world cup, 2024 t20 world cup
+## Modern India events
+emergency, green revolution, white revolution, liberalisation, demonetisation, gst
+article 370, lockdown, janata curfew, surgical strike, balakot, kargil war
+pokhran, 1971 war, 1962 war, 1965 war, operation blue star
+## ISRO and schemes
+chandrayaan, mangalyaan, aryabhata, pslv, gslv, gaganyaan, aditya l1, make in india
+digital india, swachh bharat, jan dhan, ayushman bharat, ujjwala, startup india, skill india
+## India sports moments
+1983 world cup, 2011 world cup, 2007 t20 world cup, 2024 t20 world cup, 2025 champions trophy, cwg 2010, ipl 2008, neeraj chopra gold, abhinav bindra gold, tokyo olympics
 ## World wars
-world war 1, world war 2, cold war, vietnam war, korean war, gulf war, crusades
+world war 1, world war 2, cold war, vietnam war, korean war, gulf war, crusades, civil war
 ## Revolutions
-french revolution, american revolution, russian revolution, industrial revolution, arab spring
-## Historic tragedies
-black death, great depression, holocaust, hiroshima, pearl harbor, titanic sinking, chernobyl disaster, fukushima, tsunami 2004, covid pandemic
-## Cold war events
-d day, berlin wall, iron curtain, cuban missile crisis, 9 11, apollo 11, moon landing, brexit
-## Ancient empires
-roman empire, persian empire, egyptian empire, greek empire, sparta, babylon, mesopotamia, indus valley
-## Medieval empires
-ottoman empire, mongol empire, ming dynasty, viking, inca, aztec, maya
-## Modern empires
-british empire, spanish empire, french empire, soviet union
+french revolution, american revolution, russian revolution, industrial revolution, renaissance, arab spring
+brexit, 9 11, moon landing, berlin wall, titanic sinking, chernobyl
+hiroshima, pearl harbor, black death, great depression, covid pandemic
+## World empires
+roman empire, ottoman empire, british empire, mongol empire, persian empire, egyptian empire, greek empire
+inca, aztec, maya, viking, byzantine, soviet union
 ## Royalty
-king, queen, prince, princess, emperor, empress, maharaja, maharani, rani, raja
-## Nobility
-duke, duchess, lord, lady, viceroy
-## Foreign rulers
-sultan, nawab, pharaoh, caesar, tsar, kaiser, shah, khan
+king, queen, prince, princess, emperor, empress, maharaja
+maharani, rani, raja, sultan, nawab, pharaoh, caesar
+tsar, shah, khan, duke, lord
 ## Warriors
-samurai, ninja, knight, gladiator, warrior, soldier
+samurai, ninja, knight, gladiator, warrior, soldier warrior, spartan, viking warrior, musketeer, pirate
 ## Army ranks
-general, admiral, commander, captain, colonel, major, lieutenant, sergeant, private
-## Zodiac signs (English)
-aries, taurus, gemini, cancer, leo, virgo, libra, scorpio, sagittarius, capricorn, aquarius, pisces
-## Zodiac signs (Hindi)
-mesh, vrishabh, mithun, kark, singh, kanya, tula, vrishchik, dhanu, makar, kumbh, meen
-## Astrology basics
-horoscope, kundli, rashi, nakshatra, zodiac, star sign, moon sign, sun sign, rising sign, lagna
-## Astrology problems
-mangal dosh, shani, rahu, ketu, mercury retrograde
+general, admiral, commander, captain army, colonel, major, lieutenant
+sergeant, corporal, private, cadet, brigadier, field marshal
+## Zodiac signs
+aries, taurus, gemini, cancer, leo, virgo
+libra, scorpio, sagittarius, capricorn, aquarius, pisces
+## Hindi zodiac
+mesh, vrishabh, mithun, kark, singh, kanya
+tula, vrishchik, dhanu, makar, kumbh, meen
+## Astrology words
+horoscope, kundli, rashi, nakshatra, mangal dosh, shani
+rahu, ketu, zodiac, star sign, moon sign, sun sign
+muhurat, panchang, tithi, sade sati, mercury retrograde
 ## Fortune telling
-tarot, palmistry, numerology, vastu, feng shui, crystal, astrology, ouija board
-## Hindu calendar
-muhurat, panchang, tithi, amavasya, purnima
-## Hindu epics
-ramayana, mahabharata, bhagavad gita, panchatantra, jataka tales
-## Vedas and texts
-vedas, upanishads, puranas, rig veda
-## World scriptures
-guru granth sahib, quran, bible, torah
-## Bible parts
-old testament, new testament, gospel
-## Ramayana heroes
-ram, sita, lakshman, hanuman, bharat, shatrughan, dashrath, sugriv, vibhishan, luv, kush
-## Ramayana villains and others
-ravan, meghnad, kumbhkaran, surpanakha, kaikeyi, kaushalya, bali, valmiki, tulsidas
-## Pandavas and allies
-krishna, arjun, bheem, yudhishthir, nakul, sahadev, draupadi, abhimanyu, ghatotkach, kunti, subhadra, pandavas
-## Kauravas and elders
-karna, duryodhan, dushasan, shakuni, kauravas
-bhishma, drona, gandhari, dhritarashtra
-## Krishna's circle
-radha, rukmini, balram, yashoda, meera, gopis, kans
-## Trimurti and consorts
-brahma, vishnu, shiva, lakshmi, saraswati, parvati, durga, kali, ganesh, kartikeya
-## Vedic gods
-indra, agni, surya, chandra, yama
-## Navagraha
-mangal, budh, guru, shukra, shani dev
-## Regional deities
-ayyappa, murugan, venkateswara, jagannath, meenakshi, vaishno devi, tirupati balaji
-## Saints and babas
-sai baba, shirdi sai, satya sai, swami vivekananda, guru nanak, meera bai
-## Hanuman and Shiva names
-hanuman ji, bajrangbali, mahadev, bholenath, natraj, shankar
-## Ganesha names
-## Krishna and Ram names
-radha krishna, sita ram, ram lalla, bal krishna, laddu gopal, kanha
-## Dashavatar
+tarot, palmistry, numerology, vastu, feng shui, crystal ball, astrology, face reading, ouija board, parrot astrologer
+## Holy books
+ramayana, mahabharata, bhagavad gita, vedas, upanishads, puranas, panchatantra
+guru granth sahib, quran, bible, torah, jataka tales, manusmriti
+## Ramayana characters
+ram, sita, lakshman, hanuman, ravan, bharat, shatrughan, dashrath
+kaikeyi, kaushalya, sugriv, bali, vibhishan, meghnad, kumbhkaran, jatayu
+shabari, ahalya, surpanakha, luv, kush, valmiki, tulsidas
+## Mahabharata characters
+krishna, arjun, bheem, yudhishthir, nakul, sahadev, draupadi, karna
+duryodhan, dushasan, shakuni, bhishma, drona, ashwatthama, abhimanyu, ghatotkach
+kunti, gandhari, dhritarashtra, pandu, vidur, ekalavya, radha, rukmini
+balram, subhadra, kauravas, pandavas, vyasa, sanjay
+## Hindu gods
+brahma, vishnu, shiva, ganesh, kartikeya, lakshmi, saraswati, parvati
+durga, kali, indra, agni, varun, vayu, surya, chandra
+yama, kuber, kamdev, narad, vishwakarma, hanuman ji, ayyappa, murugan
+venkateswara, jagannath, vithoba, sai baba, shani dev, mahadev, bholenath, bajrangbali
+ganpati bappa, radha krishna, sita ram, laddu gopal, bal krishna
 ## Famous people types
-freedom fighter, saint, poet, scientist, cricketer, actor, singer, politician, industrialist, social reformer, philosopher, mathematician, astronaut, nobel laureate
-## Athlete types
-olympian, chess grandmaster, boxer, wrestler, shooter, archer, sprinter, weightlifter
-badminton player, tennis player, footballer, hockey player, kabaddi player, golfer, racer, swimmer, gymnast
-## Gases
-hydrogen, helium, oxygen, nitrogen, chlorine
-## Common elements
-carbon, sodium, potassium, calcium, zinc, lead, magnesium, silicon, lithium, iodine, phosphorus, sulphur
-## Metals (elements)
-quicksilver metal, uranium, plutonium, titanium, nickel, tin
-## Forces
-gravity, friction, magnetism, electricity, force, pressure, momentum, inertia
-## Motion words
-velocity, acceleration, mass, weight, density, volume, temperature, speed
-## Energy words
-light, sound, heat, energy, radiation, evaporation, condensation, nuclear fission, nuclear fusion
-## Physics theories
-big bang, relativity, quantum, dark matter
-## Atom parts
-electron, proton, neutron, nucleus, atom, molecule
-## Life processes
-photosynthesis, respiration, digestion, osmosis, diffusion, fermentation
-## Genetics
-dna, rna, gene, chromosome, cell, mutation, clone
-## Microbes
-bacteria, virus, fungus, algae
-## Nutrients
-enzyme, hormone, vitamin, protein, carbohydrate, fat, fibre, calorie, glucose, mineral
-## Hormones
-insulin, adrenaline, dopamine, serotonin, testosterone, estrogen
-## Ancient inventions
-wheel, fire, paper, printing press, compass, telescope, microscope, steam engine, zero, decimal system
-## Modern inventions
-light bulb, telephone, radio, television, computer, internet, smartphone, aeroplane, bicycle, rocket, satellite, gps, camera, battery
-## Home inventions
-refrigerator, air conditioner, microwave, washing machine, vacuum, sewing machine, pressure cooker, mixer grinder
-## Medical inventions
-vaccine, penicillin, x ray, anaesthesia, stethoscope, plastic surgery
-## Indian inventions
-zero, yoga, ayurveda, shampoo, buttons, ink
-## Tech connectivity
-usb, fibre optics, email, wifi, bluetooth, 5g, iot
-## New tech
-drone, 3d printer, ai, robot, nuclear power, solar panel, wind turbine, electric car, hyperloop, self driving car, quantum computer
-## AI and crypto words
-chatbot, blockchain, cryptocurrency, vr, ar, metaverse, cloud computing, deepfake, nft, machine learning, neural network, big data
-## Cyber words
-cybersecurity, hacking, phishing, malware, ransomware, firewall, vpn, dark web, spam, scam call, otp fraud
-## Operating systems
-open source, linux, android, ios, windows, macos
-## Indian folk painting
-madhubani, warli, tanjore painting, miniature painting, mughal painting
-## Indian floor art
-rangoli, mandala, mehendi design
-## Indian textile crafts
-block printing, bandhani, ikat, chikankari, zardozi, phulkari
-## Silk sarees
-banarasi, kanjeevaram, paithani, patola, chanderi, maheshwari, pochampally, sambalpuri, mysore silk
-## Regional sarees
-lucknowi, kasavu, pashmina
-## Indian handicrafts
-blue pottery, terracotta, brassware, kashmiri carpet, paper mache
-## Craft techniques
-wood carving, stone carving, bamboo craft, mirror work
-## Art forms
-embroidery, crochet, origami, pottery, sculpture, calligraphy, graffiti, mural, mosaic, stained glass, sand art, ice sculpture
-## Puppetry
-puppetry, kathputli, shadow puppet, ventriloquism
-## Famous Indian vehicles
-tata nano, maruti 800, ambassador, bajaj chetak, hero honda splendor, royal enfield bullet, mahindra jeep
-## Iconic Indian ads
-## Iconic Indian products
-## Iconic Indian snacks
-## Iconic Indian candies
+freedom fighter, saint, poet famous, scientist famous, cricketer, actor famous, singer famous, politician famous
+businessman, social worker, philosopher, mathematician famous, astronaut famous, nobel winner, olympian, chess grandmaster
+boxer, wrestler, shooter, archer, sprinter, weightlifter, badminton player, tennis player
+footballer, hockey player, kabaddi player, golfer, racer, swimmer, gymnast
+## Elements
+hydrogen, helium, oxygen, nitrogen, carbon, sodium, potassium, calcium
+iron element, copper element, zinc, silver element, gold element, mercury element, lead, uranium
+neon, chlorine, sulphur, phosphorus, magnesium, silicon, lithium
+## Science words
+gravity, friction, magnet, electricity, light, sound, heat, energy
+force, pressure, speed, velocity, mass, weight, density, volume
+temperature, evaporation, condensation, photosynthesis, respiration, digestion, osmosis, dna
+gene, cell, atom, molecule, electron, proton, neutron, bacteria
+virus science, fungus, enzyme, hormone, vitamin, protein, carbohydrate, fat science
+fibre, calorie, glucose, insulin, adrenaline, dopamine, serotonin, big bang
+black hole science, relativity, quantum
+## Inventions
+wheel, fire, paper invention, printing press, compass invention, telescope invention, microscope, steam engine
+light bulb, telephone, radio, television, computer invention, internet, smartphone invention, aeroplane invention
+bicycle, rocket invention, satellite invention, gps, camera invention, battery invention, refrigerator, air conditioner
+microwave invention, washing machine invention, vaccine invention, penicillin, x ray invention, stethoscope, zero, chess invention
+yoga invention, shampoo invention, buttons, usb invention, wifi invention, bluetooth, email, drone invention
+3d printer, ai, robot, solar panel, electric car invention, chatgpt invention, blockchain, metaverse
+vr, 5g, self driving car
+## Indian arts
+madhubani, warli, rangoli, kolam, mehendi art, block printing, bandhani, ikat
+kantha, chikankari, zardozi, phulkari, banarasi, kanjeevaram, paithani, pashmina
+blue pottery, terracotta, brassware, pottery art, embroidery art, origami art, calligraphy art, graffiti
+mural, sculpture, mosaic, sand art, puppet show, kathputli
+## Famous Indian things
+tata nano, maruti 800 car, ambassador car, bajaj chetak scooter, hero honda splendor, royal enfield bullet bike
+amul butter girl, fevicol ad, nirma girl, vicco turmeric, lifebuoy ad, surf excel ad
+vodafone zoozoo, hutch pug, hamara bajaj, mile sur mera tumhara, doordarshan logo, washing powder nirma
