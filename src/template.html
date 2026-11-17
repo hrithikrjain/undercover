@@ -165,7 +165,7 @@ details p{margin:8px 0 0;font-size:14px;color:var(--mut)}
   <details><summary>📖 How to play</summary>
     <p><b>😇 Civilians</b> all get the same secret word. <b>🕵️ Undercover</b> gets a very similar word. <b>🎭 Mr. White</b> gets no word at all and must bluff.</p>
     <p>Pass the phone around so everyone sees their word in secret. Then, starting from the player shown, each person gives a one-word clue about their word. Discuss, vote, and tap the player you want out.</p>
-    <p><b>Winning:</b> Civilians win when every impostor is out. Impostors win when they outnumber the civilians or only one civilian is left. If Mr. White is voted out, they get one guess at the civilians' word to steal the round.</p>
+    <p><b>Winning:</b> Civilians win when every impostor is out. Impostors win when they outnumber the civilians or only one civilian is left. If Mr. White is voted out, they get one guess at the civilians' word to steal the round. Word forms count (care, cares, caring) and one small typo in a long word is forgiven.</p>
     <p><b>Points:</b> Civilians win = 2 each (1 if you were voted out). Undercover win = 5. Mr. White guesses right = 10.</p>
   </details>
 </section>
@@ -333,8 +333,18 @@ $('#vt-elim').onclick=()=>{if(G.sel<0||!G.alive[G.sel])return;const i=G.sel,r=G.
 function renderElim(){const i=G.last,r=G.roles[i];show('elim');$('#el-card').className='card big show rc '+r;$('#el-toon').innerHTML=r==='uc'?SH('cry'):r==='mw'?MJ('idle'):'';$('#el-emoji').textContent=EM[r];$('#el-name').textContent=G.players[i].name;$('#el-role').innerHTML='was <span class="role '+r+'">'+RE[r]+'</span>';$('#el-msg').textContent=r==='civ'?'Oops, an innocent civilian is out.':r==='uc'?'Undercover caught! 🎉':'Mr. White caught! One last chance…'}
 $('#el-next').onclick=()=>{if(G.roles[G.last]==='mw')renderGuess();else check()};
 function renderGuess(){show('guess');$('#gs-toon').innerHTML=MJ('happy');$('#gs-name').textContent=G.players[G.last].name;$('#gs-in').value='';setTimeout(()=>$('#gs-in').focus(),80)}
-const norm=s=>s.toLowerCase().replace(/[^a-z0-9ऀ-ॿ]/g,'');
-$('#gs-go').onclick=()=>{const g=norm($('#gs-in').value);if(!g)return;if(g===norm(G.words.civ)){G.gain[G.last]+=10;fx('mw',true);endRound('mw',`🎭 ${G.players[G.last].name} guessed "${G.words.civ}" and steals the round!`)}else renderWrong()};
+const norm=s=>s.toLowerCase().replace(/[^a-z0-9ऀ-ॿ]+/g,' ').trim();
+// light stemmer: cares / caring / cared / careful / carer -> car ; runs / running / runner -> run
+function stem(w){if(w.length<4)return w;w=w.replace(/([^s])s$/,'$1').replace(/ie$/,'y');let cut=false;
+ for(const s of ['ingly','edly','ness','ment','tion','sion','ful','less','ing','ed','er','est','ly','ie','y'])if(w.length-s.length>=3&&w.endsWith(s)){w=w.slice(0,-s.length);cut=true;break}
+ w=w.replace(/[eiy]$/,'');if(cut)w=w.replace(/([^aeiou])\1$/,'$1');return w}
+const stemAll=s=>norm(s).split(' ').map(stem).join('');
+function dl(a,b){const m=a.length,n=b.length,d=[];for(let i=0;i<=m;i++){d[i]=[i]}for(let j=0;j<=n;j++)d[0][j]=j;
+ for(let i=1;i<=m;i++)for(let j=1;j<=n;j++){const c=a[i-1]===b[j-1]?0:1;d[i][j]=Math.min(d[i-1][j]+1,d[i][j-1]+1,d[i-1][j-1]+c);if(i>1&&j>1&&a[i-1]===b[j-2]&&a[i-2]===b[j-1])d[i][j]=Math.min(d[i][j],d[i-2][j-2]+1)}return d[m][n]}
+// accepts the exact word, any suffix form (care/cares/caring), and one typo on words of 5+ letters
+function matchGuess(g,a){const x=norm(g).replace(/ /g,''),y=norm(a).replace(/ /g,'');if(!x)return false;if(x===y)return true;
+ const sx=stemAll(g),sy=stemAll(a);if(sx===sy)return true;const L=Math.min(sx.length,sy.length);return L>=7&&sx[0]===sy[0]&&dl(sx,sy)<=1}
+$('#gs-go').onclick=()=>{const g=$('#gs-in').value.trim();if(!g)return;if(matchGuess(g,G.words.civ)){G.gain[G.last]+=10;fx('mw',true);endRound('mw',`🎭 ${G.players[G.last].name} guessed "${G.words.civ}" and steals the round!`)}else renderWrong()};
 function renderWrong(){show('wrong');$('#wr-toon').innerHTML=MJ('cry');$('#wr-word').textContent=G.words.civ}
 $('#wr-next').onclick=()=>check();
 $('#gs-in').onkeydown=e=>{if(e.key==='Enter')$('#gs-go').click()};
