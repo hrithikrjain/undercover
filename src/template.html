@@ -284,9 +284,10 @@ const pick=a=>a[rnd(a.length)];
 function ls(k,v){try{if(v===undefined)return JSON.parse(localStorage.getItem(k));if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,JSON.stringify(v))}catch(e){return null}}
 const buzz=p=>{try{navigator.vibrate&&navigator.vibrate(p)}catch(e){}};
 // ---- clusters ----
-const CL=[];for(const[cat,sub,s]of W)for(const c of s.split('|')){const w=c.split(',').map(x=>x.trim()).filter(Boolean);if(w.length>1)CL.push({cat,sub,w})}
+// P = [[category, "a|b|L;a|b|L;..."], ...]  L: 1 easy, 2 medium, 3 hard (closeness of the pair)
+const CL=[];for(const[cat,s]of P)for(const c of s.split(';')){const[a,b,l]=c.split('|');if(a&&b)CL.push({cat,a,b,lvl:+l})}
 const CATS=[...new Set(CL.map(c=>c.cat))].filter(c=>c!==AD);
-const fit=(c,l)=>l==='easy'?c.w.length>6:l==='hard'?c.w.length<=6:true;
+const LN={easy:1,medium:2,hard:3};const fit=(c,l)=>c.lvl===LN[l];
 // ---- setup ----
 const cfg=Object.assign({n:6,u:1,mw:1,r:5,diff:'mixed',names:[]},ls('uc_cfg')||{});
 let G=null,cur='setup';
@@ -309,7 +310,7 @@ function pickWords(diff,hist){let lvl=diff;if(diff==='mixed'){const x=rnd(100);l
  else{const ok=c=>CL.some(x=>x.cat===c&&fit(x,lvl));let el=CATS.filter(c=>!last.includes(c)&&ok(c));if(!el.length)el=CATS.filter(ok);cat=pick(el.length?el:CATS)}
  const inCat=CL.filter(c=>c.cat===cat);let pool=inCat.filter(c=>fit(c,lvl));if(!pool.length)pool=inCat;
  const mem=new Set(ls('uc_pairs')||[]);let a,b,cl,key;
- for(let t=0;t<40;t++){cl=pick(pool);const i=rnd(cl.w.length);let j=rnd(cl.w.length-1);if(j>=i)j++;a=cl.w[i];b=cl.w[j];key=[a,b].sort().join('|');if(!mem.has(key))break}
+ for(let t=0;t<40;t++){cl=pick(pool);if(rnd(2)){a=cl.a;b=cl.b}else{a=cl.b;b=cl.a}key=[a,b].sort().join('|');if(!mem.has(key))break}
  ls('uc_pairs',[...mem,key].slice(-3000));
  return{civ:a,uc:b,lvl,cat}}
 // ---- game ----
