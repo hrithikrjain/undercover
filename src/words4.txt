@@ -124,13 +124,6 @@ badge, diary, timetable, bench, blackboard, chalk, duster
 ## Classes
 nursery, lkg, ukg, kindergarten, primary school, middle school
 high school, junior college, college, graduation, post graduation, phd
-## Mind powers
-memory, imagination, creativity, logic, intelligence, wisdom
-knowledge, common sense, iq, talent, skill, focus
-## Thoughts
-idea, thought, opinion, belief, doubt, guess
-plan, dream thought, goal, wish, hope, fear
-secret, lie, truth, rumour, promise, excuse
 ## Daily habits
 brushing, bathing, exercising, reading habit, praying, meditating
 cooking habit, cleaning, scrolling habit, napping, snacking, gossiping

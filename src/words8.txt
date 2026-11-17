@@ -108,26 +108,6 @@ sindoor daan, bidaai, milni, joota chupai, havan, mandap
 ## Post wedding events
 reception, honeymoon, grihapravesh, pag phera, muh dikhai, walima
 post wedding shoot, wedding anniversary, silver jubilee, golden jubilee, suhagraat, first night
-## Wedding people
-bride, groom, dulhan, dulha, bridesmaid, groomsman, best man
-maid of honour, flower girl, ring bearer, pandit, priest, qazi, wedding planner
-wedding photographer, baraati, bridezilla, momzilla, nosy aunty, drunk uncle, dance uncle
-selfie aunty, gossip gang, matchmaker aunty, rishta aunty, wedding crasher, ex at the wedding
-## Wedding family
-father of the bride, mother of the bride, in laws, samdhi, samdhan, jijaji, bhaiya, mamaji
-chachaji, nani, dadi, bua, mausi, cousin brigade, groom's squad, bride's squad
-## Wedding things
-lehenga, sherwani, safa, sehra, kalire, chooda, mehendi design
-bridal makeup, bridal lehenga, wedding ring, engagement ring, diamond ring, solitaire, mangalsutra
-nath, haar, bangles wedding, wedding card, invitation, e invite, guest list
-save the date, wedding date, shubh muhurat, dowry, dahej, shagun, lifafa
-envelope, cash gift, wedding gift, return gift, gold gift
-## Wedding food and fun
-wedding cake, wedding feast, buffet, live counter, chaat counter, dessert counter, bar counter, paid bar
-first dance, couple dance, family dance, group dance, bollywood dance, sangeet performance, nagin dance, baraat dance
-dhol, shehnai, band baaja, ghodi, doli, palki, decorated car, elephant entry
-fireworks entry, drone entry, sparkler entry, flower shower, phoolon ki chadar, wedding song, mehendi song, haldi song
-baraat song, bidaai song, jaggo, ladies sangeet
 ## Casino games
 casino, poker, blackjack, roulette, slot machine, baccarat
 bingo, teen patti, rummy, andar bahar, satta, matka
@@ -195,3 +175,29 @@ rainy day, long walk, late night talk, deep talk, pillow fight, tickle fight, pl
 staring contest, thumb war, arm wrestling, pinky promise, cross my heart, secret handshake, inside joke
 nickname, pet name, love letter, love note, mixtape, playlist, love song
 dedication, serenade, poem, shayari, ghazal, nazm, sher
+
+## Wedding people
+bride, groom, dulhan, dulha, bridesmaid, best man, flower girl
+pandit, priest, qazi, wedding planner, wedding photographer, baraati, wedding crasher
+nosy aunty, drunk uncle, dance uncle, selfie aunty, gossip gang, matchmaker aunty, rishta aunty
+father of the bride, mother of the bride, in laws, samdhi, samdhan, jijaji
+## Wedding clothes
+lehenga, sherwani, safa, sehra, kalire, chooda, bridal lehenga, dulhan ka joda
+## Wedding jewellery
+wedding ring, engagement ring, diamond ring, solitaire, mangalsutra, nath, haar, bangles set
+## Wedding invites
+wedding card, invitation, e invite, guest list, save the date, wedding date, shubh muhurat
+## Wedding gifts
+dowry, dahej, shagun, lifafa, envelope, cash gift, wedding gift, return gift, gold gift
+## Wedding food
+wedding cake, wedding feast, buffet, live counter, chaat counter, dessert counter, paid bar, open bar
+## Wedding dances
+first dance, couple dance, family dance, group dance, bollywood dance, sangeet performance, nagin dance, baraat dance
+## Wedding music
+dhol, shehnai, band baaja, dj, wedding song, mehendi song, haldi song, baraat song, bidaai song
+## Wedding entries
+ghodi, doli, palki, decorated car, elephant entry, fireworks entry, drone entry, sparkler entry, phoolon ki chadar
+## Indian art
+madhubani, warli, rangoli, kolam, mehendi, block printing, bandhani, embroidery, origami, calligraphy, graffiti, sculpture
+## Famous Indian ads
+amul butter girl, fevicol ad, nirma girl, vodafone zoozoo, hutch pug, hamara bajaj, mile sur mera tumhara, lifebuoy ad, surf excel ad

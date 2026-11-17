@@ -116,19 +116,10 @@ nainital lake, sukhna, powai lake, lake victoria, lake baikal, loch ness
 ## Government heads
 president, prime minister, chief minister, governor, mayor, vice president
 speaker, deputy cm, cabinet minister, home minister, finance minister, defence minister
-## Elected people
-mp, mla, mlc, corporator, sarpanch, councillor, panch, pradhan
-## Government bodies
-lok sabha, rajya sabha, vidhan sabha, parliament, assembly, supreme court, high court
-district court, election commission, rbi, sebi, cbi, ed, raw
-nia, ncb, upsc, isro, drdo, niti aayog
 ## Political parties
 bjp, congress, aap, tmc, dmk, aiadmk, shiv sena, ncp
 sp, bsp, rjd, jdu, ysrcp, tdp, brs, bjd
 cpi, cpm, akali dal, national conference, jmm, aimim
-## World politics words
-democrat, republican, labour party, conservative, communist, socialist
-nationalist, liberal, left wing, right wing, independent candidate
 ## World awards
 nobel prize, oscar, grammy, emmy, bafta, golden globe
 booker prize, pulitzer, ballon d'or, golden boot, golden glove
@@ -139,35 +130,10 @@ khel ratna, dronacharya award, dadasaheb phalke award, filmfare award, national 
 player of the match, man of the series, orange cap, purple cap, emerging player, fair play award, mvp, golden duck, best fielder, team of the tournament
 ## Religions
 hinduism, islam, christianity, sikhism, buddhism, jainism, judaism, zoroastrianism, atheism
-## Isms
-capitalism, communism, socialism, democracy, monarchy, dictatorship, republic
-secularism, nationalism, patriotism, feminism, veganism, minimalism
-## Indian empires
-mughal, maurya, gupta, chola, maratha, rajput, vijayanagara
-delhi sultanate, british raj, east india company, nizam, peshwa, sikh empire
-## Freedom movement
-sepoy mutiny, quit india, dandi march, non cooperation, civil disobedience, swadeshi, partition, independence
-constitution, salt march, jallianwala bagh massacre, simon commission, khilafat, chauri chaura, kakori
-## Freedom slogans
-inquilab zindabad, vande mataram, jai hind, do or die, swaraj, satyamev jayate, jai jawan jai kisan, bharat mata ki jai
-## Modern India events
-emergency, green revolution, white revolution, liberalisation, demonetisation, gst
-article 370, lockdown, janata curfew, surgical strike, balakot, kargil war
-pokhran, 1971 war, 1962 war, 1965 war, operation blue star
-## ISRO and schemes
-chandrayaan, mangalyaan, aryabhata, pslv, gslv, gaganyaan, aditya l1, make in india
-digital india, swachh bharat, jan dhan, ayushman bharat, ujjwala, startup india, skill india
 ## India sports moments
 1983 world cup, 2011 world cup, 2007 t20 world cup, 2024 t20 world cup, 2025 champions trophy, cwg 2010, ipl 2008, neeraj chopra gold, abhinav bindra gold, tokyo olympics
 ## World wars
 world war 1, world war 2, cold war, vietnam war, korean war, gulf war, crusades, civil war
-## Revolutions
-french revolution, american revolution, russian revolution, industrial revolution, renaissance, arab spring
-brexit, 9 11, moon landing, berlin wall, titanic sinking, chernobyl
-hiroshima, pearl harbor, black death, great depression, covid pandemic
-## World empires
-roman empire, ottoman empire, british empire, mongol empire, persian empire, egyptian empire, greek empire
-inca, aztec, maya, viking, byzantine, soviet union
 ## Royalty
 king, queen, prince, princess, emperor, empress, maharaja
 maharani, rani, raja, sultan, nawab, pharaoh, caesar
@@ -207,37 +173,3 @@ durga, kali, indra, agni, varun, vayu, surya, chandra
 yama, kuber, kamdev, narad, vishwakarma, hanuman ji, ayyappa, murugan
 venkateswara, jagannath, vithoba, sai baba, shani dev, mahadev, bholenath, bajrangbali
 ganpati bappa, radha krishna, sita ram, laddu gopal, bal krishna
-## Famous people types
-freedom fighter, saint, poet, scientist, cricketer, actor, singer, politician
-businessman, social worker, philosopher, mathematician, astronaut, nobel winner, olympian, chess grandmaster
-boxer, wrestler, shooter, archer, sprinter, weightlifter, badminton player, tennis player
-footballer, hockey player, kabaddi player, golfer, racer, swimmer, gymnast
-## Elements
-hydrogen, helium, oxygen, nitrogen, carbon, sodium, potassium, calcium
-iron, copper, zinc, silver, gold, mercury, lead, uranium
-neon, chlorine, sulphur, phosphorus, magnesium, silicon, lithium
-## Science words
-gravity, friction, magnet, electricity, light, sound, heat, energy
-force, pressure, speed, velocity, mass, weight, density, volume
-temperature, evaporation, condensation, photosynthesis, respiration, digestion, osmosis, dna
-gene, cell, atom, molecule, electron, proton, neutron, bacteria
-virus science, fungus, enzyme, hormone, vitamin, protein, carbohydrate, fat
-fibre, calorie, glucose, insulin, adrenaline, dopamine, serotonin, big bang
-black hole, relativity, quantum
-## Inventions
-wheel, fire, paper, printing press, compass, telescope, microscope, steam engine
-light bulb, telephone, radio, television, computer, internet, smartphone, aeroplane
-bicycle, rocket, satellite, gps, camera, battery, refrigerator, air conditioner
-microwave, washing machine, vaccine, penicillin, x ray, stethoscope, zero, chess
-yoga, shampoo, buttons, usb, wifi, bluetooth, email, drone
-3d printer, ai, robot, solar panel, electric car, chatgpt, blockchain, metaverse
-vr, 5g, self driving car
-## Indian arts
-madhubani, warli, rangoli, kolam, mehendi, block printing, bandhani, ikat
-kantha, chikankari, zardozi, phulkari, banarasi, kanjeevaram, paithani, pashmina
-blue pottery, terracotta, brassware, pottery, embroidery art, origami, calligraphy art, graffiti
-mural, sculpture, mosaic, sand, puppet show, kathputli
-## Famous Indian things
-tata nano, maruti 800, ambassador car, bajaj chetak scooter, hero honda splendor, royal enfield bullet bike
-amul butter girl, fevicol ad, nirma girl, vicco turmeric, lifebuoy ad, surf excel ad
-vodafone zoozoo, hutch pug, hamara bajaj, mile sur mera tumhara, doordarshan logo, washing powder nirma
