@@ -178,7 +178,7 @@ mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, pluto
 ## Moon types
 full moon, new moon, half moon, crescent moon, blue moon, lunar eclipse, solar eclipse
 ## Space travel
-rocket, spaceship, astronaut, space station, telescope, ufo, alien, isro, nasa
+rocket, spaceship, astronaut, space station, telescope, ufo, alien
 ## Metals
 gold, silver, iron, copper, steel, aluminium, brass, bronze, platinum
 ## Gems

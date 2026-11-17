@@ -17,7 +17,7 @@ usa, canada, mexico, brazil, argentina, chile, peru, colombia, cuba, jamaica
 ## African countries
 egypt, south africa, nigeria, kenya, morocco, ethiopia, ghana, tanzania, uganda, zimbabwe
 ## Australia region
-australia, new zealand, fiji, papua new guinea
+australia, new zealand, fiji
 ## Continents
 asia, europe, africa, north america, south america, australia, antarctica
 ## Regions
