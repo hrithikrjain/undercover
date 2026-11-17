@@ -25,8 +25,6 @@ middle east, far east, south east asia, scandinavia, caribbean, latin america, g
 ## Currencies
 rupee, dollar, euro, pound, yen, yuan
 dirham, riyal, taka, peso
-## Crypto
-bitcoin, ethereum, dogecoin, solana, shiba inu, binance coin, crypto coin, nft
 ## Indian languages
 hindi, english, marathi, gujarati, punjabi, bengali, tamil, telugu
 kannada, malayalam, urdu, sanskrit, assamese, odia language, kashmiri, konkani
@@ -34,7 +32,6 @@ sindhi, bhojpuri, haryanvi, rajasthani, tulu, nepali
 ## World languages
 french, spanish, german, italian, portuguese, russian, chinese
 mandarin, japanese, korean, arabic, turkish
-greek, thai language
 ## North Indian states
 jammu and kashmir, himachal pradesh, punjab, haryana, uttarakhand, uttar pradesh, delhi, rajasthan, chandigarh, ladakh
 ## West and Central Indian states
@@ -64,36 +61,23 @@ mother's day, father's day, friendship day, teacher's day, children's day, women
 republic day, gandhi jayanti, labour day, earth day, yoga day, april fool's day
 ## Valentine week
 valentine's day week, rose day, propose day, chocolate day, teddy day, promise day, hug day, kiss day
-## IPL teams
-mumbai indians, chennai super kings, royal challengers bangalore, kolkata knight riders, delhi capitals, sunrisers hyderabad, rajasthan royals, punjab kings, gujarat titans, lucknow super giants
 ## Cricket teams
 india, australia, england, pakistan, south africa, new zealand, sri lanka, west indies, bangladesh, afghanistan
-## English football clubs
-manchester united, manchester city, liverpool, chelsea, arsenal, tottenham
-newcastle, aston villa, everton, west ham, leicester
-## European football clubs
-real madrid, barcelona, atletico madrid, bayern munich, juventus, ac milan, inter milan
-psg, ajax, benfica, porto, al nassr, al hilal, inter miami
-## ISL teams
-mumbai city fc, bengaluru fc, kerala blasters, mohun bagan, east bengal, fc goa, chennaiyin fc, hyderabad fc, odisha fc
 ## Football countries
 brazil, argentina, france, germany, spain, portugal
 england, italy, netherlands, croatia, japan, morocco
 ## Cricket tournaments
-world cup, t20 world cup, champions trophy, asia cup, ipl, big bash
-psl, the hundred, ranji trophy, wtc final, border gavaskar trophy, ashes
+world cup, t20 world cup, champions trophy, asia cup, ipl
 ## Football tournaments
 fifa world cup, euro cup, copa america, champions league, europa league, premier league
 la liga, bundesliga, serie a, isl, fa cup, club world cup
 ## Big sports events
 olympics, paralympics, commonwealth games, asian games, national games, khelo india, winter olympics, world championship
 ## Tennis and badminton
-wimbledon, us open, french open, australian open, grand slam, davis cup, all england, thomas cup, uber cup, bwf world championship
+wimbledon, us open, french open, australian open, grand slam
 ## US sports
-nba, nfl, nhl, mlb, super bowl, nba finals
-wwe, ufc fight, formula 1 race, monaco grand prix, tour de france
-## Indian leagues
-pro kabaddi, hockey india league, ultimate kho kho, prime volleyball, indian super league, premier badminton league, pro wrestling league, ipl auction
+nba, nfl, super bowl
+wwe, ufc, formula 1
 ## Indian rivers
 ganga, yamuna, brahmaputra, godavari, krishna river, kaveri, narmada
 tapi, mahanadi, sabarmati, indus, jhelum, chenab, ravi
@@ -105,30 +89,19 @@ rhine, volga, mekong, yellow river, congo river, colorado river, hudson
 himalayas, alps, andes, rockies, western ghats, eastern ghats
 aravalli, vindhya, satpura, nilgiris, shivalik
 ## Peaks
-everest, k2, kanchenjunga, nanda devi, annapurna, kilimanjaro, mont blanc, mount fuji, mount kailash, matterhorn
+everest, kanchenjunga, kilimanjaro, mount fuji
 ## Deserts and seas
 thar, sahara desert, gobi desert, arabian sea, bay of bengal, indian ocean, pacific ocean
 atlantic ocean, red sea, dead sea, black sea, caspian sea, mediterranean sea
-## Lakes
-dal lake, chilika, vembanad, loktak, pangong, pichola
-nainital lake, sukhna, powai lake, lake victoria, lake baikal, loch ness
 ## Government heads
 president, prime minister, chief minister, governor, mayor, vice president
 speaker, deputy cm, cabinet minister, home minister, finance minister, defence minister
-## Political parties
-bjp, congress, aap, tmc, dmk, aiadmk, shiv sena
 ## World awards
-nobel prize, oscar, grammy, emmy, bafta, golden globe
-booker prize, pulitzer, ballon d'or, golden boot, golden glove
-## Indian awards
-bharat ratna, padma vibhushan, padma bhushan, padma shri, param vir chakra, ashok chakra, vir chakra, arjuna award
-khel ratna, dronacharya award, dadasaheb phalke award, filmfare award, national film award, iifa, screen award
+nobel prize, oscar, grammy, ballon d'or, golden boot
 ## Match awards
 player of the match, man of the series, orange cap, purple cap, emerging player, fair play award, mvp, golden duck, best fielder, team of the tournament
 ## Religions
 hinduism, islam, christianity, sikhism, buddhism, jainism, judaism, zoroastrianism, atheism
-## India sports moments
-1983 world cup, 2011 world cup, 2007 t20 world cup, 2024 t20 world cup, 2025 champions trophy, cwg 2010, ipl 2008, neeraj chopra gold, abhinav bindra gold, tokyo olympics
 ## World wars
 world war 1, world war 2, cold war, vietnam war, korean war, gulf war, crusades, civil war
 ## Royalty
@@ -143,30 +116,13 @@ sergeant, corporal, private, cadet, brigadier, field marshal
 ## Zodiac signs
 aries, taurus, gemini, cancer, leo, virgo
 libra, scorpio, sagittarius, capricorn, aquarius, pisces
-## Hindi zodiac
-mesh, vrishabh, mithun, kark, singh, kanya
-tula, vrishchik, dhanu, makar, kumbh, meen
 ## Astrology words
-horoscope, kundli, rashi, nakshatra, mangal dosh, shani
-rahu, ketu, zodiac, star sign, moon sign, sun sign
-muhurat, panchang, tithi, sade sati, mercury retrograde
+horoscope, kundli, rashi, nakshatra
+zodiac, star sign, moon sign, sun sign
 ## Fortune telling
 tarot, palmistry, numerology, vastu, feng shui, crystal ball, astrology, face reading, ouija board, parrot astrologer
 ## Holy books
-ramayana, mahabharata, bhagavad gita, vedas, upanishads, puranas, panchatantra
-guru granth sahib, quran, bible, torah, jataka tales, manusmriti
-## Ramayana characters
-ram, sita, lakshman, hanuman, ravan, bharat, shatrughan, dashrath
-kaikeyi, kaushalya, sugriv, bali, vibhishan, meghnad, kumbhkaran, jatayu
-shabari, ahalya, surpanakha, luv, kush, valmiki, tulsidas
-## Mahabharata characters
-krishna, arjun, bheem, yudhishthir, nakul, sahadev, draupadi, karna
-duryodhan, dushasan, shakuni, bhishma, drona, ashwatthama, abhimanyu, ghatotkach
-kunti, gandhari, dhritarashtra, pandu, vidur, ekalavya, radha, rukmini
-balram, subhadra, kauravas, pandavas, vyasa, sanjay
+ramayana, mahabharata, bhagavad gita, vedas
+guru granth sahib, quran, bible
 ## Hindu gods
-brahma, vishnu, shiva, ganesh, kartikeya, lakshmi, saraswati, parvati
-durga, kali, indra, agni, varun, vayu, surya, chandra
-yama, kuber, kamdev, narad, vishwakarma, hanuman ji, ayyappa, murugan
-venkateswara, jagannath, vithoba, sai baba, shani dev, mahadev, bholenath, bajrangbali
-ganpati bappa, radha krishna, sita ram, laddu gopal, bal krishna
+brahma, vishnu, shiva, ganesh, lakshmi, saraswati, parvati, durga, hanuman, krishna, ram

@@ -30,20 +30,16 @@ taj mahal, red fort, qutub minar, india gate, lotus temple, akshardham, jama mas
 ## Mumbai landmarks
 gateway of india, marine drive, juhu beach, bandra worli sea link, siddhivinayak, haji ali, elephanta caves
 ## Famous forts and palaces
-hawa mahal, amer fort, city palace, mysore palace, golconda fort, charminar, red fort jaipur, lake palace
+hawa mahal, amer fort, city palace, mysore palace, charminar
 ## Famous temples
 golden temple, tirupati, vaishno devi, kedarnath, badrinath, somnath, shirdi, sabarimala, meenakshi temple, jagannath puri
-## Kolkata and Gujarat landmarks
-victoria memorial, howrah bridge, eden gardens, statue of unity, sabarmati ashram, dwarka
 ## World landmarks (Europe)
 eiffel tower, big ben, london eye, colosseum, leaning tower of pisa, louvre, buckingham palace
 ## World landmarks (America and Asia)
-statue of liberty, golden gate bridge, times square, disneyland, niagara falls, grand canyon
+statue of liberty, golden gate bridge, times square, niagara falls, grand canyon, hollywood sign
 burj khalifa, great wall of china, pyramids, mount fuji, petronas towers, sydney opera house
 ## Beaches and islands
 goa beach, andaman, lakshadweep, maldives, mauritius, bali, phuket, hawaii
-## National parks
-jim corbett, ranthambore, kaziranga, gir forest, sundarbans, bandipur, periyar
 ## Sports venues
 stadium, ground, playground, sports club, gym, swimming pool, race track, cricket academy
 ## Entertainment venues
@@ -79,15 +75,6 @@ picnic, trek, road trip, camping, honeymoon, pilgrimage, school trip, family tri
 passport, visa, ticket, boarding pass, luggage, suitcase, backpack, trolley bag, map, itinerary
 ## Seats
 window seat, aisle seat, middle seat, sleeper, ac coach, general coach, economy class, business class
-## Mumbai areas
-bandra, andheri, juhu, colaba, dadar, borivali, powai, thane, navi mumbai
-## Delhi areas
-connaught place, chandni chowk, karol bagh, saket, hauz khas, lajpat nagar, dwarka delhi, rohini
-## Bangalore areas
-koramangala, indiranagar, whitefield, hsr layout, jayanagar, mg road, electronic city, marathahalli
-## Hyderabad and Chennai areas
-banjara hills, jubilee hills, gachibowli, hitech city, secunderabad, t nagar, anna nagar, adyar, marina beach
-
 # Things
 ## Seats
 chair, stool, bench, sofa, armchair, bean bag, rocking chair, swing
@@ -129,7 +116,7 @@ eraser, sharpener, ruler, scale, compass, protractor, geometry box, set square
 notebook, diary, register, notepad, sticky notes, journal, scrapbook, drawing book
 ## Desk things
 stapler, punch machine, paper clip, pin, tape, glue
-fevicol, scissors, file, folder, envelope
+glue stick, scissors, file, folder, envelope
 ## Boards
 whiteboard, blackboard, notice board, duster board, chalk board, marker board
 ## Tools
@@ -141,9 +128,9 @@ broom, mop, jhadu, vacuum cleaner, dustpan, brush, duster cloth, wiper, bucket
 ## Locks and keys
 lock, key, padlock, latch, door bell, door knob, keychain, chain
 ## Devices
-phone, smartphone, tablet, laptop, computer, smartwatch, ipad, iphone, macbook
+phone, smartphone, tablet, laptop, computer, smartwatch, desktop, keypad phone
 ## Audio
-earphones, headphones, earbuds, airpods, speaker, bluetooth speaker, home theatre, mic
+earphones, headphones, earbuds, speaker, bluetooth speaker, home theatre, mic, walkie talkie
 ## Charging
 charger, power bank, cable, adapter, extension board, usb, wireless charger
 ## TV things
@@ -158,35 +145,6 @@ ac, cooler, fan, ceiling fan, table fan, heater, exhaust fan, air purifier
 washing machine, iron, dryer, washing powder, detergent, bucket, clothes line, hanger
 ## Clocks
 clock, alarm clock, wall clock, stopwatch, timer, watch, calendar, hourglass
-## Gaming
-ps5, xbox, playstation, nintendo, gaming pc, vr headset, controller, joystick
-## Chat apps
-whatsapp, telegram, messenger, snapchat, imessage, signal, discord
-## Social apps
-instagram, facebook, twitter, threads, linkedin, pinterest, reddit, sharechat
-## Video apps
-youtube, tiktok, reels, youtube shorts, moj, josh, twitch
-## Shopping apps
-amazon, flipkart, myntra, ajio, meesho, nykaa, snapdeal, tata cliq
-## Food apps
-swiggy, zomato, blinkit, zepto, instamart, bigbasket, dunzo
-## Cab apps
-uber, ola, rapido, meru, indrive, namma yatri
-## Payment apps
-paytm, phonepe, google pay, bhim, cred, amazon pay, mobikwik
-## Streaming apps
-netflix, prime video, hotstar, zee5, sony liv, jio cinema, mx player, youtube premium
-## Music apps
-spotify, jio saavn, gaana, wynk, apple music, youtube music, amazon music
-## Mobile games
-candy crush, subway surfers, temple run, ludo king, bgmi, free fire
-clash of clans, among us, angry birds, fruit ninja, minecraft, roblox
-## Travel apps
-makemytrip, goibibo, irctc, redbus, airbnb, oyo, booking com, google maps
-## Office apps
-zoom, google meet, teams, gmail, outlook, google drive, chrome, whatsapp web
-## AI apps
-chatgpt, gemini, copilot, siri, alexa, google assistant, meta ai, perplexity
 ## Road vehicles
 car, bike, scooter, cycle, auto, rickshaw
 bus, truck, van, jeep, tractor, e rickshaw
@@ -195,9 +153,9 @@ sedan, hatchback, suv, sports car, electric car, vintage car, taxi, limousine
 ## Special vehicles
 ambulance, fire engine, police, school bus, garbage truck, tanker, bulldozer, crane, tow truck
 ## Bikes and scooters
-bullet, activa, splendor, pulsar, scooty, vespa, royal enfield, ktm, harley davidson, ola electric
+bike, scooter, scooty, electric scooter, sports bike, cycle, moped, bullet bike
 ## Trains
-train, metro, local train, bullet train, toy train, vande bharat, rajdhani, shatabdi, goods train, tram
+train, metro, local train, bullet train, toy train, express train, passenger train, goods train, tram
 ## Flying vehicles
 aeroplane, helicopter, jet, rocket, hot air balloon, drone, glider, parachute
 ## Boats
@@ -216,7 +174,7 @@ dress, gown, frock, skirt dress, jumpsuit, maxi dress, mini dress, one piece
 ## Innerwear
 vest, boxers, briefs, bra, panty, nightie, nightsuit, thermals
 ## Shoes
-shoes, sneakers, sports shoes, running shoes, boots, loafers, formal shoes, school shoes, canvas shoes, crocs
+shoes, sneakers, sports shoes, running shoes, boots, loafers, formal shoes, school shoes, canvas shoes, rain boots
 ## Sandals and heels
 sandals, slippers, flip flops, chappal, kolhapuri, jutti, heels, wedges, flats, floaters
 ## Jewellery
@@ -230,9 +188,9 @@ sunglasses, spectacles, goggles, contact lens, reading glasses, 3d glasses, avia
 ## Rain things
 umbrella, raincoat, windcheater, gumboots, poncho
 ## Board games
-ludo, snakes and ladders, chess, carrom, monopoly, scrabble, uno, jenga, playing cards, business game
+ludo, snakes and ladders, chess, carrom, playing cards
 ## Toys
-teddy bear, doll, barbie, lego, puzzle, rubik's cube, yo yo
+teddy bear, doll, puzzle, yo yo
 spinning top, marbles, kite, toy car, remote, water gun
 ## Money things
 cash, coin, note, credit card, debit card, upi, cheque, wallet money, piggy bank, atm card
@@ -241,9 +199,9 @@ diya, agarbatti, incense, camphor, bell pooja, idol, garland, kumkum, prasad, aa
 ## Bags and boxes
 suitcase, trunk, basket, carton, crate, sack, trolley, hamper
 ## Cleaning products
-surf excel, ariel, tide, rin, nirma, wheel
-vim, harpic, lizol, colin, dettol, phenyl
+detergent, washing powder, detergent bar, liquid detergent, fabric softener, bleach
+dish soap, toilet cleaner, floor cleaner, glass cleaner, phenyl, scrubber
 ## Mosquito things
-mosquito coil, all out, good knight, odomos, mosquito net, mosquito bat, repellent, hit spray
+mosquito coil, mosquito liquid, mosquito cream, mosquito net, mosquito bat, repellent, mosquito spray
 ## Electric things
 plug, socket, switch, wire, inverter, generator, battery, fuse, meter, extension cord

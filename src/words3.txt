@@ -109,7 +109,7 @@ stamp collecting, coin collecting, card collecting, bird watching, star gazing, 
 ## String instruments
 guitar, electric guitar, ukulele, sitar, veena, violin, banjo, harp
 ## Keyboard instruments
-piano, keyboard, harmonium, casio, synthesizer, organ
+piano, keyboard, harmonium, synthesizer, organ
 ## Drums
 drums, tabla, dhol, dholak, bongo, tambourine, damru, nagada
 ## Wind instruments

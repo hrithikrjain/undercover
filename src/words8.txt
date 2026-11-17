@@ -2,19 +2,9 @@
 ## Alcohol types
 beer, wine, whisky, rum, vodka, gin, tequila
 brandy, champagne, scotch, feni, toddy, desi daru, breezer
-## Beer brands
-kingfisher, budweiser, heineken, corona, carlsberg, tuborg, bira, simba
-haywards, foster's, stella artois, guinness, tiger beer, kings beer, godfather
-## Whisky brands
-johnnie walker, jack daniel's, chivas regal, glenfiddich, blenders pride, royal stag, imperial blue
-mcdowell's, signature, 100 pipers, black dog, black and white, teacher's, jameson
-## Rum and vodka brands
-old monk, bacardi, captain morgan, malibu, absolut, smirnoff, grey goose
-magic moments, romanov, white mischief, baileys, jagermeister, hennessy
 ## Cocktails
-mojito, margarita, cosmopolitan, martini, bloody mary, pina colada, long island iced tea, daiquiri
-whisky sour, cuba libre, tequila sunrise, screwdriver, gin and tonic, rum and coke, whisky soda, vodka cranberry
-vodka red bull, jagerbomb, kamikaze, b52, blue lagoon, shot, tequila shot, jello shot
+mojito, margarita, martini, bloody mary, pina colada, long island iced tea, blue lagoon
+whisky sour, gin and tonic, rum and coke, whisky soda, vodka red bull, shot, tequila shot
 ## Bars
 bar, pub, brewery, lounge, nightclub, disco
 rooftop bar, sports bar, beer garden, wine, hookah lounge, karaoke
@@ -32,7 +22,7 @@ reunion party, office party, birthday bash, fresher's party, prom, hen night, st
 ## Party nights
 game night, movie night, karaoke night, poker night, teen patti night, hangout, chill session
 get together, ladies night out, boys night out, dj night, bonfire night, rave, music festival
-sunburn, tomorrowland, nh7 weekender, holi party, new year party, christmas party
+holi party, new year party, christmas party
 ## Drinker types
 lightweight, heavyweight, teetotaler, social drinker, binge drinker, alcoholic
 drunk uncle, cool aunt, sober friend, mom friend, dad friend
@@ -40,27 +30,22 @@ drunk uncle, cool aunt, sober friend, mom friend, dad friend
 sober, tipsy, buzzed, drunk, wasted, hammered, smashed
 blackout, lit, high, stoned, hungover, one too many, on a bender
 ## Drinking games
-beer pong, flip cup, never have i ever, truth or dare, spin the bottle, kings cup, drunk jenga
-shot roulette, power hour, cards against humanity, dumb charades, antakshari, mafia, werewolf
-undercover, among us, pictionary, heads up, psych, bluff, twister
+beer pong, flip cup, never have i ever, truth or dare, spin the bottle
+dumb charades, antakshari, mafia, werewolf
 would you rather, two truths and a lie, most likely to, paranoia
 ## Hangover
 hangover, headache, nausea, vomiting, dehydration, dry mouth, dizziness
-regret, spinning room, puking, hair of the dog, eno, lemon water, coconut water
-greasy breakfast, sleep in, cold shower, black coffee, hot soup, maggi at 3am
+regret, spinning room, puking, hair of the dog, lemon water, coconut water
+greasy breakfast, sleep in, cold shower, black coffee, hot soup, noodles at 3am
 ## Morning after
 walk of shame, morning after, embarrassing stories, lost phone, lost wallet, missing shoe
-taxi home, uber home, crash at friend's, sleep on floor, couch, bathroom floor
+taxi home, cab home, crash at friend's, sleep on floor, couch, bathroom floor
 ## Drunk behaviour
 drunk texts, drunk dial, drunk call to ex, drunk dancing, drunk crying, drunk singing
 drunk confession, drunk proposal, drunk fight, drunk hug, drunk selfie, drunk story
 drunk post, sutta break, late night drive, late night snack, drunk food
-## Dating apps
-tinder, bumble, okcupid, aisle, truly madly, grindr, happn, badoo, raya
-## Matrimony sites
-shaadi com, jeevansathi, bharat matrimony, betterhalf, matrimony com, rishta aunty
 ## Date types
-date, first date, blind date, double date, dinner date, coffee date, movie date, netflix and chill, long drive date, candle light dinner
+date, first date, blind date, double date, dinner date, coffee date, movie date, movie and chill, long drive date, candle light dinner
 ## Casual dating
 crush, flirt, hookup, one night stand, friends with benefits, casual dating, fling, summer fling, rebound, situationship talk
 ## Relationship stages
@@ -81,9 +66,6 @@ office, secret relationship, affair, cheating, side chick, two timing
 ## Hindi love words
 pyaar, ishq, mohabbat, dil, dhoka, bewafa
 deewana, aashiq, jaan, jaanu, shona, babu
-## Famous lovers
-majnu, laila, romeo, juliet, heer, ranjha, devdas
-paro, chandramukhi, shirin farhad, sohni mahiwal, raj and simran, rahul and anjali, geet and aditya
 ## Breakup words
 breakup, divorce, separation, heartbreak, ghosted, dumped, rejected
 cheated, betrayed, moving on, closure, block, unfollow, delete photos
@@ -111,7 +93,7 @@ post wedding shoot, wedding anniversary, silver jubilee, golden jubilee, suhagra
 ## Casino games
 casino, poker, blackjack, roulette, slot machine, baccarat
 bingo, teen patti, rummy, andar bahar, satta, matka
-lottery, scratch card, bluff, 29, judgement
+lottery, scratch card, bluff
 ## Betting words
 horse racing, betting, bookie, bet, wager, odds, jackpot
 stake, high roller, all in, fold, bluff, call, raise
@@ -119,9 +101,6 @@ check, ante, blind, pot, chips, dealer, croupier
 ## Playing cards
 ace, king of hearts, queen of hearts, jack, joker, spades
 hearts, clubs, diamonds, trump card, wild card
-## Betting apps
-dream11, mpl, my11circle, rummy circle, winzo, zupee, ludo supreme, fantasy cricket
-fantasy football, betting, 1xbet, bet365, parimatch, satta king, ipl betting, cricket betting
 ## Diwali cards
 diwali cards, diwali taash, taash party, card party, poker night, flush night, rummy night, kitty cards
 ## Money trouble
@@ -140,9 +119,6 @@ lighter, matchbox, ashtray, ash, smoke, puff, drag
 filter, rolling paper, chain smoker, social smoker, passive smoking, quitting, cold turkey
 craving, smoking zone, no smoking, smoke break, sutta, chai sutta, fag
 ciggy, cig, stick, pack, carton
-## Cigarette brands
-gold flake, classic, wills, four square, navy cut, charminar cigarette, red and white, capstan
-marlboro, benson and hedges, camel, dunhill, lucky strike, winston, 555, esse
 ## Kisses and cuddles
 kiss, french kiss, peck, smooch, lip lock, hickey
 love bite, forehead kiss, cheek kiss, make out, cuddle, spoon
@@ -153,7 +129,7 @@ attraction, seduction, flirting, teasing, pick up line, cheesy line, slide into 
 ## Date night
 candle light dinner, rose petals, chocolate, strawberries, wine night, date night
 anniversary night, honeymoon night, valentine's night, late night drive, long drive, hotel room
-oyo, couple friendly, do not disturb, room service, king size bed
+couple friendly, do not disturb, room service, king size bed
 ## Hot words
 sexy, hot, sizzling, bold, steamy, spicy, kinky
 naughty, dirty, wild, frisky, in the mood, turned on, flirty
@@ -175,7 +151,6 @@ rainy day, long walk, late night talk, deep talk, pillow fight, tickle fight, pl
 staring contest, thumb war, arm wrestling, pinky promise, cross my heart, secret handshake, inside joke
 nickname, pet name, love letter, love note, mixtape, playlist, love song
 dedication, serenade, poem, shayari, ghazal, nazm, sher
-
 ## Wedding people
 bride, groom, dulhan, dulha, bridesmaid, best man, flower girl
 pandit, priest, qazi, wedding planner, wedding photographer, baraati, wedding crasher
@@ -199,5 +174,3 @@ dhol, shehnai, band baaja, dj, wedding song, mehendi song, haldi song, baraat so
 ghodi, doli, palki, decorated car, elephant entry, fireworks entry, drone entry, sparkler entry, phoolon ki chadar
 ## Indian art
 madhubani, warli, rangoli, kolam, mehendi, block printing, bandhani, embroidery, origami, calligraphy, graffiti, sculpture
-## Famous Indian ads
-amul butter girl, fevicol ad, nirma girl, vodafone zoozoo, hutch pug, hamara bajaj, mile sur mera tumhara, lifebuoy ad, surf excel ad

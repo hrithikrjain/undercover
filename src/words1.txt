@@ -39,7 +39,7 @@ cheeseburger, veg burger, chicken burger, aloo tikki burger, double patty
 margherita, pepperoni, farmhouse, cheese pizza, paneer pizza, chicken pizza
 ## Pasta and noodles
 pasta, spaghetti, macaroni, lasagna, mac and cheese, white sauce pasta, red sauce pasta
-maggi, cup noodles, ramen, instant noodles, chowmein noodles
+noodles, cup noodles, ramen, instant noodles, chowmein, hakka noodles
 ## Indian sweets (wet)
 gulab jamun, rasgulla, rasmalai, jalebi, kala jamun, malpua, cham cham
 ## Indian sweets (dry)
@@ -55,28 +55,17 @@ cake, pastry, cupcake, brownie, muffin, donut, cheesecake, pie
 chocolate cake, red velvet, black forest, pineapple cake, butterscotch cake, truffle cake
 ## Biscuits
 cookie, biscuit, cracker, wafer, rusk, toast
-## Chocolates
-dairy milk, kitkat, five star, perk, munch, snickers, ferrero rocher, milky bar, silk, gems
-## Candies
-eclairs, melody, kismi, coffee bite, mango bite, pulse
-polo, mentos, alpenliebe, lollipop, candy, toffee
 ## Tea and coffee
 tea, coffee, green tea, black tea, masala chai, hot chocolate, cutting chai, ginger tea, lemon tea
 cappuccino, latte, cold coffee, filter coffee, black coffee, frappe
 ## Milk drinks
 lassi, buttermilk, chaas, milkshake, smoothie, badam milk, thandai, flavoured milk
 ## Lemon drinks
-lemonade, nimbu pani, shikanji, iced tea, jaljeera, aam panna, rooh afza
-## Soft drinks
-coke, pepsi, thums up, sprite, limca, fanta, mirinda, mountain dew, 7up
-## Fruit drinks
-maaza, frooti, slice, real juice, tropicana, appy, paper boat
-## Energy drinks
-red bull, monster, sting, gatorade, glucon d
+lemonade, nimbu pani, shikanji, iced tea, jaljeera, aam panna, rose sharbat
 ## Juices
 coconut water, sugarcane juice, orange juice, apple juice, mango juice, watermelon juice, pineapple juice, mixed fruit juice
 ## Water
-mineral water, soda, bisleri, kinley, aquafina, ice water, tap water, hot water
+mineral water, soda, ice water, tap water, hot water
 ## Fruits (common)
 apple, banana, orange, mango, grapes, papaya, pineapple, guava
 ## Fruits (small)
@@ -119,7 +108,6 @@ tomato soup, sweet corn soup, hot and sour soup, manchow soup, chicken soup, mus
 green salad, fruit salad, caesar salad, russian salad, coleslaw, kachumber
 ## Meals of the day
 breakfast, lunch, dinner, brunch, snack, supper, midnight snack, tiffin
-
 # Animals & Nature
 ## Big cats
 lion, tiger, leopard, cheetah, jaguar, panther
