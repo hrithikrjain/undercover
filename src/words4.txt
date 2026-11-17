@@ -23,7 +23,7 @@ sneeze, cough, yawn, hiccup, burp, snore, sigh, fart
 ## Laughing
 laugh, giggle, smile, grin, smirk, chuckle, lol, rofl
 ## Crying
-cry, sob, weep, tears cry, frown, sulk, whine, pout
+cry, sob, weep, frown, sulk, whine, pout
 ## Walking
 walk, run, jog, sprint, crawl, stroll
 limp, tiptoe, march, skip, hop, jump

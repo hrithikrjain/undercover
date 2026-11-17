@@ -150,7 +150,7 @@ snake, cobra, python, viper, lizard, chameleon, crocodile, alligator
 ## Frogs and fish
 frog, toad, tadpole, fish, shark, whale, dolphin, octopus, jellyfish, starfish
 ## Sea food animals
-crab sea, lobster, prawn sea, squid, oyster, seahorse
+crab, lobster, prawn, squid, oyster, seahorse
 ## Insects
 butterfly, bee, ant, mosquito, housefly, cockroach, grasshopper, ladybug, dragonfly, moth
 spider, scorpion, lizard wall, centipede, earthworm, snail

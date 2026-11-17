@@ -245,7 +245,7 @@ blinkit, zepto, urban company, nobroker
 ather, ola electric, tata ev, nexon ev, tiago ev, punch ev, xuv400, mg zs ev
 tesla, byd, hero electric, okinawa, ampere, revolt, ultraviolette, simple energy
 ## Hotel brands
-taj hotels, oberoi, itc hotels, leela, lemon tree, treebo, fabhotels, oyo rooms
+taj hotels, oberoi, itc hotels, leela, lemon tree, treebo, fabhotels, oyo
 ginger, radisson, novotel, marriott, hilton, hyatt, four seasons, ritz carlton
 jw marriott, westin, sheraton, le meridien, holiday inn, ibis
 ## Travel brands
@@ -255,7 +255,7 @@ thomas cook, sotc, kesari tours, veena world, club mahindra
 ## Toy brands
 lego, hot wheels, barbie, mattel, hasbro, funskool
 nerf, play doh, fisher price, beyblade, pokemon cards, uno
-monopoly, jenga, rubik's brand, hamleys, toys r us
+monopoly, jenga, rubik's cube, hamleys, toys r us
 ## Pen brands
 reynolds, cello, classmate, camlin, apsara, natraj, faber castell
 staedtler, doms, parker, pilot, uni ball, montblanc, cross
@@ -265,6 +265,6 @@ fevistik, 3m, post it, scotch tape, navneet, sundaram, oxford
 indian oil, bharat petroleum, hindustan petroleum, reliance petroleum, nayara, shell, essar oil
 jio bp, castrol, servo, mobil, gulf oil, valvoline, motul
 ## Gym and sports brands
-cult fit brand, gold's gym, anytime fitness, talwalkars, decathlon, healthifyme brand, muscleblaze
+cult fit, gold's gym, anytime fitness, talwalkars, decathlon, healthifyme, muscleblaze
 myprotein, optimum nutrition, nivia, cosco, yonex, li ning, sg
 ss, mrf bat, kookaburra, gray nicolls, gunn and moore
