@@ -1,7 +1,7 @@
 """Build index.html from src/template.html + src/pairs.tsv.
 
-src/pairs.tsv: category <TAB> word a <TAB> word b <TAB> level (1 easy, 2 medium, 3 hard)
-Pairs come from src/score.py (embedding + Damerau-Levenshtein scoring) followed by manual review.
+src/pairs.tsv: category <TAB> word a <TAB> word b <TAB> level (1 easy, 2 medium, 3 hard) [<TAB> reason]
+Pairs are hand-authored to the 70/30 rule (src/merge_pairs.py merges and sanity-checks them).
 """
 import json, sys, collections, io
 DROP = [w.strip().lower() for w in open('src/drop.txt', encoding='utf-8') if w.strip() and not w.startswith('#')]
@@ -10,11 +10,11 @@ for i, ln in enumerate(io.open('src/pairs.tsv', encoding='utf-8'), 1):
     ln = ln.rstrip('\n')
     if not ln.strip() or ln.startswith('#'): continue
     f = ln.split('\t')
-    if len(f) != 4: bad.append(f'line {i}: expected 4 columns: {ln!r}'); continue
+    if len(f) not in (4, 5): bad.append(f'line {i}: expected 4 or 5 columns: {ln!r}'); continue
     cat, a, b, lvl = f[0].strip(), f[1].strip().lower(), f[2].strip().lower(), f[3].strip()
     if lvl not in '123' or not lvl: bad.append(f'line {i}: level must be 1/2/3'); continue
     if a in DROP or b in DROP: bad.append(f'line {i}: dropped word {a!r}/{b!r}'); continue
-    if a == b or a in b or b in a or set(a.split()) & set(b.split()): bad.append(f'line {i}: words too alike {a!r}/{b!r}'); continue
+    if a == b: bad.append(f'line {i}: words identical {a!r}'); continue
     k = (cat, *sorted((a, b)))
     if k in seen: continue
     seen.add(k); pairs.append((cat, a, b, int(lvl)))
