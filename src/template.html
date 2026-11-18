@@ -166,6 +166,7 @@ details p{margin:8px 0 0;font-size:14px;color:var(--mut)}
     <p><b>😇 Civilians</b> all get the same secret word. <b>🕵️ Undercover</b> gets a very similar word. <b>🎭 Mr. White</b> gets no word at all and must bluff.</p>
     <p>Pass the phone around so everyone sees their word in secret. Then, starting from the player shown, each person gives a one-word clue about their word. Discuss, vote, and tap the player you want out.</p>
     <p><b>Winning:</b> Civilians win when every impostor is out. Impostors win when they outnumber the civilians or only one civilian is left. If Mr. White is voted out, they get one guess at the civilians' word to steal the round. Word forms count (care, cares, caring) and one small typo in a long word is forgiven.</p>
+    <p><b>Smart words:</b> every pair is a near-twin with one sharp difference. A word used in a round sits out for the next 20 rounds. In Mixed mode the game goes harder after three quick civilian wins and easier after two impostor wins. With two or more Undercovers, they get two different nearby words so they cannot spot each other.</p>
     <p><b>Points:</b> Civilians win = 2 each (1 if you were voted out). Undercover win = 5. Mr. White guesses right = 10.</p>
   </details>
 </section>
@@ -284,8 +285,8 @@ const pick=a=>a[rnd(a.length)];
 function ls(k,v){try{if(v===undefined)return JSON.parse(localStorage.getItem(k));if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,JSON.stringify(v))}catch(e){return null}}
 const buzz=p=>{try{navigator.vibrate&&navigator.vibrate(p)}catch(e){}};
 // ---- clusters ----
-// P = [[category, "a|b|L;a|b|L;..."], ...]  L: 1 easy, 2 medium, 3 hard (closeness of the pair)
-const CL=[];for(const[cat,s]of P)for(const c of s.split(';')){const[a,b,l]=c.split('|');if(a&&b)CL.push({cat,a,b,lvl:+l})}
+// P = [[category, "a|b|L|c;..."], ...]  L: 1 easy, 2 medium, 3 hard; c = optional third sibling word for a 2nd undercover
+const CL=[];for(const[cat,s]of P)for(const x of s.split(';')){const[a,b,l,c]=x.split('|');if(a&&b)CL.push({cat,a,b,c:c||'',lvl:+l})}
 const CATS=[...new Set(CL.map(c=>c.cat))].filter(c=>c!==AD);
 const LN={easy:1,medium:2,hard:3};const fit=(c,l)=>c.lvl===LN[l];
 // ---- setup ----
@@ -304,22 +305,27 @@ $('#diff').onchange=()=>{cfg.diff=$('#diff').value;ls('uc_cfg',cfg)};
 function show(id){cur=id;$$('.scr').forEach(s=>s.classList.toggle('on',s.id===id));window.scrollTo(0,0);save()}
 function save(){ls('uc_game',G&&cur!=='setup'&&cur!=='final'?{G,cur}:null)}
 // ---- word picking ----
-function pickWords(diff,hist){let lvl=diff;if(diff==='mixed'){const x=rnd(100);lvl=x<25?'easy':x<65?'medium':'hard'}
+const COOL=20; // rounds a word (and every pair touching it) stays out of play after being used
+function pickWords(diff,hist,adapt){let lvl=diff,auto=false;
+ if(diff==='mixed'){const x=rnd(100);if(adapt>0){lvl=x<15?'medium':'hard';auto=true}else if(adapt<0){lvl=x<50?'easy':'medium';auto=true}else lvl=x<25?'easy':x<65?'medium':'hard'}
  const last=hist.slice(-3).map(h=>h.cat);let cat;
  if(hist.length&&hist[hist.length-1].cat!==AD&&CL.some(c=>c.cat===AD)&&rnd(100)<5)cat=AD;
  else{const ok=c=>CL.some(x=>x.cat===c&&fit(x,lvl));let el=CATS.filter(c=>!last.includes(c)&&ok(c));if(!el.length)el=CATS.filter(ok);cat=pick(el.length?el:CATS)}
- const inCat=CL.filter(c=>c.cat===cat);let pool=inCat.filter(c=>fit(c,lvl));if(!pool.length)pool=inCat;
- const mem=new Set(ls('uc_pairs')||[]);let a,b,cl,key;
- for(let t=0;t<40;t++){cl=pick(pool);if(rnd(2)){a=cl.a;b=cl.b}else{a=cl.b;b=cl.a}key=[a,b].sort().join('|');if(!mem.has(key))break}
- ls('uc_pairs',[...mem,key].slice(-3000));
- return{civ:a,uc:b,lvl,cat}}
+ const recent=ls('uc_recent')||[],cool=new Set(recent.flat());const fresh=c=>!cool.has(c.a)&&!cool.has(c.b)&&!(c.c&&cool.has(c.c));
+ const inCat=CL.filter(c=>c.cat===cat);let pool=inCat.filter(c=>fit(c,lvl)&&fresh(c));if(!pool.length)pool=inCat.filter(fresh);if(!pool.length)pool=inCat.filter(c=>fit(c,lvl));if(!pool.length)pool=inCat;
+ const mem=new Set(ls('uc_pairs')||[]);let cl,key,ws;
+ for(let t=0;t<40;t++){cl=pick(pool);ws=shuf(cl.c?[cl.a,cl.b,cl.c]:[cl.a,cl.b]);key=[cl.a,cl.b].sort().join('|');if(!mem.has(key))break}
+ ls('uc_pairs',[...mem,key].slice(-3000));ls('uc_recent',[...recent,[cl.a,cl.b,cl.c].filter(Boolean)].slice(-COOL));
+ return{civ:ws[0],uc:ws[1],uc2:ws[2]||'',lvl,cat,auto}}
 // ---- game ----
 function startGame(){const names=[];for(let i=0;i<cfg.n;i++)names.push((cfg.names[i]||'').trim()||`Player ${i+1}`);
- G={players:names.map(n=>({name:n,score:0})),round:0,hist:[],rounds:cfg.r,u:cfg.u,mw:cfg.mw,diff:cfg.diff};newRound()}
+ G={players:names.map(n=>({name:n,score:0})),round:0,hist:[],rounds:cfg.r,u:cfg.u,mw:cfg.mw,diff:cfg.diff,sc:0,si:0};newRound()}
 function newRound(){G.round++;const n=G.players.length;const roles=Array(n).fill('civ');const idx=shuf([...Array(n).keys()]);let k=0;for(let i=0;i<G.u;i++)roles[idx[k++]]='uc';if(G.mw)roles[idx[k++]]='mw';
- G.roles=roles;G.alive=Array(n).fill(true);G.words=pickWords(G.diff,G.hist);G.hist.push({cat:G.words.cat});G.ri=0;G.sel=-1;G.gain=Array(n).fill(0);G.over=false;G.last=-1;G.starter=-1;reveal()}
+ G.roles=roles;G.alive=Array(n).fill(true);G.words=pickWords(G.diff,G.hist,G.sc>=3?1:G.si>=2?-1:0);G.hist.push({cat:G.words.cat});
+ // triad: with 2+ undercovers, alternate the two undercover words so they cannot spot each other on turn one
+ let j=0;G.ucw=roles.map(r=>r==='uc'?(G.words.uc2&&j++%2?G.words.uc2:G.words.uc):'');G.t0=Date.now();G.ri=0;G.sel=-1;G.gain=Array(n).fill(0);G.over=false;G.last=-1;G.starter=-1;reveal()}
 function reveal(){const p=G.players[G.ri];G.shown=false;show('reveal');$('#rv-round').textContent=`Round ${G.round} / ${G.rounds}`;$('#rv-name').textContent=`Pass the phone to ${p.name}`;$('#rv-word').textContent='Tap to reveal';$('#rv-hint').textContent='Your secret word';$('#rv-next').disabled=true;$('#rv-card').className='card big hid'}
-$('#rv-card').onclick=()=>{if(G.shown)return;G.shown=true;buzz(30);const r=G.roles[G.ri];$('#rv-card').className='card big show';if(r==='mw'){$('#rv-word').textContent='🎭 Mr. White';$('#rv-hint').textContent='No word for you – bluff!'}else{$('#rv-word').textContent=r==='uc'?G.words.uc:G.words.civ;$('#rv-hint').textContent='Remember it, then hide it'}$('#rv-next').disabled=false};
+$('#rv-card').onclick=()=>{if(G.shown)return;G.shown=true;buzz(30);const r=G.roles[G.ri];$('#rv-card').className='card big show';if(r==='mw'){$('#rv-word').textContent='🎭 Mr. White';$('#rv-hint').textContent='No word for you – bluff!'}else{$('#rv-word').textContent=r==='uc'?(G.ucw&&G.ucw[G.ri]||G.words.uc):G.words.civ;$('#rv-hint').textContent='Remember it, then hide it'}$('#rv-next').disabled=false};
 $('#rv-next').onclick=()=>{if(!G.shown)return;G.ri++;if(G.ri<G.players.length)reveal();else{G.starter=-1;vote()}};
 const alive=()=>G.players.map((p,i)=>i).filter(i=>G.alive[i]);
 const av=i=>`<span class="av" style="background:${COL[i%COL.length]}">${esc(G.players[i].name.slice(0,2).toUpperCase())}</span>`;
@@ -352,10 +358,11 @@ function check(){const al=alive(),civ=al.filter(i=>G.roles[i]==='civ').length,im
  if(imp===0){G.players.forEach((p,i)=>{if(G.roles[i]==='civ')G.gain[i]+=G.alive[i]?2:1});fx('civ',true);endRound('civ','😇 Civilians win!')}
  else if(civ<imp||civ<=1){const hasUc=G.roles.some(r=>r==='uc');G.players.forEach((p,i)=>{if(G.roles[i]==='uc')G.gain[i]+=5});fx(hasUc?'uc':'mw',true);endRound(hasUc?'uc':'mws',hasUc?'🕵️ Undercover wins!':'🎭 Mr. White survives and wins! (no points without a guess)')}
  else{G.starter=-1;vote()}}
-function endRound(who,msg){G.over=true;G.who=who;G.msg=msg;G.players.forEach((p,i)=>p.score+=G.gain[i]);renderResult()}
+function endRound(who,msg){G.over=true;G.who=who;G.msg=msg;
+ if(who==='civ'){G.si=0;G.sc=(Date.now()-(G.t0||0))<120000?(G.sc||0)+1:0}else{G.sc=0;G.si=(G.si||0)+1}G.players.forEach((p,i)=>p.score+=G.gain[i]);renderResult()}
 function renderResult(){show('result');$('#rs-round').textContent=`Round ${G.round} / ${G.rounds} · ${G.words.cat}`;$('#rs-win').textContent=G.msg;
  $('#rs-toon').innerHTML=G.who==='uc'?SH('happy'):G.who==='mw'||G.who==='mws'?MJ('happy'):'<div style="font-size:72px;line-height:1">😇🎉</div>';
- $('#rs-civ').textContent=G.words.civ;$('#rs-uc').textContent=G.words.uc;$('#rs-lvl').textContent=LV[G.words.lvl];
+ $('#rs-civ').textContent=G.words.civ;$('#rs-uc').textContent=G.words.uc2&&G.ucw&&G.ucw.includes(G.words.uc2)?G.words.uc+' / '+G.words.uc2:G.words.uc;$('#rs-lvl').textContent=LV[G.words.lvl]+(G.words.auto?' (auto)':'');
  $('#rs-tb').innerHTML=G.players.map((p,i)=>`<tr><td>${esc(p.name)}</td><td class="role ${G.roles[i]}">${RE[G.roles[i]]}</td><td class="r">${G.gain[i]?'+'+G.gain[i]:'–'}</td><td class="r"><b>${p.score}</b></td></tr>`).join('');
  $('#rs-next').textContent=G.round>=G.rounds?'Show leaderboard 🏆':'Next round ▶'}
 $('#rs-next').onclick=()=>{if(G.round>=G.rounds)finalScreen();else newRound()};

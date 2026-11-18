@@ -1,0 +1,1427 @@
+Undercover word pairs (1409 pairs). Format: word A vs word B (Level) [+ third word for a 2nd undercover]
+
+
+## After Dark (108)
+all in vs fold (Medium)
+arranged marriage vs love marriage (Medium)
+ashtray vs lighter (Easy)
+bachelorette vs bachelor party (Medium)
+bad haircut vs bad tattoo (Easy)
+baraat vs bidaai (Medium)
+beedi vs cigarette (Medium) + cigar
+beer pong vs truth or dare (Medium) + never have i ever
+bet vs dare (Easy)
+bidaai vs farewell party (Easy)
+bollywood night vs edm night (Medium)
+bonfire vs barbecue (Medium)
+bottle opener vs corkscrew (Hard)
+boyfriend vs fiance (Medium) + husband
+brass band vs dhol (Medium)
+breakup vs divorce (Medium)
+bride vs bridesmaid (Medium)
+candlelight dinner vs movie date (Easy)
+casino vs lottery (Easy)
+chain smoker vs social smoker (Medium)
+chakna vs starters (Medium)
+cigarette vs cigar (Medium) + beedi
+cocktail vs mocktail (Medium)
+cocktail party vs reception (Medium)
+college fest vs freshers party (Medium) + farewell party
+costume party vs masquerade (Hard)
+court marriage vs destination wedding (Easy)
+crush vs ex (Easy)
+crush vs secret admirer (Medium)
+dance floor vs bar counter (Easy)
+dating app vs matrimony site (Medium)
+dice vs cards (Easy)
+dj night vs live band (Medium)
+drunk texting vs drunk dialing (Hard)
+engagement ring vs wedding ring (Hard)
+farewell party vs reunion (Easy)
+first kiss vs first date (Easy)
+flirting vs teasing (Medium)
+friendzone vs rebound (Medium)
+gatecrasher vs plus one (Medium)
+ghosting vs blocking (Medium)
+ghosting vs left on read (Hard)
+groom vs best man (Medium)
+hangover vs blackout (Medium)
+happy hour vs ladies night (Medium)
+honeymoon vs anniversary (Easy)
+honeymoon vs destination wedding (Medium)
+hookah vs vape (Medium) + cigarette
+hookah lounge vs pub (Medium)
+house party vs pool party (Medium) + rooftop party
+inside joke vs nickname (Easy)
+joker vs ace (Medium) + king
+karaoke vs open mic (Medium)
+kitty party vs sleepover (Easy)
+lehenga vs saree (Medium) + salwar kameez
+lighter vs matchbox (Medium)
+live in vs roommates (Medium)
+long distance vs live in (Easy)
+love letter vs text message (Easy)
+matchmaker vs wingman (Medium)
+mojito vs margarita (Hard)
+movie night vs bonfire (Easy)
+new year's eve vs birthday party (Easy)
+nikah vs pheras (Medium)
+one sided love vs friendzone (Medium)
+paan vs gutka (Medium)
+patch up vs breakup (Easy)
+pickup line vs compliment (Medium)
+poker vs teen patti (Medium) + rummy
+pre party vs after party (Medium)
+proposal vs engagement (Medium)
+pub vs nightclub (Medium)
+reception vs sangeet (Medium) + mehendi
+red flag vs green flag (Easy)
+roka vs engagement (Hard)
+rooftop bar vs beach shack (Medium)
+rooftop party vs beach party (Easy) + pool party
+rummy vs bluff (Medium)
+scratch card vs lottery ticket (Hard)
+shaadi vs sagai (Easy)
+shagun vs return gift (Medium)
+sherwani vs suit (Easy) + kurta pyjama
+shot vs peg (Medium)
+sindoor vs mangalsutra (Medium)
+slot machine vs roulette (Medium)
+slow dance vs bhangra (Easy)
+soft launch vs hard launch (Medium)
+soulmate vs best friend (Medium)
+spin the bottle vs beer pong (Medium) + truth or dare
+splitting the bill vs borrowing money (Easy)
+stalker vs secret admirer (Medium)
+swipe right vs swipe left (Easy)
+teen patti vs rummy (Medium) + poker
+the ick vs the spark (Easy)
+tilak vs sindoor (Medium)
+truth or dare vs never have i ever (Hard) + spin the bottle
+valentine's day vs anniversary (Easy)
+varmala vs pheras (Medium)
+vip lounge vs dance floor (Easy)
+vodka vs gin (Medium) + rum
+wedding card vs save the date (Medium)
+wedding planner vs pandit (Easy)
+whisky vs rum (Medium) + vodka
+widow vs divorcee (Medium)
+wine cellar vs minibar (Easy)
+wine glass vs beer mug (Easy)
+wine tasting vs pub crawl (Easy)
+wingman vs third wheel (Medium)
+
+## Animals & Nature (148)
+alien vs robot (Easy)
+ant vs termite (Medium)
+bamboo vs sugarcane (Medium)
+banyan vs peepal (Hard) + neem
+bat vs owl (Medium)
+bee vs wasp (Medium)
+butterfly vs dragonfly (Medium) + moth
+butterfly vs moth (Medium) + dragonfly
+cactus vs aloe vera (Medium)
+calf vs lamb (Medium) + piglet
+camel vs llama (Medium)
+cat vs dog (Easy)
+caterpillar vs earthworm (Medium)
+centipede vs millipede (Hard)
+chick vs duckling (Medium)
+chicken vs duck (Medium)
+coal vs charcoal (Hard)
+cobra vs python (Medium) + viper
+cobra vs viper (Hard) + python
+cockroach vs beetle (Medium)
+coconut tree vs date palm (Medium)
+comet vs asteroid (Hard) + meteor
+comet vs meteor (Hard) + asteroid
+copper vs bronze (Hard) + brass
+cotton vs wool (Easy) + silk
+cow vs buffalo (Medium)
+crab vs lobster (Medium) + prawn
+crocodile vs alligator (Hard)
+crow vs raven (Hard)
+cuckoo vs nightingale (Hard)
+dawn vs dusk (Medium)
+deer vs antelope (Hard)
+desert vs savanna (Medium)
+dinosaur vs dragon (Easy)
+dog vs wolf (Medium) + fox
+dolphin vs shark (Medium) + whale
+dolphin vs whale (Medium) + shark
+donkey vs mule (Hard)
+drought vs heatwave (Medium)
+duck vs swan (Medium) + goose
+eagle vs hawk (Hard) + falcon
+eagle vs vulture (Medium) + hawk
+earthquake vs landslide (Easy)
+elephant vs rhino (Medium) + hippo
+flamingo vs crane (Medium) + stork
+flood vs tsunami (Medium)
+fog vs smog (Medium)
+forest vs orchard (Easy)
+fox vs jackal (Hard) + wolf
+frog vs toad (Hard)
+frost vs dew (Hard)
+full moon vs new moon (Medium) + crescent moon
+glacier vs iceberg (Hard)
+glass vs plastic (Easy)
+goat vs sheep (Medium)
+gold vs brass (Medium)
+gold vs silver (Medium) + bronze
+gorilla vs chimpanzee (Medium) + orangutan
+grass vs moss (Medium)
+grasshopper vs cricket (Hard)
+hail vs snow (Medium)
+hamster vs guinea pig (Hard)
+hedgehog vs porcupine (Hard)
+hen vs rooster (Medium)
+hippo vs rhino (Medium) + elephant
+horn vs antler (Hard)
+horse vs donkey (Medium) + zebra
+horse vs zebra (Medium) + donkey
+hurricane vs tornado (Hard)
+iron vs steel (Hard)
+island vs peninsula (Medium)
+jellyfish vs octopus (Medium) + starfish
+jellyfish vs starfish (Medium) + octopus
+kangaroo vs koala (Easy)
+kennel vs stable (Medium)
+kitten vs puppy (Medium)
+ladybug vs firefly (Medium)
+lake vs pond (Medium)
+leather vs fur (Medium)
+leopard vs cheetah (Hard) + jaguar
+lion vs tiger (Medium) + leopard
+lotus vs lily (Medium)
+lotus vs water lily (Hard)
+mango tree vs coconut tree (Medium) + banyan tree
+marble vs granite (Hard)
+marigold vs jasmine (Medium) + rose
+mars vs jupiter (Medium) + saturn
+mongoose vs meerkat (Hard)
+mosquito vs housefly (Medium)
+neem vs tulsi (Medium) + peepal
+nest vs hive (Medium) + anthill
+oasis vs island (Medium)
+ocean vs lake (Easy) + river
+octopus vs squid (Hard)
+otter vs beaver (Hard)
+panther vs jaguar (Hard) + leopard
+parrot vs mynah (Medium)
+paw vs hoof (Medium)
+peacock vs ostrich (Easy) + turkey
+peacock vs turkey (Medium)
+pearl vs diamond (Medium) + ruby
+penguin vs ostrich (Medium)
+pigeon vs dove (Medium)
+pine tree vs palm tree (Easy)
+rabbit vs hare (Hard)
+rain vs snow (Easy) + hail
+rainbow vs sunset (Easy)
+rat vs mouse (Medium)
+river vs canal (Medium) + stream
+rose vs sunflower (Easy) + marigold
+rose vs tulip (Medium) + lily
+rubber vs plastic (Medium)
+ruby vs emerald (Medium) + sapphire
+sand vs mud (Medium) + clay
+saturn vs jupiter (Medium) + mars
+seagull vs pelican (Medium)
+seal vs sea lion (Hard)
+seal vs walrus (Medium)
+silk vs cotton (Medium) + wool
+silver vs steel (Medium)
+snail vs slug (Medium)
+solar eclipse vs lunar eclipse (Medium)
+spider vs scorpion (Medium)
+spring vs autumn (Easy) + winter
+squirrel vs chipmunk (Hard)
+stable vs barn (Hard)
+star vs planet (Medium) + moon
+sunflower vs daisy (Medium)
+sunrise vs sunset (Medium)
+swan vs goose (Medium) + duck
+thunder vs lightning (Medium)
+tide vs wave (Medium)
+tornado vs cyclone (Hard)
+turtle vs tortoise (Medium)
+tusk vs horn (Medium) + antler
+unicorn vs pegasus (Medium)
+valley vs canyon (Medium)
+vampire vs zombie (Medium) + werewolf
+waterfall vs fountain (Medium)
+waterfall vs rapids (Hard)
+web vs cocoon (Medium)
+whale vs shark (Medium) + dolphin
+wild boar vs pig (Medium)
+wing vs fin (Easy)
+wolf vs fox (Medium) + jackal
+woodpecker vs kingfisher (Medium)
+yak vs buffalo (Medium)
+zoo vs safari (Medium)
+
+## Food (261)
+aam panna vs mango shake (Medium)
+achar vs chutney (Medium)
+almond vs cashew (Hard) + pistachio
+aloo paratha vs paneer paratha (Medium) + gobi paratha
+aloo tikki vs ragda pattice (Medium)
+apple vs guava (Medium) + pear
+apple vs pear (Hard) + guava
+atta vs maida (Medium) + besan
+bacon vs sausage (Medium)
+badam milk vs haldi doodh (Medium) + rose milk
+bake vs roast (Medium) + grill
+baking soda vs baking powder (Hard)
+banana vs papaya (Easy) + mango
+banana chips vs potato chips (Medium)
+barfi vs peda (Hard) + ladoo
+besan vs atta (Medium) + maida
+besan ladoo vs motichoor ladoo (Hard) + rava ladoo
+bhakri vs thepla (Hard)
+bhel puri vs jhal muri (Hard)
+bhel puri vs sev puri (Medium) + dahi puri
+bhujia vs chivda (Medium)
+bhutta vs popcorn (Medium)
+biryani vs pulao (Medium) + fried rice
+black coffee vs espresso (Hard)
+black tea vs milk tea (Medium) + green tea
+blender vs juicer (Medium) + mixer grinder
+boil vs steam (Medium) + fry
+boiled egg vs fried egg (Medium) + omelette
+bread vs bun (Medium)
+bread pakora vs aloo tikki (Medium)
+breakfast vs brunch (Medium)
+broccoli vs cauliflower (Medium)
+brownie vs chocolate cake (Hard)
+buffet vs picnic (Easy)
+bun vs croissant (Medium)
+bun maska vs bread pakora (Easy)
+burger vs sandwich (Medium) + hot dog
+butter chicken vs chicken tikka masala (Hard)
+cake vs pastry (Medium)
+candy floss vs marshmallow (Medium)
+cappuccino vs hot chocolate (Medium) + latte
+cashew vs peanut (Medium) + almond
+chai vs coffee (Easy)
+chai vs kadha (Medium)
+chakli vs mathri (Hard)
+cheese vs butter (Medium) + cream
+cheesecake vs pudding (Medium)
+chewing gum vs bubble gum (Hard)
+chicken tikka vs tandoori chicken (Hard)
+chikki vs gajak (Hard)
+chilli chicken vs butter chicken (Medium)
+chilli paneer vs manchurian (Medium)
+chips vs popcorn (Medium)
+chocolate vs caramel (Medium)
+chole vs rajma (Hard)
+chole bhature vs chole kulche (Hard)
+chop vs slice (Medium) + grate
+coconut chutney vs green chutney (Medium) + tamarind chutney
+coconut oil vs mustard oil (Medium) + groundnut oil
+coffee vs tea (Easy)
+cookie vs brownie (Medium) + muffin
+cornflakes vs muesli (Medium) + oats
+curd rice vs lemon rice (Medium) + tamarind rice
+curry leaves vs coriander (Medium) + mint
+cutlet vs kebab (Medium)
+cutting chai vs green tea (Easy)
+dahi vs paneer (Medium)
+dal makhani vs dal tadka (Hard) + dal fry
+dalchini vs tej patta (Hard) + laung
+dark chocolate vs milk chocolate (Medium) + white chocolate
+dates vs raisins (Medium) + fig
+deep fry vs shallow fry (Medium)
+dessert vs starter (Easy) + main course
+dhokla vs khandvi (Hard)
+dine in vs takeaway (Medium) + home delivery
+dosa vs appam (Medium) + uttapam
+dosa vs uttapam (Medium) + idli
+dum aloo vs aloo gobi (Medium)
+dumpling vs spring roll (Medium)
+egg curry vs egg bhurji (Medium) + omelette
+egg roll vs kathi roll (Hard)
+elaichi vs laung (Medium) + dalchini
+energy drink vs sports drink (Hard)
+espresso vs cappuccino (Hard) + latte
+falooda vs milkshake (Medium)
+fig vs dates (Hard) + raisins
+filter coffee vs cold coffee (Medium)
+fish curry vs fish fry (Medium)
+french fries vs hash brown (Medium) + potato wedges
+french fries vs potato wedges (Medium) + hash brown
+fried chicken vs chicken nuggets (Medium) + chicken wings
+fried rice vs biryani (Medium) + pulao
+fries vs wedges (Medium)
+fry vs roast (Medium) + boil
+frying pan vs wok (Hard)
+gajar halwa vs moong dal halwa (Hard) + sooji halwa
+garam masala vs chaat masala (Medium)
+ghee vs malai (Medium) + butter
+gola vs kulfi (Medium) + ice cream
+granola vs muesli (Hard)
+grate vs peel (Medium) + chop
+green chutney vs tamarind chutney (Medium) + coconut chutney
+green tea vs black tea (Medium) + lemon tea
+grill vs barbecue (Hard) + roast
+gujiya vs samosa (Medium)
+gulab jamun vs kala jamun (Hard)
+gulab jamun vs rasgulla (Medium) + rasmalai
+gummy bear vs jelly (Medium)
+haldi vs kesar (Easy)
+halwa vs kheer (Medium)
+hing vs haldi (Medium) + jeera
+honey vs maple syrup (Medium)
+hot dog vs burger (Medium) + sandwich
+hyderabadi biryani vs lucknowi biryani (Hard)
+ice cream vs frozen yogurt (Hard) + gelato
+ice cream vs gelato (Hard) + kulfi
+iced tea vs cold coffee (Medium) + lemonade
+idli vs dhokla (Medium)
+jaggery vs sugar (Medium) + honey
+jalebi vs imarti (Hard)
+jaljeera vs aam panna (Medium) + nimbu pani
+jam vs peanut butter (Medium)
+jeera vs saunf (Medium) + ajwain
+jeera rice vs fried rice (Medium) + pulao
+juice vs squash (Medium)
+kachori vs puri (Medium)
+kadhi vs dal (Medium) + sambar
+kaju katli vs chikki (Medium)
+kala namak vs sendha namak (Hard)
+keema vs egg bhurji (Medium) + paneer bhurji
+ketchup vs chilli sauce (Medium) + mayonnaise
+ketchup vs mustard (Medium) + mayonnaise
+kheer vs phirni (Hard)
+kiwi vs guava (Medium)
+knead vs whisk (Easy) + stir
+kofta vs kebab (Medium) + tikka
+korma vs rogan josh (Medium) + butter chicken
+ladoo vs barfi (Medium) + peda
+lassi vs chaas (Medium)
+latte vs mocha (Medium) + cappuccino
+lemonade vs iced tea (Medium) + cold coffee
+litti chokha vs dal baati (Medium)
+lollipop vs toffee (Medium)
+lunch vs dinner (Medium) + breakfast
+macaroni vs penne (Hard) + spaghetti
+malai vs makhan (Hard) + ghee
+malai kofta vs paneer butter masala (Medium) + shahi paneer
+malpua vs jalebi (Medium) + imarti
+manchurian vs kofta (Medium)
+mango vs papaya (Easy)
+mango pickle vs lemon pickle (Medium) + chilli pickle
+marinate vs season (Medium)
+masala chai vs filter coffee (Easy)
+mathri vs nankhatai (Medium)
+mayonnaise vs mustard (Medium) + ketchup
+medu vada vs dahi vada (Medium)
+medu vada vs sabudana vada (Medium)
+microwave vs oven (Medium) + toaster
+milk vs cream (Medium) + curd
+milk chocolate vs white chocolate (Hard) + dark chocolate
+milkshake vs smoothie (Hard) + lassi
+mint vs coriander (Medium) + curry leaves
+mirchi vs kali mirch (Medium)
+mocha vs hot chocolate (Hard) + latte
+modak vs ladoo (Medium) + peda
+momos vs gujiya (Medium)
+muffin vs cupcake (Hard)
+murabba vs jam (Hard)
+mysore pak vs soan papdi (Medium)
+naan vs kulcha (Hard) + roti
+nachos vs potato chips (Medium) + popcorn
+nimbu pani vs coconut water (Easy) + sugarcane juice
+olive oil vs coconut oil (Medium) + mustard oil
+omelette vs scrambled eggs (Hard)
+orange vs lemon (Easy)
+orange juice vs lemonade (Medium)
+paan vs mukhwas (Medium)
+pakora vs cutlet (Medium)
+palak paneer vs paneer butter masala (Medium) + shahi paneer
+pancake vs crepe (Hard)
+pancake vs waffle (Hard) + crepe
+paneer pakora vs paneer tikka (Medium)
+paneer tikka vs paneer bhurji (Medium) + paneer pakora
+pani puri vs dahi puri (Medium) + sev puri
+papad vs khakhra (Hard)
+paratha vs roti (Medium) + naan
+parotta vs paratha (Hard)
+pasta vs noodles (Medium)
+pastry vs puff (Medium)
+pav bhaji vs misal pav (Medium) + vada pav
+pav bhaji vs vada pav (Medium) + misal pav
+peach vs plum (Hard)
+peanut butter vs chocolate spread (Medium) + jam
+pineapple vs jackfruit (Medium)
+pistachio vs peanut (Medium) + cashew
+pizza vs garlic bread (Medium)
+poached egg vs boiled egg (Hard)
+poha vs upma (Hard)
+pongal vs khichdi (Hard)
+prawn vs lobster (Medium) + crab
+protein bar vs chocolate bar (Medium)
+puff vs croissant (Medium)
+pulao vs khichdi (Medium) + biryani
+puran poli vs modak (Medium)
+puri vs bhatura (Hard)
+rabri vs rasmalai (Hard)
+raita vs chaas (Medium) + lassi
+rajma vs dal makhani (Medium) + chole
+rasgulla vs rasmalai (Hard) + gulab jamun
+rava dosa vs masala dosa (Hard) + uttapam
+raw vs ripe (Medium) + rotten
+recipe vs menu (Easy)
+rose milk vs falooda (Medium)
+roti vs naan (Medium) + paratha
+sabudana khichdi vs poha (Medium) + upma
+salad vs soup (Easy)
+salmon vs tuna (Hard)
+salt vs pepper (Medium) + sugar
+salt vs sugar (Medium) + pepper
+sambar vs rasam (Hard)
+samosa vs kachori (Hard)
+sandesh vs peda (Hard) + barfi
+sandwich vs toast (Medium)
+sarson ka saag vs palak paneer (Medium)
+shahi paneer vs kadai paneer (Hard) + paneer butter masala
+shami kebab vs seekh kebab (Hard)
+shrikhand vs mishti doi (Hard)
+simmer vs boil (Hard)
+smoothie vs juice (Medium) + milkshake
+soda vs sparkling water (Hard)
+soup vs stew (Hard)
+sour vs bitter (Medium) + salty
+spaghetti vs macaroni (Medium) + penne
+starter vs side dish (Hard)
+steam vs pressure cook (Medium) + boil
+strawberry vs cherry (Medium)
+sugarcane juice vs coconut water (Easy) + nimbu pani
+suji vs besan (Medium) + maida
+sushi vs spring roll (Medium)
+taco vs burrito (Hard)
+takeaway vs home delivery (Medium) + dine in
+tamarind vs amchur (Hard)
+tandoor vs tawa (Medium) + kadai
+tandoori roti vs rumali roti (Hard)
+tap water vs mineral water (Medium)
+thandai vs badam milk (Hard)
+thepla vs khakhra (Hard)
+tiffin vs thali (Medium)
+toffee vs caramel (Hard)
+tofu vs paneer (Hard)
+turkey vs chicken (Medium) + duck
+upma vs sooji halwa (Medium)
+vada vs bonda (Hard)
+vada pav vs dabeli (Hard)
+vegetarian vs vegan (Hard)
+vinegar vs soy sauce (Medium)
+walnut vs almond (Medium) + cashew
+watermelon vs muskmelon (Hard)
+wrap vs taco (Medium) + burrito
+yeast vs baking powder (Hard) + baking soda
+yogurt vs custard (Medium)
+
+## Mind & Body (129)
+acidity vs gas (Hard)
+alarm vs snooze (Medium)
+algebra vs geometry (Medium) + trigonometry
+allergy vs infection (Medium)
+bald vs grey hair (Medium)
+bandage vs plaster (Hard)
+bath vs shower (Hard)
+beard vs moustache (Medium)
+blackboard vs whiteboard (Hard)
+blood test vs urine test (Medium)
+blush vs goosebumps (Medium)
+board exam vs entrance exam (Medium)
+brushing vs flossing (Medium)
+cardio vs weight lifting (Medium) + yoga
+cavity vs braces (Easy)
+chickenpox vs measles (Hard)
+chin vs cheek (Medium) + forehead
+clap vs snap fingers (Medium)
+comb vs hairbrush (Hard)
+cough vs sore throat (Medium) + cold
+crutches vs wheelchair (Medium) + walking stick
+dandruff vs lice (Medium)
+deadline vs extension (Easy)
+dengue vs malaria (Hard) + chikungunya
+dentist vs eye doctor (Medium)
+detention vs suspension (Medium)
+diabetes vs blood pressure (Medium)
+diet vs fasting (Medium)
+dimple vs freckle (Medium) + mole
+dizziness vs fainting (Medium)
+dumbbell vs barbell (Hard) + kettlebell
+early bird vs night owl (Easy)
+elbow vs knee (Medium)
+eraser vs sharpener (Medium) + ruler
+exam vs quiz (Medium)
+eyebrow vs eyelash (Hard)
+face pack vs face wash (Medium) + scrub
+face wash vs soap (Medium) + body wash
+facial vs cleanup (Hard)
+fever vs cold (Medium) + cough
+fingernail vs toenail (Medium)
+forehead vs scalp (Medium)
+fracture vs sprain (Hard)
+frown vs pout (Medium)
+giggle vs chuckle (Hard)
+group study vs group project (Medium)
+hair dryer vs straightener (Medium) + curler
+hair gel vs hair oil (Medium) + hair spray
+haircut vs shave (Medium) + trim
+heart vs lungs (Medium) + kidney
+hiccup vs burp (Medium) + sneeze
+hiccup vs yawn (Easy) + sneeze
+high five vs fist bump (Hard) + handshake
+history vs geography (Medium) + civics
+hospital vs clinic (Hard)
+hug vs handshake (Medium) + high five
+hungry vs thirsty (Medium) + sleepy
+ice pack vs hot water bag (Medium)
+insomnia vs jet lag (Medium)
+itch vs tickle (Medium)
+jog vs sprint (Medium) + walk
+kajal vs eyeliner (Hard) + mascara
+kidney vs liver (Hard) + lungs
+lipstick vs lip balm (Medium) + lip gloss
+manicure vs pedicure (Hard)
+mascara vs kajal (Medium) + eyeliner
+meditation vs nap (Medium)
+mehendi vs tattoo (Medium)
+mouthwash vs toothpaste (Medium) + toothbrush
+nail polish vs nail cutter (Easy) + nail file
+nod vs shrug (Medium) + wink
+notebook vs textbook (Medium) + diary
+ointment vs lotion (Medium) + cream
+painkiller vs antibiotic (Medium)
+painting vs photograph (Medium) + sketch
+palm vs sole (Hard)
+pencil vs pen (Hard) + marker
+perfume vs deodorant (Hard)
+pharmacy vs clinic (Medium) + hospital
+physics vs chemistry (Medium) + biology
+pimple vs mole (Medium) + freckle
+plank vs sit up (Medium) + push up
+ponytail vs braid (Medium) + bun
+principal vs class teacher (Medium)
+project vs presentation (Medium)
+protein shake vs energy drink (Medium)
+push up vs pull up (Hard) + sit up
+recess vs assembly (Easy)
+report card vs hall ticket (Easy)
+sanitizer vs handwash (Hard) + soap
+scholarship vs fees (Easy)
+school bus vs school van (Hard) + auto
+shampoo vs conditioner (Hard) + hair oil
+shiver vs sweat (Easy)
+six pack vs biceps (Medium)
+skipping vs hula hoop (Medium)
+skull vs spine (Medium) + ribs
+sneeze vs cough (Medium) + hiccup
+snore vs sleep talk (Medium) + sleepwalk
+spectacles vs contact lens (Hard) + sunglasses
+spelling vs grammar (Medium) + vocabulary
+squat vs kneel (Medium)
+squat vs lunge (Hard)
+stare vs glance (Medium) + wink
+stethoscope vs thermometer (Medium) + syringe
+sunscreen vs moisturizer (Hard) + face wash
+tablet vs capsule (Hard) + syrup
+taste vs smell (Medium) + touch
+threading vs waxing (Medium) + shaving
+thumb vs toe (Medium) + finger
+tiptoe vs crawl (Easy)
+tongue vs lips (Medium) + teeth
+toothbrush vs tongue cleaner (Medium) + floss
+treadmill vs cycling (Medium)
+trimmer vs razor (Hard)
+tuition vs school (Medium)
+uniform vs id card (Easy) + tie
+vein vs artery (Hard)
+virus vs bacteria (Hard) + fungus
+vomiting vs loose motion (Medium)
+warm up vs cool down (Hard) + stretching
+whisper vs mumble (Hard)
+whisper vs shout (Easy)
+wink vs blink (Hard)
+wrinkle vs scar (Medium)
+wrist vs ankle (Hard)
+x ray vs ultrasound (Medium) + mri
+yawn vs sigh (Medium)
+yoga vs pilates (Hard) + zumba
+
+## People & Fun (254)
+acrobat vs gymnast (Hard)
+actor vs comedian (Medium) + singer
+actor vs model (Medium) + dancer
+anime vs manga (Hard)
+antakshari vs dumb charades (Medium) + musical chairs
+archery vs darts (Medium) + shooting
+archery vs shooting (Medium) + darts
+architect vs interior designer (Hard) + civil engineer
+astronaut vs pilot (Medium)
+athlete vs coach (Easy) + referee
+audition vs rehearsal (Medium)
+aunt vs mother in law (Medium)
+author vs journalist (Medium) + poet
+author vs poet (Medium) + journalist
+auto driver vs cab driver (Hard) + bus driver
+autograph vs selfie (Medium)
+award show vs fashion show (Medium) + talent show
+baby vs toddler (Hard)
+baby shower vs naming ceremony (Medium)
+bachelor party vs cocktail party (Medium)
+backbencher vs class clown (Hard)
+badminton vs tennis (Medium) + table tennis
+bald vs buzz cut (Hard)
+banker vs broker (Hard) + accountant
+batsman vs bowler (Medium) + wicket keeper
+beatboxing vs rapping (Medium)
+bhangra vs garba (Medium)
+bharatanatyam vs kathak (Hard)
+bindi vs tilak (Hard)
+blockbuster vs flop (Easy)
+bodybuilder vs weightlifter (Hard)
+bollywood vs hollywood (Medium) + tollywood
+bookworm vs movie buff (Medium)
+boss vs client (Medium) + colleague
+boxing vs mma (Hard) + wrestling
+boxing vs wrestling (Medium) + karate
+braid vs dreadlocks (Medium)
+bride vs groom (Medium)
+bridesmaid vs best man (Medium)
+brother in law vs son in law (Hard) + father in law
+cameo vs lead role (Medium) + supporting role
+camping vs hiking (Medium)
+carpenter vs mason (Medium) + plumber
+catch vs stumping (Medium) + run out
+ceo vs manager (Medium)
+cheerleader vs mascot (Medium)
+chef vs baker (Medium)
+chess vs carrom (Medium) + ludo
+chess vs checkers (Hard)
+cinema hall vs theatre (Medium)
+clean shaven vs stubble (Medium)
+coach vs captain (Medium)
+cobbler vs tailor (Medium)
+colleague vs boss (Medium)
+comedian vs mimicry artist (Medium)
+concert vs dj night (Easy)
+corner kick vs throw in (Medium) + goal kick
+cosplay vs fancy dress (Hard)
+couch potato vs gym freak (Easy)
+cousin vs sibling (Medium)
+cricket vs baseball (Easy)
+curly vs wavy (Hard)
+cycling vs jogging (Easy)
+dad joke vs pun (Medium)
+dance battle vs rap battle (Medium)
+dancer vs choreographer (Medium)
+daydreamer vs overthinker (Medium)
+detective vs spy (Medium)
+director vs producer (Medium)
+dj vs radio jockey (Medium)
+dj vs singer (Easy)
+doctor vs nurse (Easy)
+doodling vs sketching (Hard)
+drama queen vs cry baby (Medium)
+dribbling vs passing (Medium) + shooting
+driver vs conductor (Easy)
+drums vs tabla (Easy)
+dubbing vs subtitles (Medium)
+embroidery vs knitting (Medium)
+emoji vs sticker (Medium) + gif
+engineer vs mechanic (Medium)
+extrovert vs show off (Medium)
+fan vs critic (Medium)
+farewell vs reunion (Easy)
+farmer vs gardener (Medium)
+firefighter vs lifeguard (Medium)
+firefighter vs police (Easy)
+fisherman vs hunter (Medium)
+flash mob vs parade (Medium)
+flute vs shehnai (Medium)
+foodie vs chef (Medium)
+football vs rugby (Easy)
+funeral vs memorial (Hard)
+gamer vs streamer (Hard)
+garba vs dandiya (Hard)
+gardening vs farming (Medium)
+genius vs topper (Medium)
+glasses vs contact lens (Medium)
+goalkeeper vs striker (Easy) + defender
+goatee vs stubble (Medium) + moustache
+gold medal vs trophy (Medium)
+graduation vs farewell (Medium)
+guest vs host (Easy)
+guitar vs ukulele (Hard)
+guitar vs violin (Easy)
+guitarist vs drummer (Easy) + pianist
+gymnastics vs ballet (Easy)
+harmonium vs piano (Medium)
+hat trick vs century (Medium)
+header vs volley (Hard)
+hero vs villain (Easy)
+hide and seek vs tag (Easy)
+hide and seek vs treasure hunt (Medium)
+hiking vs climbing (Medium)
+horror vs thriller (Hard)
+house party vs sleepover (Medium)
+humming vs whistling (Medium)
+hurdles vs relay (Medium) + sprint
+husband vs fiance (Medium) + boyfriend
+intern vs fresher (Hard)
+interval vs ad break (Medium)
+item song vs title track (Medium)
+javelin vs shot put (Medium) + discus
+jigsaw vs crossword (Medium) + sudoku
+juggler vs acrobat (Medium) + clown
+junior artist vs hero (Medium)
+kabaddi vs kho kho (Medium)
+karaoke vs lip sync (Easy)
+karate vs judo (Medium) + taekwondo
+karate vs taekwondo (Hard) + judo
+knight vs samurai (Medium)
+knitting vs stitching (Medium) + embroidery
+landlord vs tenant (Easy)
+lawyer vs judge (Easy)
+lbw vs bowled (Medium) + caught
+league vs knockout (Medium)
+live stream vs vlog (Medium)
+long jump vs high jump (Medium)
+ludo vs snakes and ladders (Medium)
+lullaby vs bhajan (Medium)
+magic show vs puppet show (Easy)
+magician vs clown (Easy)
+maid vs cook (Easy)
+makeup vs face paint (Medium)
+man bun vs ponytail (Medium)
+marathon vs sprint (Easy) + relay
+meme vs gif (Medium)
+mime vs clown (Medium)
+mohawk vs undercut (Hard)
+movie vs web series (Easy) + tv serial
+mullet vs mohawk (Medium) + undercut
+musical chairs vs passing the parcel (Medium)
+nephew vs niece (Hard)
+nerd vs topper (Medium)
+new year party vs christmas party (Easy)
+news anchor vs reporter (Medium)
+ninja vs pirate (Easy)
+nose ring vs earring (Medium)
+nurse vs ward boy (Medium)
+offside vs handball (Medium)
+optimist vs pessimist (Easy)
+orchestra vs band (Medium)
+origami vs clay modelling (Medium)
+over vs innings (Medium)
+painter vs illustrator (Medium)
+painter vs sculptor (Easy)
+pandit vs astrologer (Medium)
+penalty vs free kick (Medium) + corner kick
+perfectionist vs workaholic (Medium)
+photographer vs cameraman (Hard)
+photographer vs videographer (Medium)
+photography vs videography (Medium)
+piano vs keyboard (Hard)
+picnic vs potluck (Medium)
+pilot vs air hostess (Easy)
+pirate vs sailor (Medium)
+playlist vs album (Medium)
+plumber vs electrician (Easy) + carpenter
+podcast vs radio (Medium)
+pop vs rock (Medium) + hip hop
+postman vs delivery boy (Medium)
+powerplay vs super over (Hard)
+prank vs surprise party (Medium)
+prankster vs bully (Medium)
+premiere vs red carpet (Hard)
+prequel vs sequel (Medium) + remake
+priest vs monk (Medium)
+psychologist vs psychiatrist (Hard)
+puppet show vs circus (Easy)
+push ups vs pull ups (Medium) + squats
+rangoli vs mehendi (Easy)
+reality show vs game show (Medium)
+remix vs cover (Hard)
+rickshaw puller vs auto driver (Medium)
+roommate vs landlord (Easy)
+roommate vs neighbour (Medium)
+run out vs stumping (Hard) + lbw
+scientist vs professor (Medium)
+security guard vs bouncer (Medium)
+selfie vs portrait (Medium)
+sequel vs remake (Medium) + prequel
+singer vs rapper (Medium)
+singing vs rapping (Medium)
+sitcom vs reality show (Easy)
+six pack vs dad bod (Easy)
+sixer vs four (Medium)
+skating vs skateboarding (Medium)
+skiing vs snowboarding (Medium)
+snooker vs pool (Hard)
+snoring vs sleep talking (Medium)
+soldier vs police (Easy)
+spinner vs fast bowler (Medium)
+spoiler vs plot twist (Medium)
+stamp collecting vs coin collecting (Medium)
+stand up comedy vs mimicry (Medium)
+stepmother vs mother in law (Hard)
+stuntman vs bodyguard (Medium)
+sudoku vs crossword (Hard) + jigsaw
+surfing vs skateboarding (Easy)
+surfing vs skiing (Easy)
+surgeon vs physician (Medium)
+surprise party vs theme party (Medium)
+swimming vs diving (Medium)
+tabla vs dhol (Medium)
+table tennis vs tennis (Medium) + badminton
+tailor vs designer (Medium)
+talk show vs podcast (Medium)
+tambola vs lottery (Medium)
+tattoo vs piercing (Easy)
+teacher vs student (Easy)
+teacher vs tutor (Medium)
+test match vs one day (Medium) + t twenty
+toddler vs teenager (Easy)
+tomboy vs girly girl (Easy)
+trekking vs camping (Medium)
+umpire vs referee (Medium)
+uncle vs father in law (Medium)
+verse vs chorus (Medium)
+vet vs zookeeper (Medium)
+video games vs board games (Easy)
+violin vs sitar (Medium)
+vlog vs reel (Medium)
+volleyball vs basketball (Easy)
+waiter vs bartender (Easy)
+web series vs tv serial (Medium)
+wedding vs birthday (Easy)
+wicket keeper vs goalkeeper (Medium)
+wide vs no ball (Medium)
+wife vs girlfriend (Easy)
+wig vs hair extension (Hard)
+world cup vs olympics (Easy) + asian games
+yellow card vs red card (Medium)
+yorker vs bouncer (Medium) + full toss
+zumba vs aerobics (Hard)
+
+## Places (127)
+airport vs railway station (Easy) + bus stand
+amusement park vs carnival (Medium)
+amusement park vs water park (Medium)
+antarctica vs north pole (Medium)
+aquarium vs pet shop (Easy)
+ashram vs monastery (Hard)
+assembly ground vs playground (Medium)
+attic vs basement (Medium)
+badminton court vs tennis court (Medium)
+bakery vs cafe (Easy)
+bakery vs sweet shop (Medium)
+balcony vs terrace (Medium) + veranda
+bank vs atm (Easy)
+bank vs post office (Medium)
+bar vs club (Medium)
+bazaar vs supermarket (Medium) + mall
+beach vs pool (Easy)
+big ben vs burj khalifa (Easy)
+bowling alley vs gaming zone (Medium)
+boxing ring vs akhara (Medium)
+bungalow vs flat (Easy)
+bus stop vs bus stand (Hard)
+cafe vs restaurant (Medium)
+campsite vs picnic spot (Medium)
+canal vs drain (Medium)
+canteen vs mess (Hard)
+casino vs club (Medium)
+castle vs palace (Medium) + fort
+cave vs mine (Medium)
+cemetery vs cremation ground (Easy)
+charminar vs qutub minar (Medium)
+chemist vs general store (Easy)
+cinema vs theatre (Medium)
+circus vs mela (Medium)
+city vs town (Hard) + village
+classroom vs staff room (Easy)
+cliff vs hill (Medium)
+coaching centre vs school (Medium)
+coral reef vs aquarium (Medium)
+cottage vs hut (Medium)
+court vs jail (Medium)
+courtyard vs garden (Medium)
+day care vs play school (Hard)
+delhi vs mumbai (Easy)
+desert vs beach (Easy)
+dhaba vs restaurant (Medium)
+dubai vs las vegas (Medium)
+eiffel tower vs statue of liberty (Easy)
+factory vs warehouse (Medium)
+foot over bridge vs underpass (Medium)
+fort vs castle (Hard) + palace
+fort vs palace (Medium) + castle
+gateway of india vs india gate (Medium)
+goa vs bali (Medium)
+golden temple vs lotus temple (Medium)
+golf course vs cricket ground (Easy)
+great wall vs pyramids (Easy)
+guest house vs resort (Medium) + hotel
+gym vs swimming pool (Easy)
+gym vs yoga studio (Easy)
+hawa mahal vs taj mahal (Medium)
+highway vs street (Easy)
+hospital vs nursing home (Hard)
+hostel vs hotel (Medium)
+hotel vs resort (Medium) + guest house
+howrah bridge vs sea link (Medium)
+ice cream parlour vs juice shop (Medium)
+jail vs police station (Medium)
+jaipur vs udaipur (Medium) + jodhpur
+jaisalmer vs udaipur (Medium) + jaipur
+kashmir vs switzerland (Medium)
+kerala vs goa (Medium)
+kitchen vs dining room (Easy)
+laboratory vs classroom (Easy)
+ladakh vs kashmir (Medium) + himachal
+laundry vs dry cleaner (Hard)
+level crossing vs flyover (Medium)
+library vs bookshop (Medium)
+liquor shop vs bar (Medium)
+london vs paris (Medium) + rome
+maldives vs andaman (Medium)
+mall vs market (Medium)
+merry go round vs ferris wheel (Medium)
+mosque vs dargah (Hard)
+mount fuji vs everest (Medium)
+mumbai vs new york (Medium)
+mumbai local vs delhi metro (Medium)
+museum vs art gallery (Medium)
+national park vs zoo (Easy)
+nile vs ganga (Medium) + amazon
+office vs factory (Easy)
+orphanage vs old age home (Medium)
+paan shop vs tea stall (Medium)
+paddy field vs wheat field (Hard) + sugarcane field
+paris vs venice (Easy) + rome
+parliament vs court (Medium)
+petrol pump vs garage (Easy)
+photo studio vs xerox shop (Medium)
+playground vs park (Medium)
+police station vs fire station (Easy)
+polling booth vs exam hall (Medium)
+post office vs courier office (Hard)
+poultry farm vs dairy farm (Medium)
+pyramids vs sphinx (Medium)
+railway station vs metro station (Medium)
+ration shop vs kirana store (Hard)
+red fort vs agra fort (Medium)
+roller coaster vs water slide (Easy)
+rome vs venice (Medium) + paris
+salon vs barber shop (Medium)
+spa vs salon (Medium)
+stadium vs ground (Easy)
+statue of unity vs statue of liberty (Medium)
+supermarket vs kirana store (Medium)
+sydney opera house vs colosseum (Easy)
+tailor shop vs boutique (Medium)
+taj mahal vs red fort (Medium)
+tea stall vs coffee shop (Medium)
+temple vs ashram (Medium)
+temple vs gurudwara (Medium) + mosque
+toll plaza vs petrol pump (Easy)
+toy shop vs gift shop (Medium)
+tunnel vs cave (Medium)
+varanasi vs rishikesh (Medium) + haridwar
+vegetable market vs fish market (Medium) + fruit market
+veranda vs balcony (Hard) + terrace
+village vs town (Medium) + city
+
+## Things (274)
+ac vs cooler (Medium) + fan
+aeroplane vs helicopter (Medium)
+agarbatti vs dhoop (Hard)
+air fryer vs microwave (Medium) + oven
+alarm clock vs wall clock (Medium)
+alarm clock vs wristwatch (Easy)
+ambulance vs fire engine (Easy) + police van
+anklet vs toe ring (Medium)
+auto rickshaw vs cycle rickshaw (Medium) + e rickshaw
+badminton racket vs tennis racket (Hard)
+balloon vs bubble (Easy)
+bandana vs headband (Medium)
+bangle vs bracelet (Medium)
+basket vs bag (Easy)
+bat vs racket (Easy) + hockey stick
+bath mat vs doormat (Hard)
+bedsheet vs pillow cover (Medium)
+bedside table vs dining table (Medium) + study table
+bell vs conch (Easy)
+belt vs suspenders (Easy)
+bicycle vs motorbike (Medium) + scooter
+bike vs scooter (Medium) + bicycle
+binoculars vs telescope (Medium)
+blanket vs quilt (Hard)
+board game vs puzzle (Easy) + card game
+book vs magazine (Medium) + newspaper
+bookshelf vs showcase (Medium) + cupboard
+bowl vs plate (Medium) + cup
+briefcase vs laptop bag (Medium)
+broom vs mop (Medium) + vacuum cleaner
+bucket vs tub (Medium) + mug
+bulb vs tube light (Medium)
+bunk bed vs double bed (Medium)
+bus vs taxi (Easy) + auto rickshaw
+calculator vs abacus (Easy)
+candle vs diya (Medium)
+candle vs lamp (Easy) + torch
+cap vs beanie (Medium) + hat
+cap vs hat (Medium) + beanie
+car vs bus (Easy) + van
+carpet vs rug (Hard) + mat
+carrom vs billiards (Medium)
+cash vs cheque (Medium) + card
+cctv vs doorbell (Easy)
+chalk vs duster (Easy)
+chandelier vs lantern (Easy) + lamp
+chappal vs sandals (Hard)
+charger vs power bank (Medium)
+chimney vs exhaust fan (Medium)
+clock vs calendar (Easy)
+clock vs watch (Medium)
+coin vs note (Medium)
+compass vs divider (Hard)
+cot vs cradle (Medium)
+coupon vs gift card (Medium)
+crayon vs marker (Medium) + sketch pen
+cricket ball vs tennis ball (Medium)
+crown vs tiara (Medium)
+cruise ship vs cargo ship (Easy) + ferry
+cup vs bowl (Medium) + plate
+curtain vs blind (Medium)
+debit card vs credit card (Hard)
+detergent vs dish wash (Medium) + hand wash
+dhoti vs lungi (Hard)
+dining table vs study table (Medium) + coffee table
+dishwasher vs washing machine (Easy)
+doll vs teddy bear (Medium) + action figure
+door bolt vs door chain (Medium) + latch
+doorbell vs knocker (Easy)
+doormat vs carpet (Medium) + rug
+download vs upload (Medium)
+drawer vs cabinet (Medium) + shelf
+drawer vs shelf (Medium) + cabinet
+drill vs hammer (Easy) + screwdriver
+duffel bag vs suitcase (Medium) + backpack
+dupatta vs shawl (Medium) + scarf
+duster vs sponge (Easy) + scrubber
+dustpan vs dustbin (Medium)
+earphones vs headphones (Hard) + earbuds
+email vs text message (Medium)
+emergency light vs torch (Medium) + lantern
+envelope vs folder (Easy) + file
+eraser vs whitener (Medium)
+extension board vs plug (Easy) + socket
+fairy lights vs tube light (Easy) + bulb
+fan vs cooler (Medium) + ac
+fence vs gate (Medium) + wall
+flower pot vs watering can (Easy)
+flute vs saxophone (Easy) + trumpet
+football vs basketball (Medium) + volleyball
+football boots vs running shoes (Medium)
+fork vs spoon (Medium) + knife
+fountain pen vs ballpoint (Hard) + gel pen
+frying pan vs tawa (Hard) + kadhai
+garden swing vs hammock (Easy)
+garland vs rangoli (Easy)
+gate vs door (Medium) + window
+glass vs mug (Medium) + cup
+glasses vs goggles (Medium) + sunglasses
+globe vs map (Medium) + atlas
+gloves vs mittens (Hard)
+glue stick vs tape (Medium)
+go kart vs bumper car (Medium)
+goggles vs snorkel (Easy)
+gown vs frock (Medium)
+grater vs sieve (Easy) + peeler
+hair clip vs hair band (Medium) + hairpin
+hammer vs screwdriver (Easy) + pliers
+hand wash vs sanitizer (Medium) + soap
+handbag vs clutch (Medium) + sling bag
+handkerchief vs tissue (Medium) + napkin
+hanger vs clothesline (Easy)
+hanger vs hook (Medium)
+hat vs scarf (Easy)
+hatchback vs sedan (Hard) + suv
+headphones vs earbuds (Hard) + earphones
+heater vs geyser (Medium)
+heels vs flats (Medium)
+hijab vs dupatta (Medium) + shawl
+hockey stick vs golf club (Easy) + cricket bat
+hoodie vs sweater (Medium) + jacket
+hose pipe vs watering can (Medium) + sprinkler
+hot air balloon vs parachute (Easy) + paraglider
+induction stove vs gas stove (Medium)
+inverter vs generator (Medium)
+jacket vs blazer (Medium) + coat
+jar vs bottle (Medium) + jug
+jeans vs shorts (Easy) + track pants
+jet vs glider (Easy) + helicopter
+jigsaw puzzle vs building blocks (Easy)
+jug vs bottle (Medium) + jar
+juicer vs mixer (Medium) + blender
+kalash vs lota (Hard)
+kettle vs teapot (Hard)
+key vs lock (Easy)
+key vs password (Easy)
+keychain vs lanyard (Medium)
+kite vs balloon (Easy)
+knife vs peeler (Medium) + grater
+kurta vs kurti (Hard)
+kurta vs sherwani (Medium)
+ladder vs stool (Easy)
+lamp vs lantern (Medium) + torch
+landline vs mobile (Medium)
+laptop vs desktop (Medium) + tablet
+lawn mower vs sickle (Easy)
+lehenga vs gown (Medium) + saree
+limousine vs taxi (Easy)
+local train vs metro (Hard)
+lock vs latch (Medium) + bolt
+loofah vs sponge (Hard) + scrubber
+lunch box vs casserole (Medium)
+magazine vs newspaper (Medium) + comic
+map vs gps (Easy) + compass
+marbles vs dice (Easy)
+marker vs highlighter (Hard) + sketch pen
+mask vs face shield (Medium)
+mattress vs mat (Easy)
+measuring tape vs ruler (Medium)
+mirror vs window (Medium)
+mixer vs blender (Hard) + juicer
+monitor vs television (Hard)
+mosquito net vs curtain (Easy)
+mug vs cup (Hard) + glass
+nail vs screw (Hard) + bolt
+nail cutter vs scissors (Easy)
+neck pillow vs eye mask (Easy) + earplugs
+night lamp vs table lamp (Hard)
+nightie vs pyjamas (Medium)
+nose ring vs nose pin (Hard)
+notebook vs diary (Hard) + notepad
+padlock vs door lock (Medium) + number lock
+paper clip vs safety pin (Medium)
+parachute vs paraglider (Hard)
+password vs pin (Medium) + otp
+pen drive vs memory card (Hard) + hard disk
+pencil box vs geometry box (Hard)
+phone vs tablet (Medium) + laptop
+photo frame vs painting (Easy) + poster
+piggy bank vs wallet (Easy)
+pillow vs cushion (Hard) + bolster
+plate vs tray (Medium) + bowl
+pliers vs wrench (Medium) + screwdriver
+prayer mat vs yoga mat (Medium)
+pressure cooker vs kadhai (Easy) + tawa
+printer vs scanner (Medium) + photocopier
+projector vs television (Easy) + monitor
+qr code vs barcode (Hard)
+raincoat vs windcheater (Medium) + jacket
+recliner vs armchair (Hard) + rocking chair
+remote vs joystick (Medium)
+remote vs switch (Easy)
+remote car vs drone (Easy)
+rice cooker vs pressure cooker (Medium)
+ring vs bangle (Easy) + earring
+rocking chair vs swing (Medium)
+rope vs cable (Medium) + chain
+rope vs wire (Medium) + chain
+ruler vs protractor (Medium) + compass
+salwar vs palazzo (Medium) + churidar
+saw vs axe (Medium)
+school bag vs laptop bag (Medium) + gym bag
+scissors vs knife (Medium) + cutter
+scooter vs motorcycle (Medium) + bicycle
+screenshot vs photo (Medium)
+scrubber vs brush (Medium) + sponge
+sharpener vs cutter (Easy)
+shelf vs rack (Hard)
+shoes vs socks (Easy)
+shorts vs boxers (Medium)
+shower vs tap (Medium)
+showpiece vs toy (Easy)
+skateboard vs roller skates (Medium)
+sketch pen vs crayon (Medium) + marker
+skipping rope vs hula hoop (Easy)
+skirt vs frock (Medium) + gown
+sling bag vs backpack (Medium) + handbag
+smartwatch vs fitness band (Hard)
+sneakers vs boots (Easy) + sandals
+sneakers vs loafers (Medium) + boots
+soap vs shampoo (Medium) + face wash
+socks vs stockings (Medium)
+sofa vs armchair (Medium) + bean bag
+spade vs rake (Medium)
+speaker vs headphone (Medium)
+speedboat vs sailboat (Easy) + yacht
+spinning top vs yo yo (Medium) + marbles
+spoon vs ladle (Medium) + fork
+sprinkler vs hose pipe (Medium) + watering can
+stapler vs punching machine (Medium)
+steel plate vs paper plate (Medium)
+sticky note vs bookmark (Easy)
+stool vs chair (Medium) + bench
+stove vs chulha (Medium)
+submarine vs ship (Easy)
+suitcase vs trunk (Medium) + duffel bag
+surfboard vs skateboard (Easy) + snowboard
+sweater vs cardigan (Hard) + hoodie
+switch vs plug (Easy) + socket
+table fan vs ceiling fan (Hard) + exhaust fan
+tablecloth vs bedsheet (Medium) + curtain
+tape vs glue (Medium)
+tent vs sleeping bag (Easy)
+toaster vs sandwich maker (Medium)
+toilet paper vs tissue (Hard) + wet wipes
+tongs vs spatula (Medium) + ladle
+towel vs bathrobe (Medium)
+towel vs napkin (Medium) + handkerchief
+tractor vs bulldozer (Easy) + crane
+train vs metro (Medium) + tram
+treadmill vs exercise bike (Medium)
+trophy vs medal (Medium) + certificate
+truck vs tempo (Medium) + van
+tulsi plant vs money plant (Medium) + aloe vera
+turban vs topi (Medium)
+tv vs projector (Easy) + monitor
+umbrella vs raincoat (Medium)
+uniform vs costume (Easy)
+vacuum cleaner vs broom (Medium) + mop
+vase vs flower pot (Hard)
+walkie talkie vs mobile phone (Easy) + landline
+wallpaper vs paint (Medium)
+washbasin vs sink (Hard)
+watch vs fitness band (Medium) + smartwatch
+water bottle vs flask (Medium) + sipper
+website vs app (Medium)
+western toilet vs indian toilet (Medium)
+whisk vs spatula (Medium) + ladle
+whistle vs stopwatch (Easy)
+wifi vs bluetooth (Medium) + hotspot
+wind chime vs bell (Medium)
+window vs door (Medium) + gate
+wiper vs mop (Medium) + broom
+wristwatch vs wall clock (Medium) + alarm clock
+
+## World & Culture (108)
+aadhaar vs pan card (Medium) + voter id
+aarti vs namaz (Medium)
+amazon vs nile (Easy)
+army vs navy (Medium) + air force
+ballot vs evm (Medium)
+baptism vs mundan (Medium)
+baraat vs doli (Medium)
+bhajan vs qawwali (Medium) + ghazal
+big ben vs eiffel tower (Easy) + statue of liberty
+border vs coast (Easy)
+bribe vs tip (Medium)
+bunker vs trench (Medium)
+cash vs card (Medium) + upi
+ceasefire vs peace treaty (Medium)
+census vs election (Easy)
+chai break vs lunch break (Medium)
+chief minister vs prime minister (Medium) + president
+christmas eve vs new year's eve (Medium)
+citizen vs tourist (Easy) + immigrant
+collector vs commissioner (Medium)
+commentator vs umpire (Easy) + coach
+cremation vs burial (Medium)
+crown vs turban (Easy)
+dargah vs church (Easy) + gurudwara
+dead sea vs arabian sea (Easy)
+discount vs cashback (Medium) + coupon
+diwali vs dussehra (Easy) + holi
+driving licence vs voter id (Medium) + passport
+dussehra vs ram navami (Medium) + diwali
+eid vs christmas (Easy) + diwali
+everest vs kanchenjunga (Medium)
+fasting vs feasting (Easy)
+firecracker vs sparkler (Medium)
+flag vs banner (Medium) + poster
+ganesh vs hanuman (Easy) + krishna
+ganesh chaturthi vs onam (Easy) + pongal
+ganga vs yamuna (Hard) + brahmaputra
+golden temple vs tirupati (Medium) + vaishno devi
+good morning message vs good night message (Medium)
+gurudwara vs mosque (Easy) + temple
+halloween vs carnival (Easy)
+hat trick vs maiden over (Medium) + century
+hawa mahal vs mysore palace (Medium)
+himalayas vs alps (Easy)
+holi vs lohri (Easy) + pongal
+horoscope vs tarot (Medium) + palm reading
+idol vs statue (Medium)
+incense vs camphor (Medium) + diya
+independence day vs republic day (Hard) + gandhi jayanti
+india vs pakistan (Easy) + bangladesh
+ipl vs world cup (Medium) + asia cup
+janmashtami vs ganesh chaturthi (Medium) + navratri
+jet lag vs layover (Easy)
+judge vs referee (Easy) + umpire
+jugaad vs shortcut (Medium)
+kumbh mela vs haj (Medium)
+lohri vs pongal (Medium) + makar sankranti
+mantra vs slogan (Medium)
+mayor vs governor (Medium) + chief minister
+missile vs rocket (Hard)
+monk vs sadhu (Hard)
+mother's day vs women's day (Medium)
+mp vs mla (Hard)
+national anthem vs national song (Hard)
+national flag vs national emblem (Medium) + national anthem
+navratri vs durga puja (Hard) + dussehra
+new year vs diwali (Easy) + christmas
+nobel prize vs bharat ratna (Medium)
+north pole vs south pole (Medium)
+onam vs baisakhi (Medium) + pongal
+oscar vs grammy (Medium)
+padma shri vs bharat ratna (Medium) + padma bhushan
+param vir chakra vs arjuna award (Easy) + bharat ratna
+parliament vs assembly (Medium)
+passport vs visa (Hard)
+pilgrimage vs vacation (Easy) + picnic
+pistol vs rifle (Medium) + shotgun
+power cut vs water cut (Medium)
+prasad vs langar (Medium)
+prayer vs meditation (Medium)
+president vs dictator (Easy) + king
+prime minister vs president (Medium) + chief minister
+qutub minar vs india gate (Easy) + red fort
+raksha bandhan vs bhai dooj (Hard)
+raksha bandhan vs karwa chauth (Easy) + bhai dooj
+ramayana vs mahabharata (Medium)
+refugee vs immigrant (Medium)
+road trip vs bike trip (Medium) + trek
+rupee vs dollar (Easy) + euro
+sahara vs thar (Medium)
+salary vs pocket money (Easy) + pension
+scholarship vs loan (Easy)
+shield vs armour (Easy) + helmet
+six vs four (Medium)
+spear vs trident (Medium)
+super over vs free hit (Easy) + powerplay
+supreme court vs high court (Hard) + district court
+sword vs dagger (Medium) + spear
+tank vs cannon (Medium)
+tax vs fine (Medium) + toll
+test match vs t20 (Medium) + one day
+ticket vs boarding pass (Medium)
+valentine's day vs friendship day (Easy)
+vatican vs mecca (Medium)
+veda vs gita (Medium)
+wimbledon vs french open (Medium) + us open
+window seat vs aisle seat (Medium) + middle seat
+zodiac vs palm reading (Medium) + tarot
