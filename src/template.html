@@ -153,6 +153,7 @@ details p{margin:8px 0 0;font-size:14px;color:var(--mut)}
     <div class="row"><label>👥 Players</label><div class="step"><button data-k="n" data-d="-1">−</button><span id="vn">6</span><button data-k="n" data-d="1">+</button></div></div>
     <div class="row"><label>🕵️ Undercover</label><div class="step"><button data-k="u" data-d="-1">−</button><span id="vu">1</span><button data-k="u" data-d="1">+</button></div></div>
     <div class="row"><label>🎭 Mr. White</label><button id="mw" class="sw on"></button></div>
+    <div class="row" id="splitrow"><label>🔀 Split Undercover words<br><span class="small">each Undercover gets a different nearby word</span></label><button id="split" class="sw"></button></div>
     <div class="row"><label>🔁 Rounds</label><div class="step"><button data-k="r" data-d="-1">−</button><span id="vr">5</span><button data-k="r" data-d="1">+</button></div></div>
     <div class="row"><label>🎚️ Difficulty</label><select id="diff"><option value="mixed">Mixed</option><option value="easy">😌 Easy</option><option value="medium">🙂 Medium</option><option value="hard">🔥 Hard</option></select></div>
   </div>
@@ -166,7 +167,7 @@ details p{margin:8px 0 0;font-size:14px;color:var(--mut)}
     <p><b>😇 Civilians</b> all get the same secret word. <b>🕵️ Undercover</b> gets a very similar word. <b>🎭 Mr. White</b> gets no word at all and must bluff.</p>
     <p>Pass the phone around so everyone sees their word in secret. Then, starting from the player shown, each person gives a one-word clue about their word. Discuss, vote, and tap the player you want out.</p>
     <p><b>Winning:</b> Civilians win when every impostor is out. Impostors win when they outnumber the civilians or only one civilian is left. If Mr. White is voted out, they get one guess at the civilians' word to steal the round. Word forms count (care, cares, caring) and one small typo in a long word is forgiven.</p>
-    <p><b>Smart words:</b> every pair is a near-twin with one sharp difference. A word used in a round sits out for the next 20 rounds. In Mixed mode the game goes harder after three quick civilian wins and easier after two impostor wins. With two or more Undercovers, they get two different nearby words so they cannot spot each other.</p>
+    <p><b>Smart words:</b> every pair is a near-twin with one sharp difference. A word used in a round sits out for the next 20 rounds. In Mixed mode the game goes harder after three quick civilian wins and easier after two impostor wins. All Undercovers share one word unless you switch on <b>Split Undercover words</b>, which gives each of them a different nearby word so they cannot spot each other.</p>
     <p><b>Points:</b> Civilians win = 2 each (1 if you were voted out). Undercover win = 5. Mr. White guesses right = 10.</p>
   </details>
 </section>
@@ -290,17 +291,18 @@ const CL=[];for(const[cat,s]of P)for(const x of s.split(';')){const[a,b,l,c]=x.s
 const CATS=[...new Set(CL.map(c=>c.cat))].filter(c=>c!==AD);
 const LN={easy:1,medium:2,hard:3};const fit=(c,l)=>c.lvl===LN[l];
 // ---- setup ----
-const cfg=Object.assign({n:6,u:1,mw:1,r:5,diff:'mixed',names:[]},ls('uc_cfg')||{});
+const cfg=Object.assign({n:6,u:1,mw:1,r:5,diff:'mixed',split:0,names:[]},ls('uc_cfg')||{});
 let G=null,cur='setup';
 const cap=n=>Math.floor((n-1)/2);
 function suggest(n){cfg.mw=n>=5?1:0;cfg.u=n<=6?1:n<=8?2:n<=10?3:4;clamp()}
 function clamp(){const mx=cap(cfg.n),mn=cfg.mw?0:1;cfg.u=Math.min(Math.max(mn,cfg.u),Math.max(mn,mx-cfg.mw));if(cfg.u+cfg.mw>mx){cfg.mw=0;cfg.u=Math.min(Math.max(1,cfg.u),mx)}}
-function drawSetup(){$('#vn').textContent=cfg.n;$('#vu').textContent=cfg.u;$('#vr').textContent=cfg.r;$('#mw').classList.toggle('on',!!cfg.mw);$('#diff').value=cfg.diff;
+function drawSetup(){$('#vn').textContent=cfg.n;$('#vu').textContent=cfg.u;$('#vr').textContent=cfg.r;$('#mw').classList.toggle('on',!!cfg.mw);$('#split').classList.toggle('on',!!cfg.split);$('#splitrow').style.display=cfg.u>=2?'':'none';$('#diff').value=cfg.diff;
  const civ=cfg.n-cfg.u-cfg.mw;$('#capnote').textContent=`😇 ${civ} civilians · 🕵️ ${cfg.u} undercover${cfg.mw?' · 🎭 1 Mr. White':''}`;
  const box=$('#names');box.innerHTML='';for(let i=0;i<cfg.n;i++){const inp=document.createElement('input');inp.type='text';inp.placeholder=`Player ${i+1}`;inp.value=cfg.names[i]||'';inp.maxLength=16;inp.oninput=()=>{cfg.names[i]=inp.value;ls('uc_cfg',cfg)};box.appendChild(inp)}
  ls('uc_cfg',cfg)}
 $$('.step button').forEach(b=>b.onclick=()=>{const k=b.dataset.k,d=+b.dataset.d;if(k==='n'){cfg.n=Math.min(12,Math.max(3,cfg.n+d));suggest(cfg.n)}if(k==='u')cfg.u+=d;if(k==='r')cfg.r=Math.min(15,Math.max(1,cfg.r+d));clamp();drawSetup()});
 $('#mw').onclick=()=>{cfg.mw=cfg.mw?0:1;clamp();drawSetup()};
+$('#split').onclick=()=>{cfg.split=cfg.split?0:1;drawSetup()};
 $('#diff').onchange=()=>{cfg.diff=$('#diff').value;ls('uc_cfg',cfg)};
 function show(id){cur=id;$$('.scr').forEach(s=>s.classList.toggle('on',s.id===id));window.scrollTo(0,0);save()}
 function save(){ls('uc_game',G&&cur!=='setup'&&cur!=='final'?{G,cur}:null)}
@@ -319,11 +321,11 @@ function pickWords(diff,hist,adapt){let lvl=diff,auto=false;
  return{civ:ws[0],uc:ws[1],uc2:ws[2]||'',lvl,cat,auto}}
 // ---- game ----
 function startGame(){const names=[];for(let i=0;i<cfg.n;i++)names.push((cfg.names[i]||'').trim()||`Player ${i+1}`);
- G={players:names.map(n=>({name:n,score:0})),round:0,hist:[],rounds:cfg.r,u:cfg.u,mw:cfg.mw,diff:cfg.diff,sc:0,si:0};newRound()}
+ G={players:names.map(n=>({name:n,score:0})),round:0,hist:[],rounds:cfg.r,u:cfg.u,mw:cfg.mw,diff:cfg.diff,split:cfg.split,sc:0,si:0};newRound()}
 function newRound(){G.round++;const n=G.players.length;const roles=Array(n).fill('civ');const idx=shuf([...Array(n).keys()]);let k=0;for(let i=0;i<G.u;i++)roles[idx[k++]]='uc';if(G.mw)roles[idx[k++]]='mw';
  G.roles=roles;G.alive=Array(n).fill(true);G.words=pickWords(G.diff,G.hist,G.sc>=3?1:G.si>=2?-1:0);G.hist.push({cat:G.words.cat});
  // triad: with 2+ undercovers, alternate the two undercover words so they cannot spot each other on turn one
- let j=0;G.ucw=roles.map(r=>r==='uc'?(G.words.uc2&&j++%2?G.words.uc2:G.words.uc):'');G.t0=Date.now();G.ri=0;G.sel=-1;G.gain=Array(n).fill(0);G.over=false;G.last=-1;G.starter=-1;reveal()}
+ let j=0;G.ucw=roles.map(r=>r==='uc'?(G.split&&G.words.uc2&&j++%2?G.words.uc2:G.words.uc):'');G.t0=Date.now();G.ri=0;G.sel=-1;G.gain=Array(n).fill(0);G.over=false;G.last=-1;G.starter=-1;reveal()}
 function reveal(){const p=G.players[G.ri];G.shown=false;show('reveal');$('#rv-round').textContent=`Round ${G.round} / ${G.rounds}`;$('#rv-name').textContent=`Pass the phone to ${p.name}`;$('#rv-word').textContent='Tap to reveal';$('#rv-hint').textContent='Your secret word';$('#rv-next').disabled=true;$('#rv-card').className='card big hid'}
 $('#rv-card').onclick=()=>{if(G.shown)return;G.shown=true;buzz(30);const r=G.roles[G.ri];$('#rv-card').className='card big show';if(r==='mw'){$('#rv-word').textContent='🎭 Mr. White';$('#rv-hint').textContent='No word for you – bluff!'}else{$('#rv-word').textContent=r==='uc'?(G.ucw&&G.ucw[G.ri]||G.words.uc):G.words.civ;$('#rv-hint').textContent='Remember it, then hide it'}$('#rv-next').disabled=false};
 $('#rv-next').onclick=()=>{if(!G.shown)return;G.ri++;if(G.ri<G.players.length)reveal();else{G.starter=-1;vote()}};
